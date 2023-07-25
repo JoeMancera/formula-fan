@@ -7,7 +7,11 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "scrape": "node --no-warnings scraping/index.js",
+    "lint": "eslint . --ext .js,.astro,.ts,.tsx",
+    "lint:fix": "npm run lint -- --fix",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@astrojs/tailwind": "^4.0.0",
