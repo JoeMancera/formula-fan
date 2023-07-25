@@ -5,12 +5,11 @@ import { scrapeAndSave, SCRAPINGS } from './utils.js'
 const scrapeParameter = process.argv.at(-1)
 
 if (SCRAPINGS[scrapeParameter]) {
-  await scrapeAndSave(scrapeParameter)
+	await scrapeAndSave(scrapeParameter)
 } else {
-  logInfo('Scraping all data...')
+	logInfo('Scraping all data...')
 
-  for (const infoToScrape of Object.keys(SCRAPINGS)) {
-    await scrapeAndSave(infoToScrape)
-  }
-
+	for (const infoToScrape of Object.keys(SCRAPINGS)) {
+		await scrapeAndSave(infoToScrape)
+	}
 }

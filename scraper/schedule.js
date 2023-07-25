@@ -1,19 +1,18 @@
 const SELECTORS = {
   nameGP: 'h2.f1--s',
   raceTime: '.row .js-race',
-  raceTime: '.row .js-race',
   qualyTime: '.row .js-qualifying',
   practice3Time: '.row .js-practice-3',
   practice2Time: '.row .js-practice-2',
   practice1Time: '.row .js-practice-1',
   sprintTime: '.row .js-sprint',
-  sprintShootoutTime: '.row .js-sprint-shootout',
+  sprintShootoutTime: '.row .js-sprint-shootout'
 }
 
 const DATA_ATTRIBUTES = {
   startTime: 'start-time',
   endTime: 'end-time',
-  gmtOffset: 'gmt-offset',
+  gmtOffset: 'gmt-offset'
 }
 
 export async function getEventSchedule($, url, nameCircuit) {
@@ -32,7 +31,7 @@ export async function getEventSchedule($, url, nameCircuit) {
   schedule.push({
     name: nameGP,
     circuitId: nameCircuit,
-    url: url,
+    url,
     state: new Date(`${raceTime}${gtmOffset}`) > new Date() ? 'schedule' : 'finished',
     dates: {
       practice1: new Date(`${practice1Time}${gtmOffset}`),
@@ -41,7 +40,7 @@ export async function getEventSchedule($, url, nameCircuit) {
       qualifying: new Date(`${qualifyingTime}${gtmOffset}`),
       race: new Date(`${raceTime}${gtmOffset}`),
       sprint: sprintTime && new Date(`${sprintTime}${gtmOffset}`),
-      sprintShootout: sprintShootoutTime && new Date(`${sprintShootoutTime}${gtmOffset}`),
+      sprintShootout: sprintShootoutTime && new Date(`${sprintShootoutTime}${gtmOffset}`)
     }
   })
   return schedule
