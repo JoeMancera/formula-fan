@@ -13,6 +13,35 @@
     "@astrojs/tailwind": "^4.0.0",
     "@fontsource/space-grotesk": "^5.0.5",
     "astro": "^2.9.2",
-    "tailwindcss": "^3.0.24"
+    "tailwindcss": "^3.0.24",
+    "husky": "8.0.3",
+    "picocolors": "1.0.0",
+    "hono": "3.3.3",
+    "cheerio": "1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@astrojs/sitemap": "2.0.1",
+    "@typescript-eslint/parser": "6.2.0",
+    "@vitest/coverage-c8": "0.33.0",
+    "@vitest/ui": "0.33.0",
+    "astro-critters": "1.1.39",
+    "eslint": "8.45.0",
+    "eslint-config-standard": "17.1.0",
+    "eslint-plugin-astro": "0.27.2",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-n": "16.0.1",
+    "eslint-plugin-promise": "6.1.1",
+    "prettier": "3.0.0",
+    "prettier-plugin-astro": "0.11.0",
+    "sharp": "0.32.4",
+    "vite": "4.4.7",
+    "vitest": "0.33.0",
+    "wrangler": "3.3.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run format && npm run lint:fix",
+      "pre-push": "npm test"
+    }
   }
 }
