@@ -1,0 +1,299 @@
+[
+  {
+    "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023",
+    "circuitId": "Bahrain",
+    "url": "https://www.formula1.com/en/racing/2023/Bahrain.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-03-03T11:30:00.000Z",
+      "practice2": "2023-03-03T15:00:00.000Z",
+      "practice3": "2023-03-04T11:30:00.000Z",
+      "qualifying": "2023-03-04T15:00:00.000Z",
+      "race": "2023-03-05T15:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023",
+    "circuitId": "Saudi_Arabia",
+    "url": "https://www.formula1.com/en/racing/2023/Saudi_Arabia.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-03-17T13:30:00.000Z",
+      "practice2": "2023-03-17T17:00:00.000Z",
+      "practice3": "2023-03-18T13:30:00.000Z",
+      "qualifying": "2023-03-18T17:00:00.000Z",
+      "race": "2023-03-19T17:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023",
+    "circuitId": "Australia",
+    "url": "https://www.formula1.com/en/racing/2023/Australia.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-03-31T02:30:00.000Z",
+      "practice2": "2023-03-31T06:00:00.000Z",
+      "practice3": "2023-04-01T02:30:00.000Z",
+      "qualifying": "2023-04-01T06:00:00.000Z",
+      "race": "2023-04-02T05:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 AZERBAIJAN GRAND PRIX 2023",
+    "circuitId": "Azerbaijan",
+    "url": "https://www.formula1.com/en/racing/2023/Azerbaijan.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-04-28T09:30:00.000Z",
+      "qualifying": "2023-04-28T13:00:00.000Z",
+      "race": "2023-04-30T11:00:00.000Z",
+      "sprint": "2023-04-29T13:30:00.000Z",
+      "sprintShootout": "2023-04-29T08:30:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023",
+    "circuitId": "Miami",
+    "url": "https://www.formula1.com/en/racing/2023/Miami.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-05-05T18:00:00.000Z",
+      "practice2": "2023-05-05T21:30:00.000Z",
+      "practice3": "2023-05-06T16:30:00.000Z",
+      "qualifying": "2023-05-06T20:00:00.000Z",
+      "race": "2023-05-07T19:30:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 QATAR AIRWAYS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2023",
+    "circuitId": "EmiliaRomagna",
+    "url": "https://www.formula1.com/en/racing/2023/EmiliaRomagna.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null
+    }
+  },
+  {
+    "name": "FORMULA 1 GRAND PRIX DE MONACO 2023",
+    "circuitId": "Monaco",
+    "url": "https://www.formula1.com/en/racing/2023/Monaco.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-05-26T11:30:00.000Z",
+      "practice2": "2023-05-26T15:00:00.000Z",
+      "practice3": "2023-05-27T10:30:00.000Z",
+      "qualifying": "2023-05-27T14:00:00.000Z",
+      "race": "2023-05-28T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023",
+    "circuitId": "Spain",
+    "url": "https://www.formula1.com/en/racing/2023/Spain.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-06-02T11:30:00.000Z",
+      "practice2": "2023-06-02T15:00:00.000Z",
+      "practice3": "2023-06-03T10:30:00.000Z",
+      "qualifying": "2023-06-03T14:00:00.000Z",
+      "race": "2023-06-04T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023",
+    "circuitId": "Canada",
+    "url": "https://www.formula1.com/en/racing/2023/Canada.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-06-16T17:30:00.000Z",
+      "practice2": "2023-06-16T20:30:00.000Z",
+      "practice3": "2023-06-17T16:30:00.000Z",
+      "qualifying": "2023-06-17T20:00:00.000Z",
+      "race": "2023-06-18T18:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023",
+    "circuitId": "Austria",
+    "url": "https://www.formula1.com/en/racing/2023/Austria.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-06-30T11:30:00.000Z",
+      "qualifying": "2023-06-30T15:00:00.000Z",
+      "race": "2023-07-02T13:00:00.000Z",
+      "sprint": "2023-07-01T14:30:00.000Z",
+      "sprintShootout": "2023-07-01T10:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023",
+    "circuitId": "Great_Britain",
+    "url": "https://www.formula1.com/en/racing/2023/Great_Britain.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-07-07T11:30:00.000Z",
+      "practice2": "2023-07-07T15:00:00.000Z",
+      "practice3": "2023-07-08T10:30:00.000Z",
+      "qualifying": "2023-07-08T14:00:00.000Z",
+      "race": "2023-07-09T14:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023",
+    "circuitId": "Hungary",
+    "url": "https://www.formula1.com/en/racing/2023/Hungary.html",
+    "state": "finished",
+    "dates": {
+      "practice1": "2023-07-21T11:30:00.000Z",
+      "practice2": "2023-07-21T15:00:00.000Z",
+      "practice3": "2023-07-22T10:30:00.000Z",
+      "qualifying": "2023-07-22T14:00:00.000Z",
+      "race": "2023-07-23T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023",
+    "circuitId": "Belgium",
+    "url": "https://www.formula1.com/en/racing/2023/Belgium.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-07-28T11:30:00.000Z",
+      "qualifying": "2023-07-28T15:00:00.000Z",
+      "race": "2023-07-30T13:00:00.000Z",
+      "sprint": "2023-07-29T14:30:00.000Z",
+      "sprintShootout": "2023-07-29T10:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023",
+    "circuitId": "Netherlands",
+    "url": "https://www.formula1.com/en/racing/2023/Netherlands.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-08-25T10:30:00.000Z",
+      "practice2": "2023-08-25T14:00:00.000Z",
+      "practice3": "2023-08-26T09:30:00.000Z",
+      "qualifying": "2023-08-26T13:00:00.000Z",
+      "race": "2023-08-27T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 ",
+    "circuitId": "Italy",
+    "url": "https://www.formula1.com/en/racing/2023/Italy.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-09-01T11:30:00.000Z",
+      "practice2": "2023-09-01T15:00:00.000Z",
+      "practice3": "2023-09-02T10:30:00.000Z",
+      "qualifying": "2023-09-02T14:00:00.000Z",
+      "race": "2023-09-03T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023 ",
+    "circuitId": "Singapore",
+    "url": "https://www.formula1.com/en/racing/2023/Singapore.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-09-15T09:30:00.000Z",
+      "practice2": "2023-09-15T13:00:00.000Z",
+      "practice3": "2023-09-16T09:30:00.000Z",
+      "qualifying": "2023-09-16T13:00:00.000Z",
+      "race": "2023-09-17T12:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023 ",
+    "circuitId": "Japan",
+    "url": "https://www.formula1.com/en/racing/2023/Japan.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-09-22T02:30:00.000Z",
+      "practice2": "2023-09-22T06:00:00.000Z",
+      "practice3": "2023-09-23T02:30:00.000Z",
+      "qualifying": "2023-09-23T06:00:00.000Z",
+      "race": "2023-09-24T05:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023",
+    "circuitId": "Qatar",
+    "url": "https://www.formula1.com/en/racing/2023/Qatar.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-10-06T13:30:00.000Z",
+      "qualifying": "2023-10-06T17:00:00.000Z",
+      "race": "2023-10-08T17:00:00.000Z",
+      "sprint": "2023-10-07T17:30:00.000Z",
+      "sprintShootout": "2023-10-07T13:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023",
+    "circuitId": "United_States",
+    "url": "https://www.formula1.com/en/racing/2023/United_States.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-10-20T17:30:00.000Z",
+      "qualifying": "2023-10-20T21:00:00.000Z",
+      "race": "2023-10-22T19:00:00.000Z",
+      "sprint": "2023-10-21T22:00:00.000Z",
+      "sprintShootout": "2023-10-21T17:30:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023",
+    "circuitId": "Mexico",
+    "url": "https://www.formula1.com/en/racing/2023/Mexico.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-10-27T18:30:00.000Z",
+      "practice2": "2023-10-27T22:00:00.000Z",
+      "practice3": "2023-10-28T17:30:00.000Z",
+      "qualifying": "2023-10-28T21:00:00.000Z",
+      "race": "2023-10-29T20:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023",
+    "circuitId": "Brazil",
+    "url": "https://www.formula1.com/en/racing/2023/Brazil.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-11-03T14:30:00.000Z",
+      "qualifying": "2023-11-03T18:00:00.000Z",
+      "race": "2023-11-05T17:00:00.000Z",
+      "sprint": "2023-11-04T18:30:00.000Z",
+      "sprintShootout": "2023-11-04T14:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023",
+    "circuitId": "Las_Vegas",
+    "url": "https://www.formula1.com/en/racing/2023/Las_Vegas.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-11-17T04:30:00.000Z",
+      "practice2": "2023-11-17T08:00:00.000Z",
+      "practice3": "2023-11-18T04:30:00.000Z",
+      "qualifying": "2023-11-18T08:00:00.000Z",
+      "race": "2023-11-19T06:00:00.000Z"
+    }
+  },
+  {
+    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 ",
+    "circuitId": "United_Arab_Emirates",
+    "url": "https://www.formula1.com/en/racing/2023/United_Arab_Emirates.html",
+    "state": "schedule",
+    "dates": {
+      "practice1": "2023-11-24T09:30:00.000Z",
+      "practice2": "2023-11-24T13:00:00.000Z",
+      "practice3": "2023-11-25T10:30:00.000Z",
+      "qualifying": "2023-11-25T14:00:00.000Z",
+      "race": "2023-11-26T13:00:00.000Z"
+    }
+  }
+]

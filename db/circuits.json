@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Formula 1 Gulf Air Bahrain Grand Prix 2023",
+    "circuitId": "bahrain",
+    "circuitNameUrl": "Bahrain"
+  },
+  {
+    "id": 2,
+    "name": "Formula 1 Saudi Arabian Grand Prix 2023",
+    "circuitId": "jeddah",
+    "circuitNameUrl": "Saudi_Arabia"
+  },
+  {
+    "id": 3,
+    "name": "Formula 1 Rolex Australian Grand Prix 2023",
+    "circuitId": "melbourne",
+    "circuitNameUrl": "Australia"
+  },
+  {
+    "id": 4,
+    "name": "Formula 1 Azeribaijan Grand Prix 2023",
+    "circuitId": "baku",
+    "circuitNameUrl": "Azerbaijan"
+  },
+  {
+    "id": 5,
+    "name": "Autódromo Internacional de Miami",
+    "circuitId": "miami",
+    "circuitNameUrl": "Miami"
+  },
+  {
+    "id": 6,
+    "name": "Formula 1 Pirelli Gran Premio Del Made In Italy E Dell'emilia Romagna 2023",
+    "circuitId": "imola",
+    "circuitNameUrl": "EmiliaRomagna"
+  },
+  {
+    "id": 7,
+    "name": "Formula 1 Grand Prix de Monaco 2023",
+    "circuitId": "monaco",
+    "circuitNameUrl": "Monaco"
+  },
+  {
+    "id": 8,
+    "name": "Formula 1 Aramco Gran Premio De España 2023",
+    "circuitId": "barcelona",
+    "circuitNameUrl": "Spain"
+  },
+  {
+    "id": 9,
+    "name": "Formula 1 Heineken Grand Prix Du Canada 2023",
+    "circuitId": "montreal",
+    "circuitNameUrl": "Canada"
+  },
+  {
+    "id": 10,
+    "name": "Formula 1 myWorld Grosser Preis Von Österreich 2023",
+    "circuitId": "red-bull-ring",
+    "circuitNameUrl": "Austria"
+  },
+  {
+    "id": 11,
+    "name": "Formula 1 Pirelli British Grand Prix 2023",
+    "circuitId": "silverstone",
+    "circuitNameUrl": "Great_Britain"
+  },
+  {
+    "id": 12,
+    "name": "Formula 1 Magyar Nagydíj 2023",
+    "circuitId": "hungaroring",
+    "circuitNameUrl": "Hungary"
+  },
+  {
+    "id": 13,
+    "name": "Formula 1 Rolex Belgian Grand Prix 2023",
+    "circuitId": "spa-francorchamps",
+    "circuitNameUrl": "Belgium"
+  },
+  {
+    "id": 14,
+    "name": "Formula 1 Heineken Dutch Grand Prix 2023",
+    "circuitId": "zandvoort",
+    "circuitNameUrl": "Netherlands"
+  },
+  {
+    "id": 15,
+    "name": "Formula 1 Gran Premio Heineken d'italia 2023",
+    "circuitId": "monza",
+    "circuitNameUrl": "Italy"
+  },
+  {
+    "id": 16,
+    "name": "Formula 1 Singapore Airlines Singapore Grand Prix 2023",
+    "circuitId": "singapore",
+    "circuitNameUrl": "Singapore"
+  },
+  {
+    "id": 17,
+    "name": "Formula 1 Japanese Grand Prix 2023",
+    "circuitId": "suzuka",
+    "circuitNameUrl": "Japan"
+  },
+  {
+    "id": 18,
+    "name": "Formula 1 Ooredoo Qatar Grand Prix 2023",
+    "circuitId": "losail",
+    "circuitNameUrl": "Qatar"
+  },
+  {
+    "id": 19,
+    "name": "Formula 1 Aramco United States Grand Prix 2023",
+    "circuitId": "austin",
+    "circuitNameUrl": "United_States"
+  },
+  {
+    "id": 20,
+    "name": "Formula 1 Gran Premio de la Ciudad de México 2023",
+    "circuitId": "mexico-city",
+    "circuitNameUrl": "Mexico"
+  },
+  {
+    "id": 21,
+    "name": "Formula 1 Heineken Grande Prêmio do Brasil 2023",
+    "circuitId": "interlagos",
+    "circuitNameUrl": "Brazil"
+  },
+  {
+    "id": 22,
+    "name": "Formula 1 Heineken Silver Las Vegas Grand Prix 2023",
+    "circuitId": "las-vegas",
+    "circuitNameUrl": "Las_Vegas"
+  },
+  {
+    "id": 23,
+    "name": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023",
+    "circuitId": "yas-marina",
+    "circuitNameUrl": "United_Arab_Emirates"
+  }
+]
