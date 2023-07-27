@@ -1,7 +1,6 @@
 import { State } from '../../../types/common'
 
-// New API routing API
-// Docs: https://nextjs.org/docs/app/building-your-application/routing/router-handlers
+// Reference: https://www.youtube.com/watch?v=IgX3s36dvDk
 export async function get() {
   return { body: JSON.stringify(
     {
