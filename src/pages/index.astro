@@ -1,11 +1,16 @@
 ---
 import Layout from '../layouts/Layout.astro'
 import Header from '../components/Header.astro'
+import RaceCard from '../components/race-card/index.astro'
+import { getNextEvent } from '../../utils/schedule';
+
+const nextEvent = await getNextEvent()
 ---
 
 <Layout title="Welcome to Astro.">
   <Header />
-  <main>
+  <main class="flex min-h-screen flex-col items-center gap-4">
     <h1 class="text-3xl uppercase">Welcome to the Formula Fan Page</h1>
+    <RaceCard nextEvent={nextEvent} />
   </main>
 </Layout>
