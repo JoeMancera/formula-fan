@@ -9,8 +9,6 @@
     "preview": "astro preview",
     "astro": "astro",
     "scrape": "node --no-warnings scraper/index.js",
-    "dev:api": "wrangler dev api/index.js",
-    "publish:api": "wrangler publish api/index.js",
     "lint": "eslint . --ext .js,.astro,.ts,.tsx",
     "lint:fix": "npm run lint -- --fix",
     "format": "prettier --write ."
@@ -42,8 +40,7 @@
     "prettier-plugin-astro": "0.11.0",
     "sharp": "0.32.4",
     "vite": "4.4.7",
-    "vitest": "0.33.0",
-    "wrangler": "3.3.0"
+    "vitest": "0.33.0"
   },
   "husky": {
     "hooks": {
