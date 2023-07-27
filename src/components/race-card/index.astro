@@ -23,13 +23,13 @@ const dayEnd = getDayNumberFromDate({date: nextEvent.dates.race })
     </span>
   </h2>
   <ul class="flex flex-col gap-2 my-5 w-72">
-    <EventDateItem nameSession="Practice 1" date={nextEvent.dates.practice1} />
-    {nextEvent.dates.practice2 && <EventDateItem nameSession="Practice 2" date={nextEvent.dates.practice2} />}
-    {nextEvent.dates.practice3 && <EventDateItem nameSession="Practice 3" date={nextEvent.dates.practice3} />}
-    <EventDateItem nameSession="Qualifying" date={nextEvent.dates.qualifying} />
-    {nextEvent.dates.sprintShootout && <EventDateItem nameSession="Sprint Shootout" date={nextEvent.dates.sprintShootout} />}
-    {nextEvent.dates.sprint && <EventDateItem nameSession="Sprint" date={nextEvent.dates.sprint} />}
-    <EventDateItem nameSession="Race" date={nextEvent.dates.race} />
+    <EventDateItem client:visible nameSession="Practice 1" date={nextEvent.dates.practice1} />
+    {nextEvent.dates.practice2 && <EventDateItem client:visible nameSession="Practice 2" date={nextEvent.dates.practice2} />}
+    {nextEvent.dates.practice3 && <EventDateItem client:visible nameSession="Practice 3" date={nextEvent.dates.practice3} />}
+    <EventDateItem client:visible nameSession="Qualifying" date={nextEvent.dates.qualifying} />
+    {nextEvent.dates.sprintShootout && <EventDateItem client:visible nameSession="Sprint Shootout" date={nextEvent.dates.sprintShootout} />}
+    {nextEvent.dates.sprint && <EventDateItem client:visible nameSession="Sprint" date={nextEvent.dates.sprint} />}
+    <EventDateItem client:visible nameSession="Race" date={nextEvent.dates.race} />
   </ul>
   <a target="_blank" class="bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black" href={nextEvent?.url} >Go to the full Schedule</a>
 </article>
