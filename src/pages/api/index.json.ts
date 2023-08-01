@@ -1,5 +1,3 @@
-import { State } from '../../../types/common'
-
 // Reference: https://www.youtube.com/watch?v=IgX3s36dvDk
 export async function get() {
   return { body: JSON.stringify(
@@ -10,7 +8,7 @@ export async function get() {
           name: 'Calendar',
           endpoint: '/api/calendar',
           description: 'Returns the calendar for the current season',
-          state: State.IN_PROGRESS,
+          state: 'in progress',
         }
       ]
     }
