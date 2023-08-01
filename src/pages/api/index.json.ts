@@ -6,7 +6,7 @@ export async function get() {
       endpoints: [
         {
           name: 'Calendar',
-          endpoint: '/api/calendar',
+          endpoint: '/api/calendar.json',
           description: 'Returns the calendar for the current season',
           state: 'in progress',
         }
