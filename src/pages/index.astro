@@ -1,16 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro'
 import Header from '../components/Header.astro'
-import RaceCard from '../components/race-card/index.astro'
-import { getNextEvent } from '../../utils/schedule';
+import { RaceCard } from '../components/race-card'
+import { getNextEvent } from '../../utils/schedule'
 
 const nextEvent = await getNextEvent()
 ---
 
-<Layout title="Welcome to Astro.">
-  <Header />
-  <main class="flex min-h-screen flex-col items-center gap-4">
-    <h1 class="text-3xl uppercase pt-5">Welcome to the Formula Fan Page</h1>
-    <RaceCard nextEvent={nextEvent} />
-  </main>
+<Layout title='Welcome to Astro.'>
+	<Header />
+	<main class='flex min-h-screen flex-col items-center gap-4'>
+		<h1 class='text-3xl uppercase pt-5'>Welcome to the Formula Fan Page</h1>
+		<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
+		<RaceCard client:visible nextEvent={nextEvent} />
+	</main>
 </Layout>
