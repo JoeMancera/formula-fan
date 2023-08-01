@@ -10,7 +10,7 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event}) => {
   const dayEnd = getDayNumberFromDate({date: nextEvent.dates.race })
 
   return (
-    <article className="flex flex-col gap-2 bg-gray w-[359px] rounded-2xl px-4 py-4 text-green shadow-black-xl">
+    <article className="flex flex-col gap-2 bg-gray w-[320px] rounded-2xl px-4 py-4 text-green shadow-black-xl">
         <span className="uppercase font-bold text-white text-xs md:text-base">Next Race:</span>
         <h2 className="flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase">
           <span>{nextEvent?.name}</span>
