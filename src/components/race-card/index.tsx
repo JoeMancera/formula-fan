@@ -1,6 +1,6 @@
 import { EventDateItem } from './event-date-item'
 import { getMonthFromDate, getDayNumberFromDate } from '../../../utils/date'
-import { Event } from '../../../types/calendar'
+import type { Event } from '../../../types/calendar'
 
 export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 	if (!nextEvent) return null
