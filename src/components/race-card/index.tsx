@@ -10,15 +10,15 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 	const dayEnd = getDayNumberFromDate({ date: nextEvent.dates.race })
 
 	return (
-		<article className='flex flex-col gap-2 bg-gray w-[320px] rounded-2xl px-4 py-4 text-green shadow-black-xl'>
+		<article className='flex flex-col gap-2 bg-gray max-w-sm rounded-2xl px-4 py-4 text-green shadow-black'>
 			<span className='uppercase font-bold text-white text-xs md:text-base'>Next Race:</span>
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
-				<span>{nextEvent?.name}</span>
+				<span className='text-balance'>{nextEvent?.name}</span>
 				<span className='bg-green text-black px-2 py-1 text-sm md:text-xl font-light w-max border-orange border-2 rounded-md'>
 					{month} {dayInit} - {dayEnd}
 				</span>
 			</h2>
-			<ul className='flex flex-col gap-2 my-5 w-72'>
+			<ul className='flex flex-col gap-2 my-5'>
 				<EventDateItem nameSession='Practice 1' date={nextEvent.dates.practice1} />
 				{nextEvent.dates.practice2 && (
 					<EventDateItem nameSession='Practice 2' date={nextEvent.dates.practice2} />
