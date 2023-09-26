@@ -1,5 +1,5 @@
 // Reference: https://www.youtube.com/watch?v=IgX3s36dvDk
-export async function get() {
+export async function Get() {
   return { body: JSON.stringify(
     {
       description: 'This is the API for formula fan. Here you can find all the data like calendar, drivers, teams, etc.',
