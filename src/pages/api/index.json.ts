@@ -1,5 +1,5 @@
 // Reference: https://www.youtube.com/watch?v=IgX3s36dvDk
-export async function Get() {
+export async function GET() {
 	return {
 		body: JSON.stringify({
 			description:

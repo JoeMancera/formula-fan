@@ -1,6 +1,6 @@
 import { readDBFile } from '../../../../db'
 
-export async function Get() {
+export async function GET() {
 	const scheduleEvents = await readDBFile('schedule')
 	const year = new Date().getFullYear()
 
