@@ -1,21 +1,11 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": [
-        "./src/*"
-      ],
-      "@db/*": [
-        "./db/*"
-      ],
-      "@components/*": [
-        "./src/components/*"
-      ],
-      "@customTypes/*": [
-        "./types/*"
-      ],
-      "@utils/*": [
-        "./utils/*"
-      ]
+      "@/*": ["./src/*"],
+      "@db/*": ["./db/*"],
+      "@components/*": ["./src/components/*"],
+      "@customTypes/*": ["./types/*"],
+      "@utils/*": ["./utils/*"]
     },
     "jsx": "react-jsx",
     "jsxImportSource": "preact"

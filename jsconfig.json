@@ -6,7 +6,7 @@
       "@db/*": ["./db/*"],
       "@components/*": ["./src/components/*"],
       "@customTypes/*": ["./types/*"],
-      "@utils/*": ["./utils/*"],
+      "@utils/*": ["./utils/*"]
     }
   }
 }
