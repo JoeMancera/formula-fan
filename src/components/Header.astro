@@ -1,6 +1,27 @@
-<header class='hidden md:flex items-center justify-between text-link border-b-2 border-blac'>
-	<nav class='p-6 border-l-2 border-black'>
-		<ul class='flex items-center justify-around'>
+<header
+	class='md:static flex flex-row-reverse md:flex-row items-center justify-between text-link w-full py-4 px-6'
+>
+	<button class='md:hidden' id='btn-menu-open'>
+		<img class='h-9 w-9' src='/menu-icon.svg' alt='FormulaFan Logo' />
+	</button>
+	<nav
+		class='absolute hidden md:flex flex-col items-center text-3xl font-semibold w-full h-full bg-lemon md:bg-transparent md:text-lemon md:w-min md:font-light md:text-base z-10 md:static p-6 top-0 left-0 text-purple'
+	>
+		<button class='md:hidden stroke-black self-end' id='btn-menu-close'>
+			<svg
+				width='32'
+				height='32'
+				viewBox='0 0 32 32'
+				fill='none'
+				xmlns='http://www.w3.org/2000/svg'
+			>
+				<line x1='6.58579' y1='25.2635' x2='24.2635' y2='7.58579' stroke-width='4'></line>
+				<line x1='7.41421' y1='7.58579' x2='25.0919' y2='25.2635' stroke-width='4'></line>
+			</svg>
+		</button>
+		<ul
+			class='flex flex-col md:flex-row items-center justify-center md:justify-around h-full gap-5'
+		>
 			<li class='mr-6'>
 				<a class='hover:opacity-75' href='/calendar'>Calendar</a>
 			</li>
@@ -15,9 +36,19 @@
 			</li>
 		</ul>
 	</nav>
-	<a class='p-6 border-l-2 border-r-2 border-black' href='/'>FormulaFan Logo</a>
-	<a
-		class='hover:opacity-75 p-6 border-r-2 border-black'
-		href='https://github.com/JoeMancera/formula-fan'>GitHub Project</a
-	>
+	<a href='/'>FormulaFan Logo</a>
+	<a class='hover:opacity-75' href='https://github.com/JoeMancera/formula-fan'>GitHub Project</a>
 </header>
+<script>
+	const btnMenuOpen = document.getElementById('btn-menu-open')
+	const btnMenuClose = document.getElementById('btn-menu-close')
+	const nav = document.querySelector('nav')
+
+	btnMenuOpen.addEventListener('click', () => {
+		nav.classList.toggle('hidden')
+	})
+
+	btnMenuClose.addEventListener('click', () => {
+		nav.classList.toggle('hidden')
+	})
+</script>
