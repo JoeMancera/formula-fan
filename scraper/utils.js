@@ -4,11 +4,16 @@ import fetch from 'node-fetch'
 import { writeDBFile, readDBFile } from '../db/index.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { getEventSchedule } from './schedule.js'
+import { getChampionship } from './championship.js'
 
 export const SCRAPINGS = {
 	schedule: {
 		url: 'https://www.formula1.com/en/racing',
 		scraper: getEventSchedule
+	},
+	championship: {
+		url: 'https://www.formula1.com/en/drivers.html',
+		scraper: getChampionship
 	}
 }
 
@@ -45,6 +50,7 @@ export async function scrapeAndSave(name) {
 		logInfo(`[${name}] scraped in ${time} seconds`)
 	}
 }
+
 async function urlToContent(url, scraper, name) {
 	if (name === 'schedule') {
 		// get all circuits from db/circuits.json
@@ -57,7 +63,7 @@ async function urlToContent(url, scraper, name) {
 		}))
 
 		const contents = await Promise.all(
-			urls.map(({ url, name }, index) => urlToContent(url, scraper, name))
+			urls.map(({ url, name }) => urlToContent(url, scraper, name))
 		)
 
 		return contents.flat()

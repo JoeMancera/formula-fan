@@ -9,7 +9,13 @@ export async function GET() {
 					name: 'Calendar',
 					endpoint: '/api/calendar.json',
 					description: 'Returns the calendar for the current season',
-					state: 'in progress'
+					state: 'Done'
+				},
+				{
+					name: 'Chapionship Standings',
+					endpoint: '/api/championship.json',
+					description: 'Returns the championship standings for the current season',
+					state: 'Done'
 				}
 			]
 		})
