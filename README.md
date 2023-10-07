@@ -16,6 +16,6 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run astro -- --help` | Get help using the Astro CLI                     |
 | `pnpm run scrape`          | Scrape data from formula one website             |
 
-## 👀 Want to learn more?
+## 👀 Design
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Figma file: [Formula-fan design](https://www.figma.com/file/t44yhzKrFpf6vMWSXpLKNM/FormulaFan?type=design&node-id=1%3A4&mode=design&t=pQNUXbjs8odIdX7O-1)
