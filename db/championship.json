@@ -4,7 +4,7 @@
     "lastName": "Verstappen",
     "url": "/en/drivers/max-verstappen.html",
     "team": "Red Bull Racing",
-    "points": "407",
+    "points": "433",
     "rank": "1"
   },
   {
@@ -12,7 +12,7 @@
     "lastName": "Perez",
     "url": "/en/drivers/sergio-perez.html",
     "team": "Red Bull Racing",
-    "points": "223",
+    "points": "224",
     "rank": "2"
   },
   {
@@ -28,7 +28,7 @@
     "lastName": "Alonso",
     "url": "/en/drivers/fernando-alonso.html",
     "team": "Aston Martin",
-    "points": "175",
+    "points": "183",
     "rank": "4"
   },
   {
@@ -44,7 +44,7 @@
     "lastName": "Leclerc",
     "url": "/en/drivers/charles-leclerc.html",
     "team": "Ferrari",
-    "points": "135",
+    "points": "145",
     "rank": "6"
   },
   {
@@ -52,7 +52,7 @@
     "lastName": "Norris",
     "url": "/en/drivers/lando-norris.html",
     "team": "McLaren",
-    "points": "121",
+    "points": "136",
     "rank": "7"
   },
   {
@@ -60,7 +60,7 @@
     "lastName": "Russell",
     "url": "/en/drivers/george-russell.html",
     "team": "Mercedes",
-    "points": "120",
+    "points": "132",
     "rank": "8"
   },
   {
@@ -68,7 +68,7 @@
     "lastName": "Piastri",
     "url": "/en/drivers/oscar-piastri.html",
     "team": "McLaren",
-    "points": "65",
+    "points": "83",
     "rank": "9"
   },
   {
@@ -92,7 +92,7 @@
     "lastName": "Ocon",
     "url": "/en/drivers/esteban-ocon.html",
     "team": "Alpine",
-    "points": "38",
+    "points": "44",
     "rank": "12"
   },
   {
@@ -104,19 +104,19 @@
     "rank": "13"
   },
   {
+    "firstName": "Valtteri",
+    "lastName": "Bottas",
+    "url": "/en/drivers/valtteri-bottas.html",
+    "team": "Alfa Romeo",
+    "points": "10",
+    "rank": "14"
+  },
+  {
     "firstName": "Nico",
     "lastName": "Hulkenberg",
     "url": "/en/drivers/nico-hulkenberg.html",
     "team": "Haas F1 Team",
     "points": "9",
-    "rank": "14"
-  },
-  {
-    "firstName": "Valtteri",
-    "lastName": "Bottas",
-    "url": "/en/drivers/valtteri-bottas.html",
-    "team": "Alfa Romeo",
-    "points": "6",
     "rank": "15"
   },
   {
@@ -124,7 +124,7 @@
     "lastName": "Zhou",
     "url": "/en/drivers/guanyu-zhou.html",
     "team": "Alfa Romeo",
-    "points": "4",
+    "points": "6",
     "rank": "16"
   },
   {

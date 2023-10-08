@@ -222,7 +222,7 @@
     "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023",
     "circuitId": "Qatar",
     "url": "https://www.formula1.com/en/racing/2023/Qatar.html",
-    "state": "schedule",
+    "state": "finished",
     "dates": {
       "practice1": "2023-10-06T13:30:00.000Z",
       "qualifying": "2023-10-06T17:00:00.000Z",
