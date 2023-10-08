@@ -26,6 +26,7 @@ jobs:
           run_install: true
       - run: |
           pnpm run scrape
-          git config user.name formula-fan-bot
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Formula Fan database"
           git push origin main
