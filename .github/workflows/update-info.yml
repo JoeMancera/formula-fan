@@ -1,0 +1,31 @@
+name: Scrape Formula One Website Data
+
+on:
+  workflow_dispatch:
+
+  repository_dispatch:
+    types:
+      - webhook
+
+  schedule:
+    - cron: '0 21 * * 6'
+    - cron: '0 21 * * 0'
+    - cron: '0 21 * * 1'
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7.18.2
+          run_install: true
+      - run: |
+          pnpm run scrape
+          git config user.name formula-fan-bot
+          git diff --quiet && git diff --staged --quiet || git commit -am "[bot] update Formula Fan database"
+          git push origin main
