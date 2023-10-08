@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro'
 import Header from '../components/Header.astro'
 import { RaceCard } from '../components/race-card'
 import { getNextEvent } from '../../utils/schedule'
+import StandingsCard from '../components/standings-card/index.astro'
 
 const nextEvent = await getNextEvent()
 ---
@@ -15,5 +16,6 @@ const nextEvent = await getNextEvent()
 		</h1>
 		<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
 		<RaceCard client:load nextEvent={nextEvent} />
+		<StandingsCard />
 	</main>
 </Layout>

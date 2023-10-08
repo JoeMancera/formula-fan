@@ -1,5 +1,5 @@
 import { readDBFile } from '../db'
-import { Event } from '../types/calendar'
+import type { Event } from '../types/calendar'
 
 export const getNextEvent = async () => {
 	const events = (await readDBFile('schedule')) as Event[]
