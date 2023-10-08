@@ -20,12 +20,12 @@ const standings = await getChampionship()
 			>F1 Drivers 2023</span
 		>
 	</h2>
-	<div class='grid grid-cols-2 gap-5'>
+	<div class='grid grid-cols-2 gap-5 mt-3'>
 		{
 			standings.map((driver) => (
 				<article
 					class={`relative h-max ${
-						driver.rank % 2 ? 'mt-9' : 'mt-14'
+						driver.rank % 2 ? 'mt-3' : 'mt-8'
 					} flex flex-col bg-yellow text-black uppercase px-1 pt-5 pb-1 w-full border-black border-2 shadow-black-sm rounded-md`}
 				>
 					<span class='absolute -top-8 text-red font-bold text-5xl drop-shados-text'>
