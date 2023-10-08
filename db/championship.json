@@ -4,7 +4,7 @@
     "lastName": "Verstappen",
     "url": "/en/drivers/max-verstappen.html",
     "team": "Red Bull Racing",
-    "points": "400",
+    "points": "407",
     "rank": "1"
   },
   {
@@ -20,7 +20,7 @@
     "lastName": "Hamilton",
     "url": "/en/drivers/lewis-hamilton.html",
     "team": "Mercedes",
-    "points": "190",
+    "points": "194",
     "rank": "3"
   },
   {
@@ -28,7 +28,7 @@
     "lastName": "Alonso",
     "url": "/en/drivers/fernando-alonso.html",
     "team": "Aston Martin",
-    "points": "174",
+    "points": "175",
     "rank": "4"
   },
   {
@@ -36,7 +36,7 @@
     "lastName": "Sainz",
     "url": "/en/drivers/carlos-sainz.html",
     "team": "Ferrari",
-    "points": "150",
+    "points": "153",
     "rank": "5"
   },
   {
@@ -52,7 +52,7 @@
     "lastName": "Norris",
     "url": "/en/drivers/lando-norris.html",
     "team": "McLaren",
-    "points": "115",
+    "points": "121",
     "rank": "7"
   },
   {
@@ -60,7 +60,7 @@
     "lastName": "Russell",
     "url": "/en/drivers/george-russell.html",
     "team": "Mercedes",
-    "points": "115",
+    "points": "120",
     "rank": "8"
   },
   {
@@ -68,7 +68,7 @@
     "lastName": "Piastri",
     "url": "/en/drivers/oscar-piastri.html",
     "team": "McLaren",
-    "points": "57",
+    "points": "65",
     "rank": "9"
   },
   {
@@ -100,7 +100,7 @@
     "lastName": "Albon",
     "url": "/en/drivers/alexander-albon.html",
     "team": "Williams",
-    "points": "21",
+    "points": "23",
     "rank": "13"
   },
   {
