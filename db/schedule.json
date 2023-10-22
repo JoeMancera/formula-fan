@@ -235,7 +235,7 @@
     "name": "FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023",
     "circuitId": "United_States",
     "url": "https://www.formula1.com/en/racing/2023/United_States.html",
-    "state": "schedule",
+    "state": "finished",
     "dates": {
       "practice1": "2023-10-20T17:30:00.000Z",
       "qualifying": "2023-10-20T21:00:00.000Z",
