@@ -4,7 +4,7 @@
     "lastName": "Verstappen",
     "url": "/en/drivers/max-verstappen.html",
     "team": "Red Bull Racing",
-    "points": "441",
+    "points": "466",
     "rank": "1"
   },
   {
@@ -12,7 +12,7 @@
     "lastName": "Perez",
     "url": "/en/drivers/sergio-perez.html",
     "team": "Red Bull Racing",
-    "points": "228",
+    "points": "240",
     "rank": "2"
   },
   {
@@ -36,8 +36,16 @@
     "lastName": "Sainz",
     "url": "/en/drivers/carlos-sainz.html",
     "team": "Ferrari",
-    "points": "156",
+    "points": "171",
     "rank": "5"
+  },
+  {
+    "firstName": "Lando",
+    "lastName": "Norris",
+    "url": "/en/drivers/lando-norris.html",
+    "team": "McLaren",
+    "points": "159",
+    "rank": "6"
   },
   {
     "firstName": "Charles",
@@ -45,14 +53,6 @@
     "url": "/en/drivers/charles-leclerc.html",
     "team": "Ferrari",
     "points": "151",
-    "rank": "6"
-  },
-  {
-    "firstName": "Lando",
-    "lastName": "Norris",
-    "url": "/en/drivers/lando-norris.html",
-    "team": "McLaren",
-    "points": "141",
     "rank": "7"
   },
   {
@@ -60,7 +60,7 @@
     "lastName": "Russell",
     "url": "/en/drivers/george-russell.html",
     "team": "Mercedes",
-    "points": "133",
+    "points": "143",
     "rank": "8"
   },
   {
@@ -76,7 +76,7 @@
     "lastName": "Gasly",
     "url": "/en/drivers/pierre-gasly.html",
     "team": "Alpine",
-    "points": "48",
+    "points": "56",
     "rank": "10"
   },
   {
@@ -84,7 +84,7 @@
     "lastName": "Stroll",
     "url": "/en/drivers/lance-stroll.html",
     "team": "Aston Martin",
-    "points": "47",
+    "points": "53",
     "rank": "11"
   },
   {
@@ -100,7 +100,7 @@
     "lastName": "Albon",
     "url": "/en/drivers/alexander-albon.html",
     "team": "Williams",
-    "points": "23",
+    "points": "25",
     "rank": "13"
   },
   {
@@ -120,19 +120,19 @@
     "rank": "15"
   },
   {
+    "firstName": "Yuki",
+    "lastName": "Tsunoda",
+    "url": "/en/drivers/yuki-tsunoda.html",
+    "team": "AlphaTauri",
+    "points": "8",
+    "rank": "16"
+  },
+  {
     "firstName": "Guanyu",
     "lastName": "Zhou",
     "url": "/en/drivers/guanyu-zhou.html",
     "team": "Alfa Romeo",
     "points": "6",
-    "rank": "16"
-  },
-  {
-    "firstName": "Yuki",
-    "lastName": "Tsunoda",
-    "url": "/en/drivers/yuki-tsunoda.html",
-    "team": "AlphaTauri",
-    "points": "3",
     "rank": "17"
   },
   {
@@ -156,7 +156,7 @@
     "lastName": "Sargeant",
     "url": "/en/drivers/logan-sargeant.html",
     "team": "Williams",
-    "points": "0",
+    "points": "1",
     "rank": "20"
   },
   {
