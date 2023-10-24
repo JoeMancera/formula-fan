@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro'
+import Header from '../components/Header.astro'
+
+const getCurrentYear = () => {
+	const date = new Date()
+	return date.getFullYear()
+}
+---
+
+<Layout
+	tabTitle='Home | Welcome to the Formula Fan Page'
+	titlePage={`Calendar ${getCurrentYear()}`}
+>
+	<span>Content</span>
+</Layout>

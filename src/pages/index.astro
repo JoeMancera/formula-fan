@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro'
-import Header from '../components/Header.astro'
 import { RaceCard } from '../components/race-card'
 import { getNextEvent } from '../../utils/schedule'
 import StandingsCard from '../components/standings-card/index.astro'
@@ -8,14 +7,11 @@ import StandingsCard from '../components/standings-card/index.astro'
 const nextEvent = await getNextEvent()
 ---
 
-<Layout title='Home | Welcome to the Formula Fan Page'>
-	<Header />
-	<main class='flex min-h-screen flex-col items-center gap-4 px-2'>
-		<h1 class='text-3xl md:text-5xl font-extrabold uppercase pt-5 text-center text-balance'>
-			Welcome to the Formula Fan Page
-		</h1>
-		<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
-		<RaceCard client:load nextEvent={nextEvent} />
-		<StandingsCard />
-	</main>
+<Layout
+	tabTitle='Home | Welcome to the Formula Fan Page'
+	titlePage='Welcome to the Formula Fan Page'
+>
+	<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
+	<RaceCard client:load nextEvent={nextEvent} />
+	<StandingsCard />
 </Layout>
