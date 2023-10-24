@@ -1,6 +1,7 @@
 [
   {
     "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023",
+    "shortName": "Bahrain",
     "circuitId": "Bahrain",
     "url": "https://www.formula1.com/en/racing/2023/Bahrain.html",
     "state": "finished",
@@ -14,6 +15,7 @@
   },
   {
     "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023",
+    "shortName": "Saudi Arabia",
     "circuitId": "Saudi_Arabia",
     "url": "https://www.formula1.com/en/racing/2023/Saudi_Arabia.html",
     "state": "finished",
@@ -27,6 +29,7 @@
   },
   {
     "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023",
+    "shortName": "Australia",
     "circuitId": "Australia",
     "url": "https://www.formula1.com/en/racing/2023/Australia.html",
     "state": "finished",
@@ -40,6 +43,7 @@
   },
   {
     "name": "FORMULA 1 AZERBAIJAN GRAND PRIX 2023",
+    "shortName": "Azerbaijan",
     "circuitId": "Azerbaijan",
     "url": "https://www.formula1.com/en/racing/2023/Azerbaijan.html",
     "state": "finished",
@@ -53,6 +57,7 @@
   },
   {
     "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023",
+    "shortName": "United States",
     "circuitId": "Miami",
     "url": "https://www.formula1.com/en/racing/2023/Miami.html",
     "state": "finished",
@@ -66,9 +71,10 @@
   },
   {
     "name": "FORMULA 1 QATAR AIRWAYS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2023",
+    "shortName": "Italy",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2023/EmiliaRomagna.html",
-    "state": "finished",
+    "state": "Canceled",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -77,6 +83,7 @@
   },
   {
     "name": "FORMULA 1 GRAND PRIX DE MONACO 2023",
+    "shortName": "Monaco",
     "circuitId": "Monaco",
     "url": "https://www.formula1.com/en/racing/2023/Monaco.html",
     "state": "finished",
@@ -90,6 +97,7 @@
   },
   {
     "name": "FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023",
+    "shortName": "Spain",
     "circuitId": "Spain",
     "url": "https://www.formula1.com/en/racing/2023/Spain.html",
     "state": "finished",
@@ -103,6 +111,7 @@
   },
   {
     "name": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023",
+    "shortName": "Canada",
     "circuitId": "Canada",
     "url": "https://www.formula1.com/en/racing/2023/Canada.html",
     "state": "finished",
@@ -116,6 +125,7 @@
   },
   {
     "name": "FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023",
+    "shortName": "Austria",
     "circuitId": "Austria",
     "url": "https://www.formula1.com/en/racing/2023/Austria.html",
     "state": "finished",
@@ -129,6 +139,7 @@
   },
   {
     "name": "FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023",
+    "shortName": "Great Britain",
     "circuitId": "Great_Britain",
     "url": "https://www.formula1.com/en/racing/2023/Great_Britain.html",
     "state": "finished",
@@ -142,6 +153,7 @@
   },
   {
     "name": "FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023",
+    "shortName": "Hungary",
     "circuitId": "Hungary",
     "url": "https://www.formula1.com/en/racing/2023/Hungary.html",
     "state": "finished",
@@ -155,6 +167,7 @@
   },
   {
     "name": "FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023",
+    "shortName": "Belgium",
     "circuitId": "Belgium",
     "url": "https://www.formula1.com/en/racing/2023/Belgium.html",
     "state": "finished",
@@ -168,6 +181,7 @@
   },
   {
     "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023",
+    "shortName": "Netherlands",
     "circuitId": "Netherlands",
     "url": "https://www.formula1.com/en/racing/2023/Netherlands.html",
     "state": "finished",
@@ -181,6 +195,7 @@
   },
   {
     "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 ",
+    "shortName": "Italy",
     "circuitId": "Italy",
     "url": "https://www.formula1.com/en/racing/2023/Italy.html",
     "state": "finished",
@@ -194,6 +209,7 @@
   },
   {
     "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023 ",
+    "shortName": "Singapore",
     "circuitId": "Singapore",
     "url": "https://www.formula1.com/en/racing/2023/Singapore.html",
     "state": "finished",
@@ -207,6 +223,7 @@
   },
   {
     "name": "FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023 ",
+    "shortName": "Japan",
     "circuitId": "Japan",
     "url": "https://www.formula1.com/en/racing/2023/Japan.html",
     "state": "finished",
@@ -220,6 +237,7 @@
   },
   {
     "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023",
+    "shortName": "Qatar",
     "circuitId": "Qatar",
     "url": "https://www.formula1.com/en/racing/2023/Qatar.html",
     "state": "finished",
@@ -233,6 +251,7 @@
   },
   {
     "name": "FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023",
+    "shortName": "United States",
     "circuitId": "United_States",
     "url": "https://www.formula1.com/en/racing/2023/United_States.html",
     "state": "finished",
@@ -246,6 +265,7 @@
   },
   {
     "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023",
+    "shortName": "Mexico",
     "circuitId": "Mexico",
     "url": "https://www.formula1.com/en/racing/2023/Mexico.html",
     "state": "schedule",
@@ -259,6 +279,7 @@
   },
   {
     "name": "FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023",
+    "shortName": "Brazil",
     "circuitId": "Brazil",
     "url": "https://www.formula1.com/en/racing/2023/Brazil.html",
     "state": "schedule",
@@ -272,6 +293,7 @@
   },
   {
     "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023",
+    "shortName": "United States",
     "circuitId": "Las_Vegas",
     "url": "https://www.formula1.com/en/racing/2023/Las_Vegas.html",
     "state": "schedule",
@@ -285,6 +307,7 @@
   },
   {
     "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 ",
+    "shortName": "Abu Dhabi",
     "circuitId": "United_Arab_Emirates",
     "url": "https://www.formula1.com/en/racing/2023/United_Arab_Emirates.html",
     "state": "schedule",

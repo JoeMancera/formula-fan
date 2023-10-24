@@ -1,5 +1,6 @@
 const SELECTORS = {
 	nameGP: 'h2.f1--s',
+	shortNameGP: 'h1',
 	raceTime: '.row .js-race',
 	qualyTime: '.row .js-qualifying',
 	practice3Time: '.row .js-practice-3',
@@ -17,8 +18,10 @@ const DATA_ATTRIBUTES = {
 
 export async function getEventSchedule($, url, nameCircuit) {
 	const schedule = []
+	const currentYear = new Date().getFullYear()
 
 	const nameGP = $(SELECTORS.nameGP).text()
+	const shortNameGP = $(SELECTORS.shortNameGP).text().replace(String(currentYear), '')
 	const raceTime = $(SELECTORS.raceTime).data(DATA_ATTRIBUTES.startTime)
 	const qualifyingTime = $(SELECTORS.qualyTime).data(DATA_ATTRIBUTES.startTime)
 	const practice3Time = $(SELECTORS.practice3Time).data(DATA_ATTRIBUTES.startTime)
@@ -30,9 +33,10 @@ export async function getEventSchedule($, url, nameCircuit) {
 
 	schedule.push({
 		name: nameGP,
+		shortName: shortNameGP,
 		circuitId: nameCircuit,
 		url,
-		state: new Date(`${raceTime}${gtmOffset}`) > new Date() ? 'schedule' : 'finished',
+		state: raceTime ? new Date(`${raceTime}${gtmOffset}`) > new Date() ? 'schedule' : 'finished' : 'canceled',
 		dates: {
 			practice1: new Date(`${practice1Time}${gtmOffset}`),
 			practice2: practice2Time && new Date(`${practice2Time}${gtmOffset}`),
