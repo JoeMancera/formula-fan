@@ -74,7 +74,7 @@
     "shortName": "Italy",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2023/EmiliaRomagna.html",
-    "state": "Canceled",
+    "state": "canceled",
     "dates": {
       "practice1": null,
       "qualifying": null,
