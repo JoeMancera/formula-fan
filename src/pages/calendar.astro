@@ -1,16 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro'
-import Header from '../components/Header.astro'
+import CalendarEvent from '../components/calendar-event.astro'
+import { readDBFile } from '../../db'
+import type { Event } from '../../types/calendar'
 
 const getCurrentYear = () => {
 	const date = new Date()
 	return date.getFullYear()
 }
+
+const events = (await readDBFile('schedule')) as Event[]
 ---
 
 <Layout
-	tabTitle='Home | Welcome to the Formula Fan Page'
+	tabTitle='Calendar F1 | Welcome to the Formula Fan Page'
 	titlePage={`Calendar ${getCurrentYear()}`}
 >
-	<span>Content</span>
+	<section class='flex flex-col gap-5'>
+		{events.map((event) => <CalendarEvent event={event} />)}
+	</section>
 </Layout>

@@ -5,10 +5,11 @@ export type Calendar = {
 	events: Event[]
 }
 
-export type State = 'schedule' | 'inProgress' | 'finished' | 'cancelled'
+export type State = 'schedule' | 'inProgress' | 'finished' | 'canceled'
 
 export type Event = {
 	name: string
+	shortName: string
 	circuitId: string
 	state: State
 	url: string
