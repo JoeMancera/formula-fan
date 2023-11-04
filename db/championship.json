@@ -4,7 +4,7 @@
     "lastName": "Verstappen",
     "url": "/en/drivers/max-verstappen.html",
     "team": "Red Bull Racing",
-    "points": "491",
+    "points": "499",
     "rank": "1"
   },
   {
@@ -12,7 +12,7 @@
     "lastName": "Perez",
     "url": "/en/drivers/sergio-perez.html",
     "team": "Red Bull Racing",
-    "points": "240",
+    "points": "246",
     "rank": "2"
   },
   {
@@ -20,7 +20,7 @@
     "lastName": "Hamilton",
     "url": "/en/drivers/lewis-hamilton.html",
     "team": "Mercedes",
-    "points": "220",
+    "points": "222",
     "rank": "3"
   },
   {
@@ -28,7 +28,7 @@
     "lastName": "Sainz",
     "url": "/en/drivers/carlos-sainz.html",
     "team": "Ferrari",
-    "points": "183",
+    "points": "184",
     "rank": "4"
   },
   {
@@ -44,7 +44,7 @@
     "lastName": "Norris",
     "url": "/en/drivers/lando-norris.html",
     "team": "McLaren",
-    "points": "169",
+    "points": "176",
     "rank": "6"
   },
   {
@@ -52,7 +52,7 @@
     "lastName": "Leclerc",
     "url": "/en/drivers/charles-leclerc.html",
     "team": "Ferrari",
-    "points": "166",
+    "points": "170",
     "rank": "7"
   },
   {
@@ -60,7 +60,7 @@
     "lastName": "Russell",
     "url": "/en/drivers/george-russell.html",
     "team": "Mercedes",
-    "points": "151",
+    "points": "156",
     "rank": "8"
   },
   {
@@ -104,12 +104,20 @@
     "rank": "13"
   },
   {
+    "firstName": "Yuki",
+    "lastName": "Tsunoda",
+    "url": "/en/drivers/yuki-tsunoda.html",
+    "team": "AlphaTauri",
+    "points": "11",
+    "rank": "14"
+  },
+  {
     "firstName": "Valtteri",
     "lastName": "Bottas",
     "url": "/en/drivers/valtteri-bottas.html",
     "team": "Alfa Romeo",
     "points": "10",
-    "rank": "14"
+    "rank": "15"
   },
   {
     "firstName": "Nico",
@@ -117,14 +125,6 @@
     "url": "/en/drivers/nico-hulkenberg.html",
     "team": "Haas F1 Team",
     "points": "9",
-    "rank": "15"
-  },
-  {
-    "firstName": "Yuki",
-    "lastName": "Tsunoda",
-    "url": "/en/drivers/yuki-tsunoda.html",
-    "team": "AlphaTauri",
-    "points": "8",
     "rank": "16"
   },
   {
