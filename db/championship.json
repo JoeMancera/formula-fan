@@ -4,7 +4,7 @@
     "lastName": "Verstappen",
     "url": "/en/drivers/max-verstappen.html",
     "team": "Red Bull Racing",
-    "points": "499",
+    "points": "524",
     "rank": "1"
   },
   {
@@ -12,7 +12,7 @@
     "lastName": "Perez",
     "url": "/en/drivers/sergio-perez.html",
     "team": "Red Bull Racing",
-    "points": "246",
+    "points": "258",
     "rank": "2"
   },
   {
@@ -20,31 +20,31 @@
     "lastName": "Hamilton",
     "url": "/en/drivers/lewis-hamilton.html",
     "team": "Mercedes",
-    "points": "222",
+    "points": "226",
     "rank": "3"
-  },
-  {
-    "firstName": "Carlos",
-    "lastName": "Sainz",
-    "url": "/en/drivers/carlos-sainz.html",
-    "team": "Ferrari",
-    "points": "184",
-    "rank": "4"
   },
   {
     "firstName": "Fernando",
     "lastName": "Alonso",
     "url": "/en/drivers/fernando-alonso.html",
     "team": "Aston Martin",
-    "points": "183",
-    "rank": "5"
+    "points": "198",
+    "rank": "4"
   },
   {
     "firstName": "Lando",
     "lastName": "Norris",
     "url": "/en/drivers/lando-norris.html",
     "team": "McLaren",
-    "points": "176",
+    "points": "195",
+    "rank": "5"
+  },
+  {
+    "firstName": "Carlos",
+    "lastName": "Sainz",
+    "url": "/en/drivers/carlos-sainz.html",
+    "team": "Ferrari",
+    "points": "192",
     "rank": "6"
   },
   {
@@ -72,19 +72,19 @@
     "rank": "9"
   },
   {
-    "firstName": "Pierre",
-    "lastName": "Gasly",
-    "url": "/en/drivers/pierre-gasly.html",
-    "team": "Alpine",
-    "points": "56",
-    "rank": "10"
-  },
-  {
     "firstName": "Lance",
     "lastName": "Stroll",
     "url": "/en/drivers/lance-stroll.html",
     "team": "Aston Martin",
-    "points": "53",
+    "points": "63",
+    "rank": "10"
+  },
+  {
+    "firstName": "Pierre",
+    "lastName": "Gasly",
+    "url": "/en/drivers/pierre-gasly.html",
+    "team": "Alpine",
+    "points": "62",
     "rank": "11"
   },
   {
@@ -92,7 +92,7 @@
     "lastName": "Ocon",
     "url": "/en/drivers/esteban-ocon.html",
     "team": "Alpine",
-    "points": "45",
+    "points": "46",
     "rank": "12"
   },
   {
@@ -108,7 +108,7 @@
     "lastName": "Tsunoda",
     "url": "/en/drivers/yuki-tsunoda.html",
     "team": "AlphaTauri",
-    "points": "11",
+    "points": "13",
     "rank": "14"
   },
   {
