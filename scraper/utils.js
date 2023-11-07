@@ -5,15 +5,20 @@ import { writeDBFile, readDBFile } from '../db/index.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { getEventSchedule } from './schedule.js'
 import { getChampionship } from './championship.js'
+import { getTeams } from './teams.js'
 
 export const SCRAPINGS = {
-	schedule: {
-		url: 'https://www.formula1.com/en/racing',
-		scraper: getEventSchedule
-	},
-	championship: {
-		url: 'https://www.formula1.com/en/drivers.html',
-		scraper: getChampionship
+	// schedule: {
+	// 	url: 'https://www.formula1.com/en/racing',
+	// 	scraper: getEventSchedule
+	// },
+	// championship: {
+	// 	url: 'https://www.formula1.com/en/drivers.html',
+	// 	scraper: getChampionship
+	// },
+	teams: {
+		url: 'https://www.formula1.com/en/teams.html',
+		scraper: getTeams
 	}
 }
 

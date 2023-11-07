@@ -11,12 +11,11 @@ const DRIVER = {
   rank: '.rank'
 }
 
-export async function getChampionship($, url) {
+export async function getChampionship($) {
   const drivers = []
 
   const driversContent = $(SELECTORS.drivers)
-  console.log(drivers.length)
-  driversContent.each((i, driver) => {
+  driversContent.each((_, driver) => {
     const driverFirstName = $(driver).find(DRIVER.firstName).text()
     const driverLastName = $(driver).find(DRIVER.lastName).text()
     const driverUrl = $(driver).find(DRIVER.url).attr('href')
