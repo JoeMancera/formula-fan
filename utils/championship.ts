@@ -3,7 +3,7 @@ import type { Driver } from '../types/championship'
 
 export const getChampionship = async () => {
 	const standings = (await readDBFile('championship')) as Driver[]
-	// get the current event from the array of events
+
 	return standings.map((driver) => (
 		{
 			firstName: driver.firstName,

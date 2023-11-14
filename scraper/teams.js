@@ -16,9 +16,9 @@ export async function getTeams($) {
 
 	const teamsContent = $(SELECTORS.teams)
 	teamsContent.each((_, team) => {
-		const teamRank = $(team).find(TEAM.rank).text()
+		const teamRank = Number($(team).find(TEAM.rank).text())
 		const teamName = $(team).find(TEAM.name).text().trim().replace(/\n/g, '')
-		const points = $(team).find(TEAM.points).text()
+		const points = Number($(team).find(TEAM.points).text())
 
 		teams.push({
 			name: teamName,

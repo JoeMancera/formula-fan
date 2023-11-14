@@ -16,6 +16,12 @@ export async function GET() {
 					endpoint: '/api/championship.json',
 					description: 'Returns the championship standings for the current season',
 					state: 'Done'
+				},
+				{
+					name: 'Teams Standings',
+					endpoint: '/api/teams.json',
+					description: 'Returns the teams standings for the current season',
+					state: 'In_progress'
 				}
 			]
 		})

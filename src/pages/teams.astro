@@ -1,8 +1,40 @@
 ---
+import { getTeams } from '../../utils/teams'
 import Layout from '../layouts/Layout.astro'
-import Header from '../components/Header.astro'
+
+const { teamsCount } = Astro.props
+const teamsData = await getTeams()
+
+const teams = teamsCount && teamsCount > 0 ? teamsData.slice(0, teamsCount) : teamsData
 ---
 
-<Layout tabTitle='Home | Welcome to the Formula Fan Page' titlePage='Teams'>
-	<span>Teams</span>
+<Layout tabTitle='Teams | Welcome to the Formula Fan Page' titlePage='Teams'>
+	<section class='flex flex-col w-full max-w-sm gap-5'>
+		{
+			teams.map((team) => (
+				<article
+					class={`flex bg-green text-black uppercase px-1 py-2 w-full border-black border-2 shadow-black items-center`}
+				>
+					<span class=' text-purple font-bold text-5xl mr-4'>{team.rank}</span>
+					<div>
+						<div class='flex gap-1 items-center'>
+							<span class='font-bold text-xl text-red'>{team.points}</span>
+							<span class='font-bold text-xs text-gray'>pts</span>
+						</div>
+						<span class='font-bold text-xl leading-none'>{team.name}</span>
+					</div>
+				</article>
+			))
+		}
+		{
+			teamsCount && teamsCount > 0 && (
+				<a
+					class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
+					href='/teams'
+				>
+					Go to the full results
+				</a>
+			)
+		}
+	</section>
 </Layout>
