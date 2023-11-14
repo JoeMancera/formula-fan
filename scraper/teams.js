@@ -26,6 +26,5 @@ export async function getTeams($) {
 			rank: teamRank
 		})
 	})
-	console.log(teams)
 	return teams
 }

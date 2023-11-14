@@ -1,52 +1,52 @@
 [
   {
     "name": "Red Bull Racing",
-    "points": "782",
-    "rank": "1"
+    "points": 782,
+    "rank": 1
   },
   {
     "name": "Mercedes",
-    "points": "382",
-    "rank": "2"
+    "points": 382,
+    "rank": 2
   },
   {
     "name": "Ferrari",
-    "points": "362",
-    "rank": "3"
+    "points": 362,
+    "rank": 3
   },
   {
     "name": "McLaren",
-    "points": "282",
-    "rank": "4"
+    "points": 282,
+    "rank": 4
   },
   {
     "name": "Aston Martin",
-    "points": "261",
-    "rank": "5"
+    "points": 261,
+    "rank": 5
   },
   {
     "name": "Alpine",
-    "points": "108",
-    "rank": "6"
+    "points": 108,
+    "rank": 6
   },
   {
     "name": "Williams",
-    "points": "28",
-    "rank": "7"
+    "points": 28,
+    "rank": 7
   },
   {
     "name": "AlphaTauri",
-    "points": "21",
-    "rank": "8"
+    "points": 21,
+    "rank": 8
   },
   {
     "name": "Alfa Romeo",
-    "points": "16",
-    "rank": "9"
+    "points": 16,
+    "rank": 9
   },
   {
     "name": "Haas F1 Team",
-    "points": "12",
-    "rank": "10"
+    "points": 12,
+    "rank": 10
   }
 ]
