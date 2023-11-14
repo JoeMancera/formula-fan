@@ -19,3 +19,8 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Design
 
 Figma file: [Formula-fan design](https://www.figma.com/file/t44yhzKrFpf6vMWSXpLKNM/FormulaFan?type=design&node-id=1%3A4&mode=design&t=pQNUXbjs8odIdX7O-1)
+
+## 🤖 Workflows
+
+This project uses [GitHub Actions](https://github.com/features/actions) to scrape data from formula one website and deploy the site to [Vercel](https://vercel.com/). 
+You can find the workflows in the [workflows folder](/.github/workflows).
