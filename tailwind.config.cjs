@@ -20,12 +20,12 @@ module.exports = {
 				error: '#DC2626',
 
 				// colors
-				red: '#ED1000',
-				orange: '#EE6300',
-				green: '#CBD77D',
+				red: '#F01402',
+				orange: '#F08B02',
+				green: '#DEF002',
 				purple: '#8B02F0',
 				yellow: '#FFED4F',
-				lemon: '#0DFFA8'
+				lemon: '#02F08B'
 			},
 			boxShadow: {
 				'black-sm': '2px 2px 0px 0px rgba(15,15,15)',

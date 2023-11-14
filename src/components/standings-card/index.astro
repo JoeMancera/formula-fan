@@ -1,6 +1,15 @@
 ---
 import { getChampionship } from '../../../utils/championship'
-const standings = await getChampionship()
+
+interface Props {
+	driversCount?: number
+}
+
+const { driversCount } = Astro.props
+const standingsData = await getChampionship()
+
+const standings =
+	driversCount && driversCount > 0 ? standingsData.slice(0, driversCount) : standingsData
 ---
 
 <style>
@@ -40,6 +49,16 @@ const standings = await getChampionship()
 					<span class='font-bold text-sm text-gray '>{driver.team}</span>
 				</article>
 			))
+		}
+		{
+			driversCount && driversCount > 0 && (
+				<a
+					class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
+					href='/drivers'
+				>
+					Go to the full results
+				</a>
+			)
 		}
 	</div>
 </section>
