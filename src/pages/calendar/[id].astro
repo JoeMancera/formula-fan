@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import { readDBFile } from '../../../db'
+import type { Event } from '../../../types/calendar.ts'
+
+export async function getStaticPaths() {
+  const events = (await readDBFile('schedule')) as Event[]
+
+  const eventPaths = events.map((event) => ({
+      params: { id: event.circuitId, event: event.name  },
+  }))
+
+  console.log(eventPaths)
+  return eventPaths
+}
+
+const { id, event } = Astro.params
+---
+<Layout
+	tabTitle={`Schedule for ${ id } | Welcome to the Formula Fan Page`}
+	titlePage={`Schedule for ${ id }`}
+>
+ <span>{ id }</span>
+ <p>Here is the schedule for { event } in construction</p>
+
+</Layout>
