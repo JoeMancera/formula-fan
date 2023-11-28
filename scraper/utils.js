@@ -60,7 +60,21 @@ async function urlToContent(url, scraper, name) {
 	if (name === 'schedule') {
 		// get all circuits from db/circuits.json
 		const circuits = await readDBFile('circuits')
-		const year = new Date().getFullYear()
+		let year = new Date().getFullYear()
+		// validate if for current schedule has pending events
+		// if not, add 1 to the year to scrape the next year
+		const events = await readDBFile('schedule')
+		const hasPendingEvents = events.some(({ state }) => state === 'schedule')
+
+		// but first, check if the schedule is already available
+		if (!hasPendingEvents) {
+			const nextYear = year + 1
+			const nextUrl = `https://www.formula1.com/en/racing/${nextYear}/`
+			const f1ScheduleResponse = await fetch(nextUrl)
+
+			if (f1ScheduleResponse.status === 200) year = nextYear
+		}
+
 		const baseUrl = `https://www.formula1.com/en/racing/${year}/`
 		const urls = circuits.map(({ circuitNameUrl }) => ({
 			url: `${baseUrl}${circuitNameUrl}.html`,
