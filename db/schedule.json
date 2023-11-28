@@ -11,6 +11,23 @@
       "practice3": "2023-03-04T11:30:00.000Z",
       "qualifying": "2023-03-04T15:00:00.000Z",
       "race": "2023-03-05T15:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:33:56.736"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+11.987"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+38.637"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1141/bahrain/race-result.html"
     }
   },
   {
@@ -25,6 +42,23 @@
       "practice3": "2023-03-18T13:30:00.000Z",
       "qualifying": "2023-03-18T17:00:00.000Z",
       "race": "2023-03-19T17:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Sergio Perez",
+          "time": "1:21:14.894"
+        },
+        {
+          "driver": "Max Verstappen",
+          "time": "+5.355"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+20.728"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1142/saudi-arabia/race-result.html"
     }
   },
   {
@@ -39,6 +73,23 @@
       "practice3": "2023-04-01T02:30:00.000Z",
       "qualifying": "2023-04-01T06:00:00.000Z",
       "race": "2023-04-02T05:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "2:32:38.371"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+0.179"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+0.769"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1143/australia/race-result.html"
     }
   },
   {
@@ -53,6 +104,23 @@
       "race": "2023-04-30T11:00:00.000Z",
       "sprint": "2023-04-29T13:30:00.000Z",
       "sprintShootout": "2023-04-29T08:30:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Sergio Perez",
+          "time": "1:32:42.436"
+        },
+        {
+          "driver": "Max Verstappen",
+          "time": "+2.137"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+21.217"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1207/azerbaijan/race-result.html"
     }
   },
   {
@@ -67,6 +135,23 @@
       "practice3": "2023-05-06T16:30:00.000Z",
       "qualifying": "2023-05-06T20:00:00.000Z",
       "race": "2023-05-07T19:30:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:27:38.241"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+5.384"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+26.305"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1208/miami/race-result.html"
     }
   },
   {
@@ -79,6 +164,9 @@
       "practice1": null,
       "qualifying": null,
       "race": null
+    },
+    "results": {
+      "podium": []
     }
   },
   {
@@ -93,6 +181,23 @@
       "practice3": "2023-05-27T10:30:00.000Z",
       "qualifying": "2023-05-27T14:00:00.000Z",
       "race": "2023-05-28T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:48:51.980"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+27.921"
+        },
+        {
+          "driver": "Esteban Ocon",
+          "time": "+36.99"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1210/monaco/race-result.html"
     }
   },
   {
@@ -107,6 +212,23 @@
       "practice3": "2023-06-03T10:30:00.000Z",
       "qualifying": "2023-06-03T14:00:00.000Z",
       "race": "2023-06-04T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:27:57.940"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+24.09"
+        },
+        {
+          "driver": "George Russell",
+          "time": "+32.389"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1211/spain/race-result.html"
     }
   },
   {
@@ -121,6 +243,23 @@
       "practice3": "2023-06-17T16:30:00.000Z",
       "qualifying": "2023-06-17T20:00:00.000Z",
       "race": "2023-06-18T18:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:33:58.348"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+9.57"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+14.168"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1212/canada/race-result.html"
     }
   },
   {
@@ -135,6 +274,23 @@
       "race": "2023-07-02T13:00:00.000Z",
       "sprint": "2023-07-01T14:30:00.000Z",
       "sprintShootout": "2023-07-01T10:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:25:33.607"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+5.155"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+17.188"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1213/austria/race-result.html"
     }
   },
   {
@@ -149,6 +305,23 @@
       "practice3": "2023-07-08T10:30:00.000Z",
       "qualifying": "2023-07-08T14:00:00.000Z",
       "race": "2023-07-09T14:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:25:16.938"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+3.798"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+6.783"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1214/great-britain/race-result.html"
     }
   },
   {
@@ -163,6 +336,23 @@
       "practice3": "2023-07-22T10:30:00.000Z",
       "qualifying": "2023-07-22T14:00:00.000Z",
       "race": "2023-07-23T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:38:08.634"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+33.731"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+37.603"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1215/hungary/race-result.html"
     }
   },
   {
@@ -177,6 +367,23 @@
       "race": "2023-07-30T13:00:00.000Z",
       "sprint": "2023-07-29T15:05:00.000Z",
       "sprintShootout": "2023-07-29T10:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:22:30.450"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+22.305"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+32.259"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1216/belgium/race-result.html"
     }
   },
   {
@@ -191,6 +398,23 @@
       "practice3": "2023-08-26T09:30:00.000Z",
       "qualifying": "2023-08-26T13:00:00.000Z",
       "race": "2023-08-27T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "2:24:04.411"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+3.744"
+        },
+        {
+          "driver": "Pierre Gasly",
+          "time": "+7.058"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1217/netherlands/race-result.html"
     }
   },
   {
@@ -205,6 +429,23 @@
       "practice3": "2023-09-02T10:30:00.000Z",
       "qualifying": "2023-09-02T14:00:00.000Z",
       "race": "2023-09-03T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:13:41.143"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+6.064"
+        },
+        {
+          "driver": "Carlos Sainz",
+          "time": "+11.193"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1218/italy/race-result.html"
     }
   },
   {
@@ -219,6 +460,23 @@
       "practice3": "2023-09-16T09:30:00.000Z",
       "qualifying": "2023-09-16T13:00:00.000Z",
       "race": "2023-09-17T12:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Carlos Sainz",
+          "time": "1:46:37.418"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+0.812"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+1.269"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1219/singapore/race-result.html"
     }
   },
   {
@@ -233,6 +491,23 @@
       "practice3": "2023-09-23T02:30:00.000Z",
       "qualifying": "2023-09-23T06:00:00.000Z",
       "race": "2023-09-24T05:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:30:58.421"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+19.387"
+        },
+        {
+          "driver": "Oscar Piastri",
+          "time": "+36.494"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1220/japan/race-result.html"
     }
   },
   {
@@ -247,6 +522,23 @@
       "race": "2023-10-08T17:00:00.000Z",
       "sprint": "2023-10-07T17:30:00.000Z",
       "sprintShootout": "2023-10-07T13:20:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:27:39.168"
+        },
+        {
+          "driver": "Oscar Piastri",
+          "time": "+4.833"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+5.969"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1221/qatar/race-result.html"
     }
   },
   {
@@ -261,6 +553,23 @@
       "race": "2023-10-22T19:00:00.000Z",
       "sprint": "2023-10-21T22:00:00.000Z",
       "sprintShootout": "2023-10-21T17:30:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:35:21.362"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+10.73"
+        },
+        {
+          "driver": "Carlos Sainz",
+          "time": "+15.134"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1222/united-states/race-result.html"
     }
   },
   {
@@ -275,6 +584,23 @@
       "practice3": "2023-10-28T17:30:00.000Z",
       "qualifying": "2023-10-28T21:00:00.000Z",
       "race": "2023-10-29T20:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "2:02:30.814"
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "time": "+13.875"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+23.124"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1223/mexico/race-result.html"
     }
   },
   {
@@ -289,6 +615,23 @@
       "race": "2023-11-05T17:00:00.000Z",
       "sprint": "2023-11-04T18:30:00.000Z",
       "sprintShootout": "2023-11-04T14:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:56:48.894"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+8.277"
+        },
+        {
+          "driver": "Fernando Alonso",
+          "time": "+34.155"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1224/brazil/race-result.html"
     }
   },
   {
@@ -296,13 +639,30 @@
     "shortName": "United States",
     "circuitId": "Las_Vegas",
     "url": "https://www.formula1.com/en/racing/2023/Las_Vegas.html",
-    "state": "schedule",
+    "state": "finished",
     "dates": {
       "practice1": "2023-11-17T04:30:00.000Z",
-      "practice2": "2023-11-17T08:00:00.000Z",
+      "practice2": "2023-11-17T10:30:00.000Z",
       "practice3": "2023-11-18T04:30:00.000Z",
       "qualifying": "2023-11-18T08:00:00.000Z",
       "race": "2023-11-19T06:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:29:08.289"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+2.07"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+2.241"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1225/las-vegas/race-result.html"
     }
   },
   {
@@ -310,13 +670,30 @@
     "shortName": "Abu Dhabi",
     "circuitId": "United_Arab_Emirates",
     "url": "https://www.formula1.com/en/racing/2023/United_Arab_Emirates.html",
-    "state": "schedule",
+    "state": "finished",
     "dates": {
       "practice1": "2023-11-24T09:30:00.000Z",
       "practice2": "2023-11-24T13:00:00.000Z",
       "practice3": "2023-11-25T10:30:00.000Z",
       "qualifying": "2023-11-25T14:00:00.000Z",
       "race": "2023-11-26T13:00:00.000Z"
+    },
+    "results": {
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:27:02.624"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+17.993"
+        },
+        {
+          "driver": "George Russell",
+          "time": "+20.328"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1226/abu-dhabi/race-result.html"
     }
   }
 ]

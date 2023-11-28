@@ -1,32 +1,32 @@
 [
   {
     "name": "Red Bull Racing",
-    "points": 782,
+    "points": 860,
     "rank": 1
   },
   {
     "name": "Mercedes",
-    "points": 382,
+    "points": 409,
     "rank": 2
   },
   {
     "name": "Ferrari",
-    "points": 362,
+    "points": 406,
     "rank": 3
   },
   {
     "name": "McLaren",
-    "points": 282,
+    "points": 302,
     "rank": 4
   },
   {
     "name": "Aston Martin",
-    "points": 261,
+    "points": 280,
     "rank": 5
   },
   {
     "name": "Alpine",
-    "points": 108,
+    "points": 120,
     "rank": 6
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "AlphaTauri",
-    "points": 21,
+    "points": 25,
     "rank": 8
   },
   {
