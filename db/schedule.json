@@ -1,699 +1,416 @@
 [
   {
-    "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023",
+    "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024",
     "shortName": "Bahrain",
     "circuitId": "Bahrain",
-    "url": "https://www.formula1.com/en/racing/2023/Bahrain.html",
+    "url": "https://www.formula1.com/en/racing/2024/Bahrain.html",
     "state": "finished",
-    "dates": {
-      "practice1": "2023-03-03T11:30:00.000Z",
-      "practice2": "2023-03-03T15:00:00.000Z",
-      "practice3": "2023-03-04T11:30:00.000Z",
-      "qualifying": "2023-03-04T15:00:00.000Z",
-      "race": "2023-03-05T15:00:00.000Z"
-    },
-    "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:33:56.736"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+11.987"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+38.637"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1141/bahrain/race-result.html"
-    }
-  },
-  {
-    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023",
-    "shortName": "Saudi Arabia",
-    "circuitId": "Saudi_Arabia",
-    "url": "https://www.formula1.com/en/racing/2023/Saudi_Arabia.html",
-    "state": "finished",
-    "dates": {
-      "practice1": "2023-03-17T13:30:00.000Z",
-      "practice2": "2023-03-17T17:00:00.000Z",
-      "practice3": "2023-03-18T13:30:00.000Z",
-      "qualifying": "2023-03-18T17:00:00.000Z",
-      "race": "2023-03-19T17:00:00.000Z"
-    },
-    "results": {
-      "podium": [
-        {
-          "driver": "Sergio Perez",
-          "time": "1:21:14.894"
-        },
-        {
-          "driver": "Max Verstappen",
-          "time": "+5.355"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+20.728"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1142/saudi-arabia/race-result.html"
-    }
-  },
-  {
-    "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023",
-    "shortName": "Australia",
-    "circuitId": "Australia",
-    "url": "https://www.formula1.com/en/racing/2023/Australia.html",
-    "state": "finished",
-    "dates": {
-      "practice1": "2023-03-31T02:30:00.000Z",
-      "practice2": "2023-03-31T06:00:00.000Z",
-      "practice3": "2023-04-01T02:30:00.000Z",
-      "qualifying": "2023-04-01T06:00:00.000Z",
-      "race": "2023-04-02T05:00:00.000Z"
-    },
-    "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "2:32:38.371"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+0.179"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+0.769"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1143/australia/race-result.html"
-    }
-  },
-  {
-    "name": "FORMULA 1 AZERBAIJAN GRAND PRIX 2023",
-    "shortName": "Azerbaijan",
-    "circuitId": "Azerbaijan",
-    "url": "https://www.formula1.com/en/racing/2023/Azerbaijan.html",
-    "state": "finished",
-    "dates": {
-      "practice1": "2023-04-28T09:30:00.000Z",
-      "qualifying": "2023-04-28T13:00:00.000Z",
-      "race": "2023-04-30T11:00:00.000Z",
-      "sprint": "2023-04-29T13:30:00.000Z",
-      "sprintShootout": "2023-04-29T08:30:00.000Z"
-    },
-    "results": {
-      "podium": [
-        {
-          "driver": "Sergio Perez",
-          "time": "1:32:42.436"
-        },
-        {
-          "driver": "Max Verstappen",
-          "time": "+2.137"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+21.217"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1207/azerbaijan/race-result.html"
-    }
-  },
-  {
-    "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023",
-    "shortName": "United States",
-    "circuitId": "Miami",
-    "url": "https://www.formula1.com/en/racing/2023/Miami.html",
-    "state": "finished",
-    "dates": {
-      "practice1": "2023-05-05T18:00:00.000Z",
-      "practice2": "2023-05-05T21:30:00.000Z",
-      "practice3": "2023-05-06T16:30:00.000Z",
-      "qualifying": "2023-05-06T20:00:00.000Z",
-      "race": "2023-05-07T19:30:00.000Z"
-    },
-    "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:27:38.241"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+5.384"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+26.305"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1208/miami/race-result.html"
-    }
-  },
-  {
-    "name": "FORMULA 1 QATAR AIRWAYS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2023",
-    "shortName": "Italy",
-    "circuitId": "EmiliaRomagna",
-    "url": "https://www.formula1.com/en/racing/2023/EmiliaRomagna.html",
-    "state": "canceled",
     "dates": {
       "practice1": null,
+      "practice2": null,
+      "practice3": null,
       "qualifying": null,
       "race": null
     },
     "results": {
-      "podium": []
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 GRAND PRIX DE MONACO 2023",
+    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024",
+    "shortName": "Saudi Arabia",
+    "circuitId": "Saudi_Arabia",
+    "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
+    }
+  },
+  {
+    "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024",
+    "shortName": "Australia",
+    "circuitId": "Australia",
+    "url": "https://www.formula1.com/en/racing/2024/Australia.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
+    }
+  },
+  {
+    "name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
+    "shortName": "Azerbaijan",
+    "circuitId": "Azerbaijan",
+    "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
+    }
+  },
+  {
+    "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024",
+    "shortName": "United States",
+    "circuitId": "Miami",
+    "url": "https://www.formula1.com/en/racing/2024/Miami.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
+    }
+  },
+  {
+    "name": "FORMULA 1 MSC CRUISES GRAN PREMIO DELL'EMILIA-ROMAGNA 2024",
+    "shortName": "Italy",
+    "circuitId": "EmiliaRomagna",
+    "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
+    "state": "finished",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
+    }
+  },
+  {
+    "name": "FORMULA 1 GRAND PRIX DE MONACO 2024",
     "shortName": "Monaco",
     "circuitId": "Monaco",
-    "url": "https://www.formula1.com/en/racing/2023/Monaco.html",
+    "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-05-26T11:30:00.000Z",
-      "practice2": "2023-05-26T15:00:00.000Z",
-      "practice3": "2023-05-27T10:30:00.000Z",
-      "qualifying": "2023-05-27T14:00:00.000Z",
-      "race": "2023-05-28T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:48:51.980"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+27.921"
-        },
-        {
-          "driver": "Esteban Ocon",
-          "time": "+36.99"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1210/monaco/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023",
+    "name": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
     "shortName": "Spain",
     "circuitId": "Spain",
-    "url": "https://www.formula1.com/en/racing/2023/Spain.html",
+    "url": "https://www.formula1.com/en/racing/2024/Spain.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-06-02T11:30:00.000Z",
-      "practice2": "2023-06-02T15:00:00.000Z",
-      "practice3": "2023-06-03T10:30:00.000Z",
-      "qualifying": "2023-06-03T14:00:00.000Z",
-      "race": "2023-06-04T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:27:57.940"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+24.09"
-        },
-        {
-          "driver": "George Russell",
-          "time": "+32.389"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1211/spain/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023",
+    "name": "FORMULA 1 GRAND PRIX DU CANADA 2024",
     "shortName": "Canada",
     "circuitId": "Canada",
-    "url": "https://www.formula1.com/en/racing/2023/Canada.html",
+    "url": "https://www.formula1.com/en/racing/2024/Canada.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-06-16T17:30:00.000Z",
-      "practice2": "2023-06-16T20:30:00.000Z",
-      "practice3": "2023-06-17T16:30:00.000Z",
-      "qualifying": "2023-06-17T20:00:00.000Z",
-      "race": "2023-06-18T18:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:33:58.348"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+9.57"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+14.168"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1212/canada/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023",
+    "name": "FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",
     "shortName": "Austria",
     "circuitId": "Austria",
-    "url": "https://www.formula1.com/en/racing/2023/Austria.html",
+    "url": "https://www.formula1.com/en/racing/2024/Austria.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-06-30T11:30:00.000Z",
-      "qualifying": "2023-06-30T15:00:00.000Z",
-      "race": "2023-07-02T13:00:00.000Z",
-      "sprint": "2023-07-01T14:30:00.000Z",
-      "sprintShootout": "2023-07-01T10:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:25:33.607"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+5.155"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+17.188"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1213/austria/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023",
+    "name": "FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",
     "shortName": "Great Britain",
     "circuitId": "Great_Britain",
-    "url": "https://www.formula1.com/en/racing/2023/Great_Britain.html",
+    "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-07-07T11:30:00.000Z",
-      "practice2": "2023-07-07T15:00:00.000Z",
-      "practice3": "2023-07-08T10:30:00.000Z",
-      "qualifying": "2023-07-08T14:00:00.000Z",
-      "race": "2023-07-09T14:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:25:16.938"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+3.798"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+6.783"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1214/great-britain/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023",
+    "name": "FORMULA 1 HUNGARIAN GRAND PRIX 2024",
     "shortName": "Hungary",
     "circuitId": "Hungary",
-    "url": "https://www.formula1.com/en/racing/2023/Hungary.html",
+    "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-07-21T11:30:00.000Z",
-      "practice2": "2023-07-21T15:00:00.000Z",
-      "practice3": "2023-07-22T10:30:00.000Z",
-      "qualifying": "2023-07-22T14:00:00.000Z",
-      "race": "2023-07-23T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:38:08.634"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+33.731"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+37.603"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1215/hungary/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023",
+    "name": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024",
     "shortName": "Belgium",
     "circuitId": "Belgium",
-    "url": "https://www.formula1.com/en/racing/2023/Belgium.html",
+    "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-07-28T11:30:00.000Z",
-      "qualifying": "2023-07-28T15:00:00.000Z",
-      "race": "2023-07-30T13:00:00.000Z",
-      "sprint": "2023-07-29T15:05:00.000Z",
-      "sprintShootout": "2023-07-29T10:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:22:30.450"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+22.305"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+32.259"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1216/belgium/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023",
+    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
     "shortName": "Netherlands",
     "circuitId": "Netherlands",
-    "url": "https://www.formula1.com/en/racing/2023/Netherlands.html",
+    "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-08-25T10:30:00.000Z",
-      "practice2": "2023-08-25T14:00:00.000Z",
-      "practice3": "2023-08-26T09:30:00.000Z",
-      "qualifying": "2023-08-26T13:00:00.000Z",
-      "race": "2023-08-27T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "2:24:04.411"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+3.744"
-        },
-        {
-          "driver": "Pierre Gasly",
-          "time": "+7.058"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1217/netherlands/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 ",
+    "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
     "shortName": "Italy",
     "circuitId": "Italy",
-    "url": "https://www.formula1.com/en/racing/2023/Italy.html",
+    "url": "https://www.formula1.com/en/racing/2024/Italy.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-09-01T11:30:00.000Z",
-      "practice2": "2023-09-01T15:00:00.000Z",
-      "practice3": "2023-09-02T10:30:00.000Z",
-      "qualifying": "2023-09-02T14:00:00.000Z",
-      "race": "2023-09-03T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:13:41.143"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+6.064"
-        },
-        {
-          "driver": "Carlos Sainz",
-          "time": "+11.193"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1218/italy/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023 ",
+    "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024",
     "shortName": "Singapore",
     "circuitId": "Singapore",
-    "url": "https://www.formula1.com/en/racing/2023/Singapore.html",
+    "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-09-15T09:30:00.000Z",
-      "practice2": "2023-09-15T13:00:00.000Z",
-      "practice3": "2023-09-16T09:30:00.000Z",
-      "qualifying": "2023-09-16T13:00:00.000Z",
-      "race": "2023-09-17T12:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Carlos Sainz",
-          "time": "1:46:37.418"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+0.812"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+1.269"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1219/singapore/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023 ",
+    "name": "FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024",
     "shortName": "Japan",
     "circuitId": "Japan",
-    "url": "https://www.formula1.com/en/racing/2023/Japan.html",
+    "url": "https://www.formula1.com/en/racing/2024/Japan.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-09-22T02:30:00.000Z",
-      "practice2": "2023-09-22T06:00:00.000Z",
-      "practice3": "2023-09-23T02:30:00.000Z",
-      "qualifying": "2023-09-23T06:00:00.000Z",
-      "race": "2023-09-24T05:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:30:58.421"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+19.387"
-        },
-        {
-          "driver": "Oscar Piastri",
-          "time": "+36.494"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1220/japan/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023",
+    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024",
     "shortName": "Qatar",
     "circuitId": "Qatar",
-    "url": "https://www.formula1.com/en/racing/2023/Qatar.html",
+    "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-10-06T13:30:00.000Z",
-      "qualifying": "2023-10-06T17:00:00.000Z",
-      "race": "2023-10-08T17:00:00.000Z",
-      "sprint": "2023-10-07T17:30:00.000Z",
-      "sprintShootout": "2023-10-07T13:20:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:27:39.168"
-        },
-        {
-          "driver": "Oscar Piastri",
-          "time": "+4.833"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+5.969"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1221/qatar/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023",
+    "name": "FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024",
     "shortName": "United States",
     "circuitId": "United_States",
-    "url": "https://www.formula1.com/en/racing/2023/United_States.html",
+    "url": "https://www.formula1.com/en/racing/2024/United_States.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-10-20T17:30:00.000Z",
-      "qualifying": "2023-10-20T21:00:00.000Z",
-      "race": "2023-10-22T19:00:00.000Z",
-      "sprint": "2023-10-21T22:00:00.000Z",
-      "sprintShootout": "2023-10-21T17:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:35:21.362"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+10.73"
-        },
-        {
-          "driver": "Carlos Sainz",
-          "time": "+15.134"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1222/united-states/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023",
+    "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024",
     "shortName": "Mexico",
     "circuitId": "Mexico",
-    "url": "https://www.formula1.com/en/racing/2023/Mexico.html",
+    "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-10-27T18:30:00.000Z",
-      "practice2": "2023-10-27T22:00:00.000Z",
-      "practice3": "2023-10-28T17:30:00.000Z",
-      "qualifying": "2023-10-28T21:00:00.000Z",
-      "race": "2023-10-29T20:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "2:02:30.814"
-        },
-        {
-          "driver": "Lewis Hamilton",
-          "time": "+13.875"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+23.124"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1223/mexico/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023",
+    "name": "FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",
     "shortName": "Brazil",
     "circuitId": "Brazil",
-    "url": "https://www.formula1.com/en/racing/2023/Brazil.html",
+    "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-11-03T14:30:00.000Z",
-      "qualifying": "2023-11-03T18:00:00.000Z",
-      "race": "2023-11-05T17:00:00.000Z",
-      "sprint": "2023-11-04T18:30:00.000Z",
-      "sprintShootout": "2023-11-04T14:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:56:48.894"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+8.277"
-        },
-        {
-          "driver": "Fernando Alonso",
-          "time": "+34.155"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1224/brazil/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023",
+    "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
     "shortName": "United States",
     "circuitId": "Las_Vegas",
-    "url": "https://www.formula1.com/en/racing/2023/Las_Vegas.html",
+    "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-11-17T04:30:00.000Z",
-      "practice2": "2023-11-17T10:30:00.000Z",
-      "practice3": "2023-11-18T04:30:00.000Z",
-      "qualifying": "2023-11-18T08:00:00.000Z",
-      "race": "2023-11-19T06:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:29:08.289"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+2.07"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+2.241"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1225/las-vegas/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   },
   {
-    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 ",
+    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",
     "shortName": "Abu Dhabi",
     "circuitId": "United_Arab_Emirates",
-    "url": "https://www.formula1.com/en/racing/2023/United_Arab_Emirates.html",
+    "url": "https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html",
     "state": "finished",
     "dates": {
-      "practice1": "2023-11-24T09:30:00.000Z",
-      "practice2": "2023-11-24T13:00:00.000Z",
-      "practice3": "2023-11-25T10:30:00.000Z",
-      "qualifying": "2023-11-25T14:00:00.000Z",
-      "race": "2023-11-26T13:00:00.000Z"
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:27:02.624"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+17.993"
-        },
-        {
-          "driver": "George Russell",
-          "time": "+20.328"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2023/races/1226/abu-dhabi/race-result.html"
+      "podium": [],
+      "fullResults": "/en/f1-live-lite.html"
     }
   }
 ]
