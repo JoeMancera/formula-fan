@@ -22,13 +22,16 @@ const backgroundColorState = {
 	class='flex flex-row justify-between py-3 px-4 rounded-2xl bg-green border-black border-2 shadow-black-sm font-bold items-center'
 >
 	<div class='flex gap-2'>
-		<span
-			class='flex justify-center items-center text-4xl bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2'
-			>{day}</span
-		>
+		{
+			event.dates.race && (
+				<span class='flex justify-center items-center text-4xl bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2'>
+					{day}
+				</span>
+			)
+		}
 		<div class='flex flex-col text-black'>
 			<span class='text-2xl uppercase'>{event.shortName}</span>
-			<span class='uppercase text-purple'>{month}</span>
+			<span class='uppercase text-purple'>{event.dates.race ? month : event.fallbackDate}</span>
 		</div>
 	</div>
 	<span

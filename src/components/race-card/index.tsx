@@ -15,10 +15,10 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>
 				<span className='bg-lemon text-black px-2 py-1 text-sm md:text-xl w-max border-black border-2 shadow-black-sm rounded-md'>
-					{month} {dayInit} - {dayEnd}
+					{nextEvent.dates.race ? `${month} ${dayInit} - ${dayEnd}` : nextEvent.fallbackDate}
 				</span>
 			</h2>
-			<ul className='flex flex-col gap-4 my-5'>
+			{nextEvent.dates.race && <ul className='flex flex-col gap-4 my-5'>
 				<EventDateItem nameSession='Practice 1' date={nextEvent.dates.practice1} />
 				{nextEvent.dates.practice2 && (
 					<EventDateItem nameSession='Practice 2' date={nextEvent.dates.practice2} />
@@ -34,7 +34,7 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 					<EventDateItem nameSession='Sprint' date={nextEvent.dates.sprint} />
 				)}
 				<EventDateItem nameSession='Race' date={nextEvent.dates.race} />
-			</ul>
+			</ul>}
 			<a
 				target='_blank'
 				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'

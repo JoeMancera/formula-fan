@@ -10,5 +10,5 @@ export const getNextEvent = async () => {
 		return eventDate >= now
 	})
 
-	return nextEvent ? nextEvent : events[events.length - 1]
+	return nextEvent ? nextEvent : events[0]
 }

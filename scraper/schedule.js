@@ -9,7 +9,8 @@ const SELECTORS = {
 	sprintTime: '.row .js-sprint',
 	sprintShootoutTime: '.row .js-sprint-shootout',
 	podiumListItems: 'ul.f1-podium.f1-color--carbonBlack li',
-	fullResults: '.btn.btn--default.d-block.d-md-inline-block'
+	fullResults: '.btn.btn--default.d-block.d-md-inline-block',
+	fallbackDate: '.race-weekend-dates.f1-color--white.f1-bg--carbonBlack.f1--xxs'
 }
 
 const DATA_ATTRIBUTES = {
@@ -62,7 +63,8 @@ export async function getEventSchedule($, url, nameCircuit) {
 		shortName: shortNameGP,
 		circuitId: nameCircuit,
 		url,
-		state: raceTime ? new Date(`${raceTime}${gtmOffset}`) > new Date() ? 'schedule' : 'finished' : 'canceled',
+		state: raceTime ? new Date(`${raceTime}${gtmOffset}`) > new Date() || raceTime === 'TBC' ? 'schedule' : 'finished' : 'canceled',
+		fallbackDate: $(SELECTORS.fallbackDate).text().trim().replace(/\n/g, ''),
 		dates: {
 			practice1: new Date(`${practice1Time}${gtmOffset}`),
 			practice2: practice2Time && new Date(`${practice2Time}${gtmOffset}`),

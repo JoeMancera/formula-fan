@@ -4,7 +4,8 @@
     "shortName": "Bahrain",
     "circuitId": "Bahrain",
     "url": "https://www.formula1.com/en/racing/2024/Bahrain.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "29 Feb - 02 Mar",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -22,7 +23,8 @@
     "shortName": "Saudi Arabia",
     "circuitId": "Saudi_Arabia",
     "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "07 - 09 Mar",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -40,7 +42,8 @@
     "shortName": "Australia",
     "circuitId": "Australia",
     "url": "https://www.formula1.com/en/racing/2024/Australia.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "22 - 24 Mar",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -58,7 +61,8 @@
     "shortName": "Azerbaijan",
     "circuitId": "Azerbaijan",
     "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "13 - 15 Sep",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -76,7 +80,8 @@
     "shortName": "United States",
     "circuitId": "Miami",
     "url": "https://www.formula1.com/en/racing/2024/Miami.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "03 - 05 May",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -94,7 +99,8 @@
     "shortName": "Italy",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "17 - 19 May",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -112,7 +118,8 @@
     "shortName": "Monaco",
     "circuitId": "Monaco",
     "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "24 - 26 May",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -130,7 +137,8 @@
     "shortName": "Spain",
     "circuitId": "Spain",
     "url": "https://www.formula1.com/en/racing/2024/Spain.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "21 - 23 Jun",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -148,7 +156,8 @@
     "shortName": "Canada",
     "circuitId": "Canada",
     "url": "https://www.formula1.com/en/racing/2024/Canada.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "07 - 09 Jun",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -166,7 +175,8 @@
     "shortName": "Austria",
     "circuitId": "Austria",
     "url": "https://www.formula1.com/en/racing/2024/Austria.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "28 - 30 Jun",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -184,7 +194,8 @@
     "shortName": "Great Britain",
     "circuitId": "Great_Britain",
     "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "05 - 07 Jul",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -202,7 +213,8 @@
     "shortName": "Hungary",
     "circuitId": "Hungary",
     "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "19 - 21 Jul",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -220,7 +232,8 @@
     "shortName": "Belgium",
     "circuitId": "Belgium",
     "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "26 - 28 Jul",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -238,7 +251,8 @@
     "shortName": "Netherlands",
     "circuitId": "Netherlands",
     "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "23 - 25 Aug",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -256,7 +270,8 @@
     "shortName": "Italy",
     "circuitId": "Italy",
     "url": "https://www.formula1.com/en/racing/2024/Italy.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "30 Aug - 01 Sep",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -274,7 +289,8 @@
     "shortName": "Singapore",
     "circuitId": "Singapore",
     "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "20 - 22 Sep",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -292,7 +308,8 @@
     "shortName": "Japan",
     "circuitId": "Japan",
     "url": "https://www.formula1.com/en/racing/2024/Japan.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "05 - 07 Apr",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -310,7 +327,8 @@
     "shortName": "Qatar",
     "circuitId": "Qatar",
     "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "29 Nov - 01 Dec",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -328,7 +346,8 @@
     "shortName": "United States",
     "circuitId": "United_States",
     "url": "https://www.formula1.com/en/racing/2024/United_States.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "18 - 20 Oct",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -346,7 +365,8 @@
     "shortName": "Mexico",
     "circuitId": "Mexico",
     "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "25 - 27 Oct",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -364,7 +384,8 @@
     "shortName": "Brazil",
     "circuitId": "Brazil",
     "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "01 - 03 Nov",
     "dates": {
       "practice1": null,
       "qualifying": null,
@@ -382,7 +403,8 @@
     "shortName": "United States",
     "circuitId": "Las_Vegas",
     "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "21 - 23 Nov",
     "dates": {
       "practice1": null,
       "practice2": null,
@@ -400,7 +422,8 @@
     "shortName": "Abu Dhabi",
     "circuitId": "United_Arab_Emirates",
     "url": "https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html",
-    "state": "finished",
+    "state": "schedule",
+    "fallbackDate": "06 - 08 Dec",
     "dates": {
       "practice1": null,
       "practice2": null,

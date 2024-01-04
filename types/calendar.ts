@@ -13,6 +13,7 @@ export type Event = {
 	circuitId: string
 	state: State
 	url: string
+	fallbackDate: string
 	dates: {
 		practice1: string
 		practice2?: string
