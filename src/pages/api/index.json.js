@@ -1,7 +1,7 @@
 // Reference: https://www.youtube.com/watch?v=IgX3s36dvDk
 export async function GET() {
-	return {
-		body: JSON.stringify({
+	return new Response(
+		JSON.stringify({
 			description:
 				'This is the API for formula fan. Here you can find all the data like calendar, drivers, teams, etc.',
 			endpoints: [
@@ -25,5 +25,5 @@ export async function GET() {
 				}
 			]
 		})
-	}
+	)
 }
