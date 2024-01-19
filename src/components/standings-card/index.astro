@@ -1,5 +1,5 @@
 ---
-import { getChampionship } from '../../../utils/championship'
+import { getChampionship, getSeasonChampionship } from '../../../utils/championship'
 
 interface Props {
 	driversCount?: number
@@ -7,6 +7,7 @@ interface Props {
 
 const { driversCount } = Astro.props
 const standingsData = await getChampionship()
+const seasonTitle = await getSeasonChampionship()
 
 const standings =
 	driversCount && driversCount > 0 ? standingsData.slice(0, driversCount) : standingsData
@@ -26,19 +27,19 @@ const standings =
 		<span class='font-bold'>CHAMPIONSHIP:</span>
 		<span
 			class='font-medium bg-purple text-white px-2 py-1 text-sm md:text-xl w-max border-black border-2 shadow-black-sm rounded-md'
-			>F1 Drivers 2023</span
+			>{seasonTitle}</span
 		>
 	</h2>
 	<div class='grid grid-cols-2 gap-5 mt-3'>
 		{
-			standings.map((driver) => (
+			standings.map((driver, index) => (
 				<article
 					class={`relative h-max ${
-						driver.rank % 2 ? 'mt-3' : 'mt-8'
+						(index + 1) % 2 ? 'mt-3' : 'mt-8'
 					} flex flex-col bg-yellow text-black uppercase px-1 pt-5 pb-1 w-full border-black border-2 shadow-black-sm rounded-md`}
 				>
 					<span class='absolute -top-8 text-red font-bold text-5xl drop-shados-text'>
-						{driver.rank}
+						{index + 1}
 					</span>
 					<div class='self-end absolute top-0'>
 						<span class='font-bold'>{driver.points}</span>

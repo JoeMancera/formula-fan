@@ -8,7 +8,7 @@ export async function GET() {
 		description: 'This is the endpoint for the championship standings. The data is sourced from the official Formula 1 website',
 		season: year,
 		formula1URL: 'https://www.formula1.com/en/drivers.html',
-		data: championshipData
+		data: championshipData.data
 	})
 	)
 }

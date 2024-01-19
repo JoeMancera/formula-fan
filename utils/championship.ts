@@ -2,9 +2,9 @@ import { readDBFile } from '../db'
 import type { Driver } from '../types/championship'
 
 export const getChampionship = async () => {
-	const standings = (await readDBFile('championship')) as Driver[]
+	const standings = (await readDBFile('championship')) as { data: Driver[] }
 
-	return standings.map((driver) => (
+	return standings.data.map((driver) => (
 		{
 			firstName: driver.firstName,
 			lastName: driver.lastName,
@@ -14,4 +14,11 @@ export const getChampionship = async () => {
 			rank: Number(driver.rank)
 		}
 	))
+}
+
+export const getSeasonChampionship = async () => {
+	const seasonTitle = (await readDBFile('championship'))
+
+	return seasonTitle.season
+
 }

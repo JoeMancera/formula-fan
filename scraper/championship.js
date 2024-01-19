@@ -1,4 +1,5 @@
 const SELECTORS = {
+  seasonTitle: 'h1.f1-black--xxl.no-margin',
   drivers: '.col-12.col-md-6.col-lg-4'
 }
 
@@ -14,6 +15,7 @@ const DRIVER = {
 export async function getChampionship($) {
   const drivers = []
 
+  const seasonTitle = $(SELECTORS.seasonTitle).text()
   const driversContent = $(SELECTORS.drivers)
   driversContent.each((_, driver) => {
     const driverFirstName = $(driver).find(DRIVER.firstName).text()
@@ -32,5 +34,8 @@ export async function getChampionship($) {
       rank: driverRank
     })
   })
-  return drivers
+  return {
+    season: seasonTitle,
+    data: drivers
+  }
 }
