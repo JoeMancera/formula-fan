@@ -21,7 +21,7 @@ const standings =
 	}
 </style>
 <section
-	class='flex flex-col bg-lemon border-4 rounded-2xl p-4 border-black text-black w-full max-w-sm shadow-black gap-5'
+	class='flex flex-col bg-blur rounded-2xl p-4 border border-white w-full max-w-sm shadow-black gap-5'
 >
 	<h2 class='flex flex-col gap-2'>
 		<span class='font-bold'>CHAMPIONSHIP:</span>
@@ -51,15 +51,15 @@ const standings =
 				</article>
 			))
 		}
-		{
-			driversCount && driversCount > 0 && (
-				<a
-					class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
-					href='/drivers'
-				>
-					Go to the full results
-				</a>
-			)
-		}
 	</div>
+	{
+		driversCount && driversCount > 0 && (
+			<a
+				class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
+				href='/drivers'
+			>
+				Go to the full results
+			</a>
+		)
+	}
 </section>

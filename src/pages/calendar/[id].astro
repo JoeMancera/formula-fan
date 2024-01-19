@@ -14,11 +14,13 @@ export async function getStaticPaths() {
 }
 
 const { id, event } = Astro.params
+const events = (await readDBFile('schedule')) as Event[]
+const eventInfo = events.find((event) => event.circuitId === id)
 ---
 
 <Layout
-	tabTitle={`Schedule for ${id} | Welcome to the Formula Fan Page`}
-	titlePage={`Schedule for ${id}`}
+	tabTitle={`Schedule for ${eventInfo.shortName} | Welcome to the Formula Fan Page`}
+	titlePage={`Schedule for ${eventInfo.name}`}
 >
 	<span>{id}</span>
 	<p>Here is the schedule for {event} in construction</p>

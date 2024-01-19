@@ -10,13 +10,20 @@ const getCurrentYear = () => {
 }
 
 const events = (await readDBFile('schedule')) as Event[]
+
+// order events for race Date
+const orderedEvents = events.sort((a, b) => {
+	const dateA = new Date(a.dates.race)
+	const dateB = new Date(b.dates.race)
+	return dateA.getTime() - dateB.getTime()
+})
 ---
 
 <Layout
 	tabTitle='Calendar F1 | Welcome to the Formula Fan Page'
 	titlePage={`Calendar ${getCurrentYear()}`}
 >
-	<section class='flex flex-col gap-5'>
-		{events.map((event) => <CalendarEvent event={event} />)}
+	<section class='flex flex-wrap gap-5 justify-center'>
+		{orderedEvents.map((event) => <CalendarEvent event={event} />)}
 	</section>
 </Layout>

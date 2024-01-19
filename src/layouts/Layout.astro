@@ -19,19 +19,45 @@ const { tabTitle, titlePage } = Astro.props
 		<meta name='generator' content={Astro.generator} />
 		<title>{tabTitle}</title>
 	</head>
-	<body class='md:container md:mx-auto md:px-2 bg-purple text-white'>
-		<Header />
-		<main class='flex min-h-screen flex-col items-center gap-4 px-2'>
-			<h1 class='text-3xl md:text-5xl font-extrabold uppercase pt-5 text-center text-balance'>
+	<body class='md:container md:mx-auto md:px-2'>
+		<div class='fixed left-0 top-0 -z-10 h-full w-full'>
+			<div
+				class='absolute inset-0 -z-10 h-full w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#161925_40%,#8B02F0_100%)]'
+			>
+			</div>
+		</div>
+		<div class='relative mx-auto h-screen w-full max-w-7xl px-6 md:px-8 lg:px-12 text-white'>
+			<Header />
+			<h1 class='text-3xl md:text-5xl font-extrabold uppercase pt-5 text-center text-balance pb-10'>
 				{titlePage}
 			</h1>
-			<slot />
-		</main>
-		<footer class='flex flex-col items-center gap-4 h-4'></footer>
+			<main class='flex gap-4 px-2 flex-col items-center md:items-start md:flex-row'>
+				<slot />
+			</main>
+			<footer class='flex flex-col items-center gap-4 h-4'></footer>
+		</div>
 	</body>
 </html>
 <style is:global>
 	body {
 		font-family: 'Space Grotesk', sans-serif;
+	}
+
+	.bg-blur {
+		/* From https://css.glass */
+		background: rgba(137, 137, 137, 0.29);
+		border-radius: 16px;
+		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+		backdrop-filter: blur(9px);
+		-webkit-backdrop-filter: blur(9px);
+	}
+
+	.bg-blur-green {
+		/* From https://css.glass */
+		background: rgba(255, 237, 79, 0.71);
+		border-radius: 16px;
+		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+		backdrop-filter: blur(6.9px);
+		-webkit-backdrop-filter: blur(6.9px);
 	}
 </style>

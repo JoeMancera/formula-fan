@@ -11,7 +11,7 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 	const dayEnd = getDayNumberFromDate({ date: nextEvent.dates.race })
 
 	return (
-		<article className='flex flex-col gap-2 bg-orange border-4 border-black max-w-sm rounded-2xl px-4 py-4 text-black shadow-black'>
+		<article className='flex flex-col gap-2 bg-blur border border-grey max-w-sm rounded-2xl px-4 py-4 text-white shadow-black'>
 			<span className='uppercase font-bold text-yellow text-xs md:text-base'>Next Race:</span>
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>
@@ -19,7 +19,7 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 					{nextEvent.dates.race ? `${monthInit} ${dayInit} - ${monthInit === monthEnd ? null : monthEnd} ${dayEnd}` : nextEvent.fallbackDate}
 				</span>
 			</h2>
-			{nextEvent.dates.race && <ul className='flex flex-col gap-4 my-5'>
+			{nextEvent.dates.race && <ul className='hidden md:flex flex-col gap-4 my-5'>
 				<EventDateItem nameSession='Practice 1' date={nextEvent.dates.practice1} />
 				{nextEvent.dates.practice2 && (
 					<EventDateItem nameSession='Practice 2' date={nextEvent.dates.practice2} />

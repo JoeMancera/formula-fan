@@ -18,8 +18,9 @@ const backgroundColorState = {
 }
 ---
 
-<article
-	class='flex flex-row justify-between py-3 px-4 rounded-2xl bg-green border-black border-2 shadow-black-sm font-bold items-center'
+<a
+	href={`calendar/${event.circuitId}`}
+	class='flex flex-row justify-between py-3 px-4 rounded-2xl bg-green hover:border-white border-black border-2 shadow-black-sm font-bold items-center min-w-[360px]'
 >
 	<div class='flex gap-2'>
 		{
@@ -39,4 +40,4 @@ const backgroundColorState = {
 			backgroundColorState[event.state]
 		} py-1 px-2 border-black border-2 shadow-black-sm text-sm`}>{event.state}</span
 	>
-</article>
+</a>
