@@ -5,7 +5,8 @@ import type { Event } from '../../../types/calendar'
 export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 	if (!nextEvent) return null
 
-	const month = getMonthFromDate({ date: nextEvent.dates.race })
+	const monthInit = getMonthFromDate({ date: nextEvent.dates.practice1 })
+	const monthEnd = getMonthFromDate({ date: nextEvent.dates.race })
 	const dayInit = getDayNumberFromDate({ date: nextEvent.dates.practice1 })
 	const dayEnd = getDayNumberFromDate({ date: nextEvent.dates.race })
 
@@ -15,7 +16,7 @@ export const RaceCard = ({ nextEvent }: { nextEvent?: Event }) => {
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>
 				<span className='bg-lemon text-black px-2 py-1 text-sm md:text-xl w-max border-black border-2 shadow-black-sm rounded-md'>
-					{nextEvent.dates.race ? `${month} ${dayInit} - ${dayEnd}` : nextEvent.fallbackDate}
+					{nextEvent.dates.race ? `${monthInit} ${dayInit} - ${monthInit === monthEnd ? null : monthEnd} ${dayEnd}` : nextEvent.fallbackDate}
 				</span>
 			</h2>
 			{nextEvent.dates.race && <ul className='flex flex-col gap-4 my-5'>
