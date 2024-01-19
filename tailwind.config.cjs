@@ -12,6 +12,7 @@ module.exports = {
 				// Base colors
 				white: '#E8E8E8',
 				black: '#000000',
+				blue: '#161925',
 				gray: '#767676',
 
 				// Status colors
