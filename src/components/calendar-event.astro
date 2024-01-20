@@ -20,7 +20,7 @@ const backgroundColorState = {
 
 <a
 	href={`calendar/${event.circuitId}`}
-	class='flex flex-row justify-between py-3 px-4 rounded-2xl bg-green hover:border-white border-black border-2 shadow-black-sm font-bold items-center min-w-[360px]'
+	class='flex flex-row justify-between py-3 px-4 rounded-2xl bg-glass hover:border-white border-black border-2 shadow-black-sm font-bold items-center min-w-[360px]'
 >
 	<div class='flex gap-2'>
 		{
@@ -30,9 +30,9 @@ const backgroundColorState = {
 				</span>
 			)
 		}
-		<div class='flex flex-col text-black'>
-			<span class='text-2xl uppercase'>{event.shortName}</span>
-			<span class='uppercase text-purple'>{event.dates.race ? month : event.fallbackDate}</span>
+		<div class='flex flex-col'>
+			<span class='text-2xl uppercase text-lemon'>{event.shortName}</span>
+			<span class='uppercase text-grey'>{event.dates.race ? month : event.fallbackDate}</span>
 		</div>
 	</div>
 	<span

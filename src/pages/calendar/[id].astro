@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro'
 import { readDBFile } from '../../../db'
 import type { Event } from '../../../types/calendar.ts'
+import { RaceCard } from '../../components/race-card'
 
 export async function getStaticPaths() {
 	const events = (await readDBFile('schedule')) as Event[]
@@ -13,7 +14,7 @@ export async function getStaticPaths() {
 	return eventPaths
 }
 
-const { id, event } = Astro.params
+const { id } = Astro.params
 const events = (await readDBFile('schedule')) as Event[]
 const eventInfo = events.find((event) => event.circuitId === id)
 ---
@@ -22,6 +23,5 @@ const eventInfo = events.find((event) => event.circuitId === id)
 	tabTitle={`Schedule for ${eventInfo.shortName} | Welcome to the Formula Fan Page`}
 	titlePage={`Schedule for ${eventInfo.name}`}
 >
-	<span>{id}</span>
-	<p>Here is the schedule for {event} in construction</p>
+	<RaceCard client:load nextEvent={eventInfo} showNextRaceLabel={false} />
 </Layout>

@@ -43,21 +43,12 @@ const { tabTitle, titlePage } = Astro.props
 		font-family: 'Space Grotesk', sans-serif;
 	}
 
-	.bg-blur {
-		/* From https://css.glass */
-		background: rgba(137, 137, 137, 0.29);
-		border-radius: 16px;
-		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-		backdrop-filter: blur(9px);
-		-webkit-backdrop-filter: blur(9px);
-	}
-
-	.bg-blur-green {
-		/* From https://css.glass */
-		background: rgba(255, 237, 79, 0.71);
-		border-radius: 16px;
-		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-		backdrop-filter: blur(6.9px);
-		-webkit-backdrop-filter: blur(6.9px);
+	.bg-glass {
+		background: rgba(255, 255, 255, 0.25);
+		box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+		backdrop-filter: blur(4px);
+		-webkit-backdrop-filter: blur(4px);
+		border-radius: 10px;
+		border: 1px solid rgba(255, 255, 255, 0.18);
 	}
 </style>
