@@ -30,6 +30,11 @@
     "rank": 0
   },
   {
+    "name": "RB",
+    "points": 0,
+    "rank": 0
+  },
+  {
     "name": "Ferrari",
     "points": 0,
     "rank": 0
@@ -41,11 +46,6 @@
   },
   {
     "name": "Williams",
-    "points": 0,
-    "rank": 0
-  },
-  {
-    "name": "AlphaTauri",
     "points": 0,
     "rank": 0
   }
