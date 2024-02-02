@@ -23,7 +23,5 @@ const orderedEvents = events.sort((a, b) => {
 	tabTitle='Calendar F1 | Welcome to the Formula Fan Page'
 	titlePage={`Calendar ${getCurrentYear()}`}
 >
-	<section class='flex flex-wrap gap-5 justify-center'>
-		{orderedEvents.map((event) => <CalendarEvent event={event} />)}
-	</section>
+	{orderedEvents.map((event) => <CalendarEvent event={event} />)}
 </Layout>
