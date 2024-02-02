@@ -7,6 +7,16 @@ export type Calendar = {
 
 export type State = 'schedule' | 'inProgress' | 'finished' | 'canceled'
 
+export type Podium = {
+	driver: string,
+	time: string
+}
+
+export type Results = {
+	podium: [Podium, Podium, Podium]
+	fullResults: "string"
+}
+
 export type Event = {
 	name: string
 	shortName: string
@@ -14,6 +24,7 @@ export type Event = {
 	state: State
 	url: string
 	fallbackDate: string
+	results: Results
 	dates: {
 		practice1: string
 		practice2?: string

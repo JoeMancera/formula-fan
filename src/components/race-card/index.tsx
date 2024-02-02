@@ -5,7 +5,7 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 	if (!nextEvent) return null
 
 	return (
-		<article className='flex flex-col gap-2 bg-glass border border-grey max-w-sm rounded-2xl px-4 py-4 text-white shadow-black'>
+		<article className='flex flex-col gap-2 bg-glass border border-grey max-w-sm rounded-2xl p-4 text-white shadow-black'>
 			{showNextRaceLabel && <span className='uppercase font-bold text-yellow text-xs md:text-base'>Next Race:</span>}
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>

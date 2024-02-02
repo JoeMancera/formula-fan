@@ -24,4 +24,23 @@ const eventInfo = events.find((event) => event.circuitId === id)
 	titlePage={`Schedule for ${eventInfo.name}`}
 >
 	<RaceCard client:load nextEvent={eventInfo} showNextRaceLabel={false} />
+	<section class='min-w-full bg-glass p-4'>
+		<h2 class='text-2xl font-semibold'>Results</h2>
+		{
+			eventInfo.results && eventInfo.results.podium && eventInfo.results.podium.length > 0 ? (
+				<div>
+					<h3>Podium</h3>
+					<ul>
+						{eventInfo.results.podium.map((podium) => (
+							<li>
+								{podium.driver}-{podium.time}
+							</li>
+						))}
+					</ul>
+				</div>
+			) : (
+				<p class='text-orange'>No results available yet</p>
+			)
+		}
+	</section>
 </Layout>
