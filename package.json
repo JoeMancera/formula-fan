@@ -17,7 +17,7 @@
     "@astrojs/preact": "^3.1.0",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/space-grotesk": "^5.0.16",
-    "astro": "^4.2.1",
+    "astro": "^4.4.0",
     "cheerio": "1.0.0-rc.12",
     "hono": "3.12.6",
     "husky": "8.0.3",
