@@ -4,17 +4,36 @@ import '@fontsource/space-grotesk'
 interface Props {
 	tabTitle: string
 	titlePage: string
+	description?: string
+	metakeywords?: string[]
 }
-
-const { tabTitle, titlePage } = Astro.props
+const defaultMetaKeywords = [
+	'formula',
+	'f1',
+	'formula 1',
+	'fan page',
+	'formula fan page',
+	'f1 schedule',
+	'f1 calendar',
+	'f1 standings',
+	'f1 drivers',
+	'f1 constructors',
+	'f1 news',
+	'f1 results'
+]
+const { tabTitle, titlePage, description, metakeywords } = Astro.props
 ---
 
 <!doctype html>
 <html lang='en'>
 	<head>
 		<meta charset='UTF-8' />
-		<meta name='description' content='Formula fan' />
-		<meta name='viewport' content='width=device-width' />
+		<meta
+			name='description'
+			content={description ??
+				'Formula fan page with calendar, championship, drivers standings, and more! This is a project just for fun and learning purposes.'}
+		/>
+		<meta name='keywords' content={metakeywords?.join(', ') ?? defaultMetaKeywords.join(', ')} />
 		<link rel='icon' type='image/svg+xml' href='/favicon.svg' />
 		<meta name='generator' content={Astro.generator} />
 		<title>{tabTitle}</title>
