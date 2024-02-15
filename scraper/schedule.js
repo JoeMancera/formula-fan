@@ -9,7 +9,7 @@ const SELECTORS = {
 	sprintTime: '.row .js-sprint',
 	sprintShootoutTime: '.row .js-sprint-shootout',
 	podiumListItems: 'ul.f1-podium.f1-color--carbonBlack li',
-	fullResults: '.btn.btn--default.d-block.d-md-inline-block',
+	fullResults: '.race-review-ctas .btn.btn--default.d-block.d-md-inline-block',
 	fallbackDate: '.race-weekend-dates.f1-color--white.f1-bg--carbonBlack.f1--xxs'
 }
 
