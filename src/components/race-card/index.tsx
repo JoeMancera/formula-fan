@@ -5,11 +5,11 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 	if (!nextEvent) return null
 
 	return (
-		<article className='flex flex-col gap-2 bg-glass border border-grey max-w-sm rounded-2xl p-4 text-white shadow-black'>
+		<article className='flex flex-col gap-2 max-w-sm rounded-2xl p-4 text-white bg-gray'>
 			{showNextRaceLabel && <span className='uppercase font-bold text-yellow text-xs md:text-base'>Next Race:</span>}
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>
-				<span className='bg-lemon text-black px-2 py-1 text-sm md:text-xl w-max border-black border-2 shadow-black-sm rounded-md'>
+				<span className='bg-lemon text-black px-2 py-1 text-sm md:text-xl w-max border-black border-2 rounded-md'>
 					{nextEvent.fallbackDate}
 				</span>
 			</h2>
@@ -32,7 +32,7 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 			</ul>}
 			<a
 				target='_blank'
-				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
+				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max border-black border-2'
 				href={nextEvent?.url}
 			>
 				Go to the full Schedule

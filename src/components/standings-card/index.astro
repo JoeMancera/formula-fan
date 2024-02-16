@@ -20,13 +20,11 @@ const standings =
 		-webkit-text-stroke-color: black;
 	}
 </style>
-<section
-	class='flex flex-col bg-glass rounded-2xl p-4 border border-white w-full max-w-sm shadow-black gap-5'
->
+<section class='flex flex-col rounded-2xl p-4 w-full max-w-sm gap-5 bg-gray'>
 	<h2 class='flex flex-col gap-2'>
 		<span class='font-bold'>CHAMPIONSHIP:</span>
 		<span
-			class='font-medium bg-purple text-white px-2 py-1 text-sm md:text-xl w-max border-black border-2 shadow-black-sm rounded-md'
+			class='font-medium bg-purple text-white px-2 py-1 text-sm md:text-xl w-max border-black border-2 rounded-md'
 			>{seasonTitle}</span
 		>
 	</h2>
@@ -36,7 +34,7 @@ const standings =
 				<article
 					class={`relative h-max ${
 						(index + 1) % 2 ? 'mt-3' : 'mt-8'
-					} flex flex-col bg-yellow text-black uppercase px-1 pt-5 pb-1 w-full border-black border-2 shadow-black-sm rounded-md`}
+					} flex flex-col bg-yellow text-black uppercase px-1 pt-5 pb-1 w-full border-black border-2 rounded-md`}
 				>
 					<span class='absolute -top-8 text-red font-bold text-5xl drop-shados-text'>
 						{index + 1}

@@ -1,13 +1,37 @@
-<header
-	class='text-white md:static flex flex-row-reverse md:flex-row items-center justify-between text-link w-full my-4 px-6 font-bold'
->
-	<button class='md:hidden' id='btn-menu-open'>
-		<img class='h-9 w-9' src='/menu-icon.svg' alt='FormulaFan Logo' />
-	</button>
-	<nav
-		class='absolute hidden md:flex flex-col items-center text-3xl w-full h-full bg-lemon md:bg-transparent md:w-min md:text-base z-10 md:static p-6 top-0 left-0'
+---
+import Link from './Link.astro'
+---
+
+<div class='bg-red'>
+	<header
+		class='container mx-auto text-white flex flex-row md:flex-row items-center justify-between text-link w-full px-6 font-bold'
 	>
-		<button class='md:hidden stroke-black self-end' id='btn-menu-close'>
+		<a class='block md:hidden' href='/'>FormulaFan Logo</a>
+		<nav
+			class='hidden md:flex flex-row items-center text-3xl md:w-min md:text-base z-10 md:static justify-between min-w-full'
+		>
+			<a class='hidden md:block' href='/'>FormulaFan Logo</a>
+			<ul
+				class='flex flex-col md:flex-row items-center justify-center md:justify-around gap-5 text-purple md:text-black'
+			>
+				<li>
+					<Link href='/calendar' label='Calendar' />
+				</li>
+				<li>
+					<Link href='/drivers' label='Drivers' />
+				</li>
+				<li>
+					<Link href='/teams' label='Teams' />
+				</li>
+				<li>
+					<Link href='/news' label='News' />
+				</li>
+				<li>
+					<Link href='https://github.com/JoeMancera/formula-fan' label='GitHub' />
+				</li>
+			</ul>
+		</nav>
+		<button class='hidden md:hidden stroke-black self-end' id='btn-menu-close'>
 			<svg
 				width='32'
 				height='32'
@@ -19,44 +43,30 @@
 				<line x1='7.41421' y1='7.58579' x2='25.0919' y2='25.2635' stroke-width='4'></line>
 			</svg>
 		</button>
-		<ul
-			class='flex flex-col md:flex-row items-center justify-center md:justify-around h-full gap-5 text-purple md:text-black'
-		>
-			<li
-				class='mr-6 md:bg-white md:border-4 md:border-black md:shadow-black md:px-4 hover:filter hover:brightness-125'
-			>
-				<a href='/calendar'>Calendar</a>
-			</li>
-			<li
-				class='mr-6 md:bg-white md:border-4 md:border-black md:shadow-black md:px-4 hover:filter hover:brightness-125'
-			>
-				<a href='/drivers'>Drivers</a>
-			</li>
-			<li
-				class='mr-6 md:bg-white md:border-4 md:border-black md:shadow-black md:px-4 hover:filter hover:brightness-125'
-			>
-				<a href='/teams'>Teams</a>
-			</li>
-			<li
-				class='mr-6 md:bg-white md:border-4 md:border-black md:shadow-black md:px-4 hover:filter hover:brightness-125'
-			>
-				<a href='/api.json'>API</a>
-			</li>
-		</ul>
-	</nav>
-	<a href='/'>FormulaFan Logo</a>
-	<a class='hover:opacity-75' href='https://github.com/JoeMancera/formula-fan'>GitHub Project</a>
-</header>
+		<button class='md:hidden' id='btn-menu-open'>
+			<img class='h-9 w-9' src='/menu-icon.svg' alt='FormulaFan Logo' />
+		</button>
+	</header>
+</div>
 <script>
 	const btnMenuOpen = document.getElementById('btn-menu-open')
 	const btnMenuClose = document.getElementById('btn-menu-close')
 	const nav = document.querySelector('nav')
+	const header = document.querySelector('header')
 
 	btnMenuOpen.addEventListener('click', () => {
 		nav.classList.toggle('hidden')
+		header.classList.remove('flex-row')
+		header.classList.add('flex-col')
+		btnMenuOpen.classList.toggle('hidden')
+		btnMenuClose.classList.toggle('hidden')
 	})
 
 	btnMenuClose.addEventListener('click', () => {
 		nav.classList.toggle('hidden')
+		header.classList.remove('flex-col')
+		header.classList.add('flex-row')
+		btnMenuOpen.classList.toggle('hidden')
+		btnMenuClose.classList.toggle('hidden')
 	})
 </script>

@@ -12,10 +12,8 @@ const teams = teamsCount && teamsCount > 0 ? teamsData.slice(0, teamsCount) : te
 	<main class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 px-2 justify-items-center'>
 		{
 			teams.map((team, index) => (
-				<article
-					class={`flex bg-glass uppercase px-1 py-2 w-full border-black border-2 items-center`}
-				>
-					<span class='flex justify-center items-center bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2 font-bold text-5xl mr-4'>
+				<article class={`flex uppercase px-1 py-2 w-full items-center bg-gray rounded-2xl`}>
+					<span class='flex justify-center items-center bg-white text-purple w-[60px] h-[60px] rounded-full font-bold text-5xl mr-4'>
 						{team.rank || index + 1}
 					</span>
 					<div>

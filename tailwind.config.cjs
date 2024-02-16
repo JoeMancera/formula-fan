@@ -10,10 +10,10 @@ module.exports = {
 			},
 			colors: {
 				// Base colors
-				white: '#E8E8E8',
+				white: '#FFF',
 				black: '#000000',
-				blue: '#161925',
-				gray: '#767676',
+				blue: '#15151e',
+				gray: '#353a42',
 
 				// Status colors
 				success: '#10B981',
