@@ -6,19 +6,26 @@ import { logError, logInfo, logSuccess } from './log.js'
 import { getEventSchedule } from './schedule.js'
 import { getChampionship } from './championship.js'
 import { getTeams } from './teams.js'
+import { getNews } from './news.js'
+
+const BASE_URL = 'https://www.formula1.com'
 
 export const SCRAPINGS = {
 	schedule: {
-		url: 'https://www.formula1.com/en/racing',
+		url: `${BASE_URL}/en/racing`,
 		scraper: getEventSchedule
 	},
 	championship: {
-		url: 'https://www.formula1.com/en/drivers.html',
+		url: `${BASE_URL}/en/drivers.html`,
 		scraper: getChampionship
 	},
 	teams: {
-		url: 'https://www.formula1.com/en/teams.html',
+		url: `${BASE_URL}/en/teams.html`,
 		scraper: getTeams
+	},
+	news: {
+		url: `${BASE_URL}/en/latest/all?articleFilters=News&page=1`,
+		scraper: getNews
 	}
 }
 
