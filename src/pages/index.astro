@@ -10,9 +10,7 @@ const nextEvent = await getNextEvent()
 <Layout tabTitle='Home | Welcome to the Formula Fan Page' titlePage='Formula Fan Page'>
 	<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
 
-	<main
-		class='flex flex-col md:flex-row gap-4 px-2 justify-items-center items-center md:items-start'
-	>
+	<main class='flex flex-col md:flex-row gap-4 justify-items-center items-center md:items-start'>
 		<RaceCard client:load nextEvent={nextEvent} />
 		<StandingsCard driversCount={4} />
 	</main>
