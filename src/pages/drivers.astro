@@ -4,7 +4,9 @@ import StandingsCard from '../components/standings-card/index.astro'
 ---
 
 <Layout tabTitle='Championship | Welcome to the Formula Fan Page' titlePage='Drivers Championship'>
-	<div class='col-span-4'>
-		<StandingsCard />
-	</div>
+	<main class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 px-2 justify-items-center'>
+		<div class='col-span-4'>
+			<StandingsCard />
+		</div>
+	</main>
 </Layout>

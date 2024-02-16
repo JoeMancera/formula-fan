@@ -9,32 +9,34 @@ const teams = teamsCount && teamsCount > 0 ? teamsData.slice(0, teamsCount) : te
 ---
 
 <Layout tabTitle='Teams | Welcome to the Formula Fan Page' titlePage='Teams'>
-	{
-		teams.map((team, index) => (
-			<article
-				class={`flex bg-glass uppercase px-1 py-2 w-full border-black border-2 items-center`}
-			>
-				<span class='flex justify-center items-center bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2 font-bold text-5xl mr-4'>
-					{team.rank || index + 1}
-				</span>
-				<div>
-					<div class='flex gap-1 items-center'>
-						<span class='font-bold text-xl text-yellow'>{team.points}</span>
-						<span class='font-bold text-xs text-gray'>pts</span>
+	<main class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 px-2 justify-items-center'>
+		{
+			teams.map((team, index) => (
+				<article
+					class={`flex bg-glass uppercase px-1 py-2 w-full border-black border-2 items-center`}
+				>
+					<span class='flex justify-center items-center bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2 font-bold text-5xl mr-4'>
+						{team.rank || index + 1}
+					</span>
+					<div>
+						<div class='flex gap-1 items-center'>
+							<span class='font-bold text-xl text-yellow'>{team.points}</span>
+							<span class='font-bold text-xs text-gray'>pts</span>
+						</div>
+						<span class='font-bold text-xl leading-none text-orange'>{team.name}</span>
 					</div>
-					<span class='font-bold text-xl leading-none text-orange'>{team.name}</span>
-				</div>
-			</article>
-		))
-	}
-	{
-		teamsCount && teamsCount > 0 && (
-			<a
-				class=' font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
-				href='/teams'
-			>
-				Go to the full results
-			</a>
-		)
-	}
+				</article>
+			))
+		}
+		{
+			teamsCount && teamsCount > 0 && (
+				<a
+					class=' font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2'
+					href='/teams'
+				>
+					Go to the full results
+				</a>
+			)
+		}
+	</main>
 </Layout>

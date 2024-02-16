@@ -50,9 +50,7 @@ const { tabTitle, titlePage, description, metakeywords } = Astro.props
 			<h1 class='text-3xl md:text-5xl font-extrabold uppercase pt-5 text-center text-balance pb-10'>
 				{titlePage}
 			</h1>
-			<main class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 px-2 justify-items-center'>
-				<slot />
-			</main>
+			<slot />
 			<footer class='flex flex-col items-center gap-4 h-4'></footer>
 		</div>
 	</body>

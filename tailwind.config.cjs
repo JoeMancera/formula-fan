@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 
 module.exports = {
-	content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
+	content: ['./src/**/*.{astro,html,js,jsx,ts,tsx}'],
 	theme: {
 		extend: {
 			backgroundImage: {
@@ -21,7 +21,7 @@ module.exports = {
 				error: '#DC2626',
 
 				// colors
-				red: '#F01402',
+				red: '#E10600',
 				orange: '#F08B02',
 				green: '#DEF002',
 				purple: '#8B02F0',

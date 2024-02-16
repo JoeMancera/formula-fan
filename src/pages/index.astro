@@ -13,6 +13,8 @@ const nextEvent = await getNextEvent()
 >
 	<!-- Docs: https://docs.astro.build/en/reference/directives-reference/#clientvisible -->
 
-	<RaceCard client:load nextEvent={nextEvent} />
-	<StandingsCard driversCount={4} />
+	<main class='flex flex-col md:flex-row gap-4 px-2 justify-items-center'>
+		<RaceCard client:load nextEvent={nextEvent} />
+		<StandingsCard driversCount={4} />
+	</main>
 </Layout>
