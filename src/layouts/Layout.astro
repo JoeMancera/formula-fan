@@ -33,6 +33,7 @@ const { tabTitle, titlePage, description, metakeywords } = Astro.props
 			content={description ??
 				'Formula fan page with calendar, championship, drivers standings, and more! This is a project just for fun and learning purposes.'}
 		/>
+		<meta name='viewport' content='width=device-width' />
 		<meta name='keywords' content={metakeywords?.join(', ') ?? defaultMetaKeywords.join(', ')} />
 		<link rel='icon' type='image/svg+xml' href='/favicon.svg' />
 		<meta name='generator' content={Astro.generator} />
