@@ -12,7 +12,7 @@ export async function GET() {
 					state: 'Done'
 				},
 				{
-					name: 'Chapionship Standings',
+					name: 'Championship Standings',
 					endpoint: '/api/championship.json',
 					description: 'Returns the championship standings for the current season',
 					state: 'Done'
