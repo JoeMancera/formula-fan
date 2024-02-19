@@ -1,4 +1,5 @@
 ---
+import { ViewTransitions } from 'astro:transitions'
 import Header from '../components/Header.astro'
 import '@fontsource/space-grotesk'
 interface Props {
@@ -49,6 +50,7 @@ const { tabTitle, titlePage, description, metakeywords } = Astro.props
 			<footer class='flex flex-col items-center gap-4 h-4'></footer>
 		</div>
 	</body>
+	<ViewTransitions />
 </html>
 <style is:global>
 	body {

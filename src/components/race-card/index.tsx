@@ -5,11 +5,11 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 	if (!nextEvent) return null
 
 	return (
-		<article className='flex flex-col gap-2 max-w-sm rounded-2xl p-4 text-white bg-gray'>
+		<article className='flex flex-col gap-2 max-w-sm min-w-min rounded-2xl p-4 text-white bg-gray'>
 			{showNextRaceLabel && <span className='uppercase font-bold text-yellow text-xs md:text-base'>Next Race:</span>}
 			<h2 className='flex flex-col gap-2 text-xl md:text-3xl font-semibold uppercase'>
 				<span className='text-balance'>{nextEvent?.name}</span>
-				<span className='bg-lemon text-black px-2 py-1 text-sm md:text-xl w-max border-black border-2 rounded-md'>
+				<span className='text-sm md:text-xl w-max text-white font-light'>
 					{nextEvent.fallbackDate}
 				</span>
 			</h2>
@@ -31,11 +31,12 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 				<EventDateItem nameSession='Race' date={nextEvent.dates.race} />
 			</ul>}
 			<a
-				target='_blank'
+				target={!showNextRaceLabel ? '_blank' : null}
 				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max border-black border-2'
-				href={nextEvent?.url}
+				href={!showNextRaceLabel ? nextEvent?.url : `calendar/${nextEvent?.circuitId}`}
 			>
-				Go to the full Schedule
+				{!showNextRaceLabel ? 'Go to the F1 page schedule' : 'Go to the full Schedule'}
+
 			</a>
 		</article>
 	)

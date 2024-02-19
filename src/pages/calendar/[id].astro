@@ -23,40 +23,42 @@ const eventInfo = events.find((event) => event.circuitId === id)
 	tabTitle={`Schedule for ${eventInfo.shortName} | Welcome to the Formula Fan Page`}
 	titlePage={`Schedule for GP of ${eventInfo.shortName}`}
 >
-	<RaceCard client:load nextEvent={eventInfo} showNextRaceLabel={false} />
-	<section class='min-w-full bg-glass p-4'>
-		<h2 class='text-2xl font-semibold'>Results</h2>
-		{
-			eventInfo.results && eventInfo.results.podium && eventInfo.results.podium.length > 0 ? (
-				<div class='flex flex-col justify-between mt-5'>
-					<section>
-						<h3 class='text-xl font-semibold text-yellow mb-3'>Podium</h3>
-						<ul class='flex flex-col gap-3'>
-							<li class='font-semibold flex justify-between items-center px-2 py-1 text-gray'>
-								<span>Driver</span>
-								<span>Time</span>
-							</li>
-							{eventInfo.results.podium.map((podium, index) => (
-								<li class='font-semibold flex justify-between items-center bg-yellow px-2 py-1 border-black border-2 shadow-black-sm text-black'>
-									<span class='text-xl'>
-										<span class='text-gray'>{index + 1}</span> {podium.driver}
-									</span>
-									<span class='text-success'>{podium.time}</span>
+	<main class='flex flex-col md:flex-row gap-4'>
+		<RaceCard client:load nextEvent={eventInfo} showNextRaceLabel={false} />
+		<section class='p-4 bg-gray rounded-3xl w-full'>
+			<h2 class='text-2xl font-semibold'>Results</h2>
+			{
+				eventInfo.results && eventInfo.results.podium && eventInfo.results.podium.length > 0 ? (
+					<div class='flex flex-col justify-between mt-5'>
+						<section>
+							<h3 class='text-xl font-semibold text-yellow mb-3'>Podium</h3>
+							<ul class='flex flex-col gap-3'>
+								<li class='font-semibold flex justify-between items-center px-2 py-1 text-gray'>
+									<span>Driver</span>
+									<span>Time</span>
 								</li>
-							))}
-						</ul>
-					</section>
-					<a
-						target='_blank'
-						class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2 mt-7'
-						href={eventInfo.results.fullResults}
-					>
-						Go to the full Results
-					</a>
-				</div>
-			) : (
-				<p class='text-orange'>No results available yet</p>
-			)
-		}
-	</section>
+								{eventInfo.results.podium.map((podium, index) => (
+									<li class='font-semibold flex justify-between items-center bg-yellow px-2 py-1 border-black border-2 shadow-black-sm text-black'>
+										<span class='text-xl'>
+											<span class='text-gray'>{index + 1}</span> {podium.driver}
+										</span>
+										<span class='text-success'>{podium.time}</span>
+									</li>
+								))}
+							</ul>
+						</section>
+						<a
+							target='_blank'
+							class='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max shadow-black-sm border-black border-2 mt-7'
+							href={eventInfo.results.fullResults}
+						>
+							Go to the full Results
+						</a>
+					</div>
+				) : (
+					<p class='text-orange'>No results available yet</p>
+				)
+			}
+		</section>
+	</main>
 </Layout>
