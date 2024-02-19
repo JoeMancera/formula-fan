@@ -13,39 +13,25 @@ const standings =
 	driversCount && driversCount > 0 ? standingsData.slice(0, driversCount) : standingsData
 ---
 
-<style>
-	.drop-shados-text {
-		-webkit-text-fill-color: red; /* Will override color (regardless of order) */
-		-webkit-text-stroke-width: 0.6px;
-		-webkit-text-stroke-color: black;
-	}
-</style>
 <section class='flex flex-col rounded-2xl p-4 w-full max-w-sm gap-5 bg-gray'>
 	<h2 class='flex flex-col gap-2'>
 		<span class='font-bold'>CHAMPIONSHIP:</span>
-		<span
-			class='font-medium bg-purple text-white px-2 py-1 text-sm md:text-xl w-max border-black border-2 rounded-md'
-			>{seasonTitle}</span
-		>
+		<span class='font-medium px-2 py-1 text-sm md:text-xl w-max'>{seasonTitle}</span>
 	</h2>
-	<div class='grid grid-cols-2 gap-5 mt-3'>
+	<div class='flex flex-col gap-5 mt-3'>
 		{
 			standings.map((driver, index) => (
-				<article
-					class={`relative h-max ${
-						(index + 1) % 2 ? 'mt-3' : 'mt-8'
-					} flex flex-col bg-yellow text-black uppercase px-1 pt-5 pb-1 w-full border-black border-2 rounded-md`}
-				>
-					<span class='absolute -top-8 text-red font-bold text-5xl drop-shados-text'>
-						{index + 1}
-					</span>
-					<div class='self-end absolute top-0'>
-						<span class='font-bold'>{driver.points}</span>
-						<span class='font-bold text-xs text-gray'>pts</span>
+				<article class={`relative h-max flex flex-row w-full min-w-80`}>
+					<span class='font-extrabold text-5xl text-center w-16'>{index + 1}</span>
+					<div class='flex flex-col uppercase pl-4 border-l border-white border-opacity-40'>
+						<span class='leading-none'>{driver.firstName}</span>
+						<span class='font-bold text-xl leading-none'>{driver.lastName}</span>
+						<span class='font-bold text-sm text-white opacity-40'>{driver.team}</span>
 					</div>
-					<span class='leading-none'>{driver.firstName}</span>
-					<span class='font-bold text-xl leading-none'>{driver.lastName}</span>
-					<span class='font-bold text-sm text-gray '>{driver.team}</span>
+					<div class='flex flex-col absolute right-0 '>
+						<span class='font-bold text-2xl'>{driver.points}</span>
+						<span class='font-bold text-xs '>pts</span>
+					</div>
 				</article>
 			))
 		}
