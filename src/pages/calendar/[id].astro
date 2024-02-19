@@ -19,10 +19,13 @@ const events = (await readDBFile('schedule')) as Event[]
 const eventInfo = events.find((event) => event.circuitId === id)
 ---
 
-<Layout
-	tabTitle={`Schedule for ${eventInfo.shortName} | Welcome to the Formula Fan Page`}
-	titlePage={`Schedule for GP of ${eventInfo.shortName}`}
->
+<Layout tabTitle={`Schedule for ${eventInfo.shortName} | Welcome to the Formula Fan Page`}>
+	<h1
+		class='text-3xl md:text-5xl font-extrabold uppercase pt-5 text-center text-balance pb-10'
+		transition:name='event-name'
+	>
+		GP of {eventInfo.shortName}
+	</h1>
 	<main class='flex flex-col md:flex-row gap-4'>
 		<RaceCard client:load nextEvent={eventInfo} showNextRaceLabel={false} />
 		<section class='p-4 bg-gray rounded-3xl w-full'>

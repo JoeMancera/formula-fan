@@ -21,26 +21,16 @@ const backgroundColorState = {
 
 <a
 	href={`calendar/${event.circuitId}`}
-	class='flex flex-row justify-between py-3 px-4 rounded-2xl hover:border-white font-bold items-center min-w-[360px] md:min-w-full bg-gray'
+	class='flex flex-row justify-between py-3 px-4 rounded-2xl font-bold min-w-[360px] md:min-w-full bg-gray hover:bg-white hover:text-black'
 >
-	<div class='flex gap-2'>
-		{
-			event.dates.race && (
-				<span class='flex justify-center items-center text-4xl bg-white text-purple w-[60px] h-[60px] rounded-full border-black border-2'>
-					{day}
-				</span>
-			)
-		}
-		<div class='flex flex-col'>
-			<span class='text-2xl uppercase text-lemon' transition:name='event-name'
-				>{event.shortName} {hasSprint ? '*' : ''}</span
-			>
-			<span class='uppercase text-grey'>{event.dates.race ? month : event.fallbackDate}</span>
-		</div>
+	<div class='flex flex-col gap-2'>
+		<span class='text-2xl uppercase' transition:name='event-name'>{event.shortName}</span>
+		{event.dates.race && <span>{event.fallbackDate}</span>}
+		<span class='text-sm opacity-40'>{hasSprint ? 'Sprint' : ''}</span>
 	</div>
+
 	<span
-		class={`flex capitalize ${
-			backgroundColorState[event.state]
-		} py-1 px-2 border-black border-2 shadow-black-sm text-sm`}>{event.state}</span
+		class={`capitalize ${backgroundColorState[event.state]} py-1 px-2 text-sm h-fit self-center`}
+		>{event.state}</span
 	>
 </a>

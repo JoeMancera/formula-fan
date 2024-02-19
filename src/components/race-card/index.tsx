@@ -32,7 +32,7 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 			</ul>}
 			<a
 				target={!showNextRaceLabel ? '_blank' : null}
-				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max border-black border-2'
+				className='bg-white text-black font-semibold px-2 py-1 rounded-2xl w-max hover:text-white hover:bg-blue hover:bg-opacity-80 transition-colors duration-300 ease-in-out'
 				href={!showNextRaceLabel ? nextEvent?.url : `calendar/${nextEvent?.circuitId}`}
 			>
 				{!showNextRaceLabel ? 'Go to the F1 page schedule' : 'Go to the full Schedule'}
