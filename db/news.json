@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-02-20T12:00:44.196Z",
+  "updatedDate": "2024-02-20T18:07:32.234Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.aurelia-nobels-to-contest-2024-season-with-f1-academy-official-partner-puma.2G6O7xqqcLSzwwEUiocmMF.html",
+      "title": "Aurelia Nobels to contest 2024 season with F1 ACADEMY Official Partner PUMA",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/fom-website/2023/F1 Academy/F1AcademyAureliaNobels"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.puma-to-become-official-partner-of-f1-academy.7Dvh82nraij0QDcPu6AS5O.html",
+      "title": "PUMA to become official partner of F1 ACADEMY",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/F1 Academy/F1 Academy puma announcement"
+    },
     {
       "link": "https://formula1.com/en/latest/article.i-just-feel-so-much-more-healthy-sargeant-explains-how-he-has-bounced-back.4ZTamWYcYMy758OmGITaSw.html",
       "title": "'I just feel so much more healthy' – Sargeant explains how he has bounced back after rookie season took ‘big toll’",
@@ -100,16 +110,6 @@
       "link": "https://formula1.com/en/latest/article.leclerc-offers-reaction-to-hamilton-being-signed-by-ferrari-as-his-new-team.7JfyqJIvP8KI1JXC8BnyDE.html",
       "title": "Leclerc offers reaction to Hamilton being signed by Ferrari as his new team mate",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/Hamilton-Leclerc"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.fia-announce-jan-monchaux-as-new-single-seater-technical-director.6mdOnWHuPClAupcxX5pzNL.html",
-      "title": "FIA announce Jan Monchaux as new single-seater Technical Director",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Miscellaneous/monchaux-portrait"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.first-look-ferrari-unveil-new-sf-24-car-ahead-of-the-2024-season.79KFzkY0o32TU2cULfRzm7.html",
-      "title": "FIRST LOOK: Ferrari unveil new SF-24 car ahead of the 2024 season",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/Miscellaneous/ferrari-sf-24-5"
     }
   ]
 }
