@@ -8,8 +8,6 @@ interface Props {
 
 const { event } = Astro.props
 
-const day = String(getDayNumberFromDate({ date: event.dates.race })).padStart(2, '0')
-const month = getMonthFromDate({ date: event.dates.race })
 const hasSprint = Object.keys(event.dates).includes('sprint')
 
 const backgroundColorState = {
