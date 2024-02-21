@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-02-21T06:04:16.672Z",
+  "updatedDate": "2024-02-21T12:00:50.576Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.verstappen-leads-first-morning-of-pre-season-testing-in-bahrain.QSTQq7mrA5s4btYop9CM2.html",
+      "title": "Verstappen leads first morning of pre-season testing in Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_1/2027411174"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.day-1-pre-season-testing-in-bahrain-2024-line-up.1y1n2emPIuXOtTU15TK2xU.html",
+      "title": "Who’s driving on Day 1 of pre-season testing in Bahrain?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_1/2026979129"
+    },
     {
       "link": "https://formula1.com/en/latest/article.aurelia-nobels-to-contest-2024-season-with-f1-academy-official-partner-puma.2G6O7xqqcLSzwwEUiocmMF.html",
       "title": "Aurelia Nobels to contest 2024 season with F1 ACADEMY Official Partner PUMA",
@@ -8,7 +18,7 @@
     },
     {
       "link": "https://formula1.com/en/latest/article.puma-to-become-official-partner-of-f1-academy.7Dvh82nraij0QDcPu6AS5O.html",
-      "title": "PUMA to become official partner of F1 ACADEMY",
+      "title": "PUMA to become Official Partner of F1 ACADEMY",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/F1 Academy/F1 Academy puma announcement"
     },
     {
@@ -100,16 +110,6 @@
       "link": "https://formula1.com/en/latest/article.first-look-mercedes-unveil-their-2024-f1-car-ahead-of-silverstone-shakedown.4wCM4N7SXbMDIGtJQTMimM.html",
       "title": "FIRST LOOK: Mercedes unveil their 2024 F1 car ahead of Silverstone shakedown",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/Mercedes/W15 launch/Mercedes-AMG W15 E PERFORMANCE - Lewis Hamilton - Front Quarter"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.first-look-mclaren-present-new-f1-car-ahead-of-silverstone-shakedown.1CxtoqPxHYNwmeBVnJv6ww.html",
-      "title": "FIRST LOOK: McLaren present new F1 car ahead of Silverstone shakedown",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/Miscellaneous/mclaren-mcl38-1"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.leclerc-offers-reaction-to-hamilton-being-signed-by-ferrari-as-his-new-team.7JfyqJIvP8KI1JXC8BnyDE.html",
-      "title": "Leclerc offers reaction to Hamilton being signed by Ferrari as his new team mate",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/Hamilton-Leclerc"
     }
   ]
 }
