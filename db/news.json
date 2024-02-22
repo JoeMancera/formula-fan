@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-02-22T06:04:17.970Z",
+  "updatedDate": "2024-02-22T12:00:47.035Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.whos-driving-on-day-2-of-2024-pre-season-testing-in-bahrain.1CNW0wvQ7pHoUClAktNSeA.html",
+      "title": "Who’s driving on Day 2 of pre-season testing in Bahrain?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_1/2026915877"
+    },
     {
       "link": "https://formula1.com/en/latest/article.red-bull-got-the-answers-we-needed-to-after-first-day-of-2024-testing-for.2XC4PUXY12oWq3Obr4IDOf.html",
       "title": "Red Bull ‘got the answers we needed to’ after first day of 2024 testing for Verstappen",
@@ -105,11 +110,6 @@
       "link": "https://formula1.com/en/latest/article.our-ambition-is-strong-wolff-assesses-mercedes-early-2024-chances-in-bid-to.5oOXpUosXLVjLebAOPBN3X.html",
       "title": "‘Our ambition is strong’ – Wolff assesses Mercedes’ early 2024 chances in bid to catch Red Bull",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/Mercedes/W15 launch/M409526"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.mclaren-optimistic-they-can-take-fight-to-red-bull-in-2024-after-strong.7mwp7BZza4dg0trw4asmnH.html",
-      "title": "McLaren ‘optimistic’ they can take fight to Red Bull in 2024 after strong development rate",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2023/F1_Grand_Prix_of_Brazil___Sprint/1775042391"
     }
   ]
 }
