@@ -6,5 +6,5 @@ export type News = {
 
 export type NewsResponse = {
   description: string,
-  news: News[]
+  newsList: News[]
 }

@@ -1,0 +1,32 @@
+---
+import Layout from '../layouts/Layout.astro'
+import { readDBFile } from '../../db'
+import type { NewsResponse } from '../../types/news'
+
+const { newsList } = (await readDBFile('news')) as NewsResponse
+---
+
+<Layout tabTitle='Latest F1 News | Welcome to the Formula Fan Page' titlePage='Latest F1 News'>
+	<main>
+		<ul class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 px-2 justify-items-center'>
+			{
+				newsList.map((newsItem) => (
+					<li class='group bg-gray rounded-xl hover:bg-white hover:text-gray hover:font-bold'>
+						<a href={newsItem.link}>
+							{newsItem.image && (
+								<figure class='overflow-hidden rounded-t-xl'>
+									<img
+										class='object-cover aspect-video rounded-t-xl group-hover:scale-110 transition-transform duration-200'
+										src={newsItem.image}
+										alt={newsItem.title}
+									/>
+									<figcaption class='rounded-b-xl pt-3 px-2 py-2'>{newsItem.title}</figcaption>
+								</figure>
+							)}
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</main>
+</Layout>
