@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-02-29T12:01:42.939Z",
+  "updatedDate": "2024-02-29T18:07:22.998Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.positive-piastri-believes-mclaren-are-in-the-mix-while-norris-rues-messy.7urIuRpwv8djpLgY6xbBEP.html",
+      "title": "‘Positive’ Piastri believes McLaren are in the mix while Norris rues ‘messy’ practice day",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Bahrain/Formula 1 header template"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.whats-the-weather-forecast-for-the-2024-bahrain-grand-prix.1yHDTenHEclzvFz1ka1ga7.html",
+      "title": "What’s the weather forecast for the 2024 Bahrain Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Miscellaneous/bahrain-track-sunset"
+    },
     {
       "link": "https://formula1.com/en/latest/article.formula-becomes-first-motorsport-competition-to-use-pirelli-fsc-certified.20ELlkQ2LgEFbN07dfmeaH.html",
       "title": "Formula 1 becomes first motorsport competition to use Pirelli FSC-certified tyres",
@@ -30,6 +40,11 @@
       "link": "https://formula1.com/en/latest/article.hungry-ricciardo-says-2024-season-feels-like-second-part-of-f1-career.53RbzxfAuxAleOlkiY7EBR.html",
       "title": "‘Hungry’ Ricciardo says 2024 season feels like ‘second part’ of F1 career starting",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_2/2030089502"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.fia-wednesday-press-conference-bahrain.1INlCvf1csN1TTiqGi7RBu.html",
+      "title": "FIA Wednesday press conference - Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain___Previews/2045440528"
     },
     {
       "link": "https://formula1.com/en/latest/article.what-time-is-the-formula-1-2024-bahrain-grand-prix-and-how-can-i-watch-it.5FCiZRc65tsesAXivAY6IY.html",
@@ -95,21 +110,6 @@
       "link": "https://formula1.com/en/latest/article.mclaren-drivers-expect-to-be-a-chunk-behind-two-teams-as-they-share-pecking.RqTIApfDay1ZFPnJMukau.html",
       "title": "McLaren drivers expect to be ‘a chunk behind’ two teams as they share pecking order predictions after testing",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Bahrain testing/norris-bahrain-testing-2024"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.verstappen-explains-red-bulls-focus-after-final-day-of-very-positive-pre.gNljRgBCw04rx49JVuJN1.html",
-      "title": "Verstappen hails ‘very positive test’ for Red Bull as he gives verdict on RB20",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_3/2033011339"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.the-stars-aligned-hamilton-reveals-the-key-factors-behind-his-shock-ferrari.2vJRwYdyFN1J3vyTUqZMFr.html",
-      "title": "‘The stars aligned’ – Hamilton reveals the key factors behind his shock Ferrari switch",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_3/2032501521"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.whos-driving-on-day-3-of-2024-pre-season-testing-in-bahrain.7rnMML3dtFO3tQ4V94FCip.html",
-      "title": "Who’s driving on Day 3 of pre-season testing in Bahrain?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Previews/2025462435"
     }
   ]
 }
