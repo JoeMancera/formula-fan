@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-02-29T06:04:29.538Z",
+  "updatedDate": "2024-02-29T12:01:42.939Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.formula-becomes-first-motorsport-competition-to-use-pirelli-fsc-certified.20ELlkQ2LgEFbN07dfmeaH.html",
+      "title": "Formula 1 becomes first motorsport competition to use Pirelli FSC-certified tyres",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Bahrain/Medium Tyre FSC"
+    },
     {
       "link": "https://formula1.com/en/latest/article.norris-concedes-mclaren-havent-progressed-as-much-as-we-would-have-liked-as.2b3LxwRhkrLRLOWCZiPu3n.html",
       "title": "Norris concedes McLaren ‘haven’t progressed as much as we would have liked’ as he sets out Bahrain predictions",
@@ -105,11 +110,6 @@
       "link": "https://formula1.com/en/latest/article.whos-driving-on-day-3-of-2024-pre-season-testing-in-bahrain.7rnMML3dtFO3tQ4V94FCip.html",
       "title": "Who’s driving on Day 3 of pre-season testing in Bahrain?",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Previews/2025462435"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.bullish-hamilton-doubles-down-on-russells-positive-comments-after-first-run.2tJE623oVBFUD1ig8y2QoC.html",
-      "title": "Bullish Hamilton doubles down on Russell’s positive comments after first run in Mercedes W15",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_2/2029496461"
     }
   ]
 }
