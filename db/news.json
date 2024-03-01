@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-03-01T06:04:20.533Z",
+  "updatedDate": "2024-03-01T12:00:42.011Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.hulkenberg-calls-his-one-lap-pace-unexpected-as-haas-jump-up-the-order-in.3CAX1PoxdIlR4vYmzADXGI.html",
+      "title": "Hulkenberg calls his one-lap pace ‘unexpected’ as Haas jump up the order in Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain___Practice/2047992332"
+    },
     {
       "link": "https://formula1.com/en/latest/article.alonso-unsure-of-aston-martins-position-after-being-left-a-bit-surprised-by.a1mOXgbjPROlE0RjNyWON.html",
       "title": "Alonso unsure of Aston Martin’s position after being left ‘a bit surprised’ by lap times",
@@ -105,11 +110,6 @@
       "link": "https://formula1.com/en/latest/article.nerea-marti-finalises-2024-f1-academy-grid-with-official-partner-tommy.6MRrqzaqLakkVQOWChxa6r.html",
       "title": "Nerea Marti finalises 2024 F1 ACADEMY grid with Official Partner Tommy Hilfiger",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/F1 Academy/066A9644"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.f1-academy-announces-tommy-hilfiger-as-official-partner.4XdnOGz3DOM7wsmGw6q8CG.html",
-      "title": "F1 ACADEMY announces Tommy Hilfiger as Official Partner",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2023/F1 Academy/JAZ_3529"
     }
   ]
 }
