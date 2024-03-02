@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-03-02T06:03:44.583Z",
+  "updatedDate": "2024-03-02T12:00:56.903Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.mclaren-easily-good-enough-for-front-row-in-bahrain-says-disappointed-norris.2q6x439sREQ194efTlmE34.html",
+      "title": "McLaren 'easily good enough for front row' in Bahrain says disappointed Norris",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain___Qualifying/2050261893"
+    },
     {
       "link": "https://formula1.com/en/latest/article.fia-post-qualifying-press-conference-bahrain-2024.4yjnqAGLhbhXOSCjRKXAkw.html",
       "title": "FIA post-qualifying press conference - Bahrain",
@@ -105,11 +110,6 @@
       "link": "https://formula1.com/en/latest/article.what-time-is-the-formula-1-2024-bahrain-grand-prix-and-how-can-i-watch-it.5FCiZRc65tsesAXivAY6IY.html",
       "title": "What time is the Formula 1 2024 Bahrain Grand Prix and how can I watch it?",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_2/2030638480"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.alpine-drivers-admit-team-on-the-back-foot-heading-into-2024.3ZeFMgcILBn1aSGZ7Bi60C.html",
-      "title": "Alpine drivers admit team ‘on the back foot’ heading into 2024",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_3/2032174257"
     }
   ]
 }
