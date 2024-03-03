@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-03-03T06:04:53.011Z",
+  "updatedDate": "2024-03-03T12:00:44.042Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.perez-insists-red-bull-have-plenty-of-work-to-do-despite-p2-finish-in.66jmzbF9krMfaAQAi6chyi.html",
+      "title": "Perez insists Red Bull have ‘plenty of work to do’ despite P2 finish in Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053398466"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.it-was-impossible-to-drive-properly-leclerc-left-disappointed-in-bahrain.3Onw71d2J1AtaHGuEqlNW5.html",
+      "title": "‘It was impossible to drive properly’ – Leclerc left disappointed in Bahrain after brake issues",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053126106"
+    },
     {
       "link": "https://formula1.com/en/latest/article.a-bit-of-immaturity-ricciardo-vents-after-post-chequered-flag-squabble-with.3A2OhPsGrjvVQhlNKvVpFX.html",
       "title": "‘A bit of immaturity’ – Ricciardo vents after post-chequered flag squabble with team mate Tsunoda in Bahrain",
@@ -100,16 +110,6 @@
       "link": "https://formula1.com/en/latest/article.positive-piastri-believes-mclaren-are-in-the-mix-while-norris-rues-messy.7urIuRpwv8djpLgY6xbBEP.html",
       "title": "‘Positive’ Piastri believes McLaren are in the mix while Norris rues ‘messy’ practice day",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Bahrain/Formula 1 header template"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.whats-the-weather-forecast-for-the-2024-bahrain-grand-prix.1yHDTenHEclzvFz1ka1ga7.html",
-      "title": "What’s the weather forecast for the 2024 Bahrain Grand Prix?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2023/Miscellaneous/bahrain-track-sunset"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.formula-becomes-first-motorsport-competition-to-use-pirelli-fsc-certified.20ELlkQ2LgEFbN07dfmeaH.html",
-      "title": "Formula 1 becomes first motorsport competition to use Pirelli FSC-certified tyres",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Bahrain/Medium Tyre FSC"
     }
   ]
 }
