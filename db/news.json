@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-03-06T06:04:18.720Z",
+  "updatedDate": "2024-03-06T12:01:00.404Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.what-tyres-will-the-teams-and-drivers-have-for-the-2024-saudi-arabian-grand.KCEC0ZFv09wpvwNB6qIPI.html",
+      "title": "What tyres will the teams and drivers have for the 2024 Saudi Arabian Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain/2053527314"
+    },
     {
       "link": "https://formula1.com/en/latest/article.gasly-not-expecting-any-magic-tricks-for-saudi-arabia-after-lowly-bahrain.5grI8hCzTWtg7cyuRZzFcm.html",
       "title": "Gasly not expecting any 'magic tricks' for Saudi Arabia after lowly Bahrain finish for Alpine",
@@ -105,11 +110,6 @@
       "link": "https://formula1.com/en/latest/article.leclerc-disappointed-after-missing-out-on-pole-in-bahrain-but-vows-to-go-for.6miwjfxWmqOZj6jaLjnDyS.html",
       "title": "Leclerc ‘disappointed’ after missing out on pole in Bahrain but vows to ‘go for it’ in race",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Bahrain___Qualifying/2051036492"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.russell-hails-third-as-great-place-to-start-in-bahrain-while-hamilton.3B7k8WuIHTW9DDujMKmkQP.html",
-      "title": "Russell hails third as ‘great place’ to start in Bahrain while Hamilton explains set-up ‘risk’ en route to P9",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Bahrain/russell-hamilton-bahrain-quali-comp"
     }
   ]
 }
