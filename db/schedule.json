@@ -36,7 +36,7 @@
     "shortName": "Saudi Arabia",
     "circuitId": "Saudi_Arabia",
     "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "07 - 09 Mar",
     "dates": {
       "practice1": "2024-03-07T13:30:00.000Z",
@@ -46,7 +46,21 @@
       "race": "2024-03-09T17:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:20:43.273"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+13.643"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+18.639"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1230/saudi-arabia/race-result.html"
     }
   },
   {
