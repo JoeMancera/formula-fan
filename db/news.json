@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-03-12T12:00:42.680Z",
+  "updatedDate": "2024-03-12T18:06:27.528Z",
   "newsList": [
+    {
+      "link": "https://formula1.com/en/latest/article.f1-manager-2024-to-launch-this-summer-on-pc-and-console.2lqiOJobCAXCDnHRBahQyu.html",
+      "title": "F1 Manager 2024 to launch this summer on PC and console",
+      "image": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/88083b08-330b-44ae-a29b-a7fff94e6f15/c52dc205-8020-4835-95ba-28428da27d6a/206x116/match/image.jpg"
+    },
+    {
+      "link": "https://formula1.com/en/latest/article.rb-drivers-rue-lack-of-pace-after-slipping-backwards-during-pretty-painful.64lWaMbOo6VfNQSf12FCXJ.html",
+      "title": "RB drivers rue lack of pace after slipping backwards during ‘pretty painful weekend’ in Saudi Arabia",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/trackside-images/2024/F1_Grand_Prix_of_Saudi_Arabia___Practice/2065763004"
+    },
     {
       "link": "https://formula1.com/en/latest/article.jack-doohan-to-perform-demo-run-at-australian-grand-prix-with-father-mick.3BOXqETl2ucNNdKRkEycXD.html",
       "title": "Jack Doohan to perform demo run at Australian Grand Prix with father Mick",
@@ -100,16 +110,6 @@
       "link": "https://formula1.com/en/latest/article.audi-expands-commitment-to-formula-1-with-100-takeover-of-sauber.4g5fNv9jl03sw5btt4LuSw.html",
       "title": "Audi expands commitment to Formula 1 with 100% takeover of Sauber",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/content/dam/fom-website/manual/Misc/audi-f1-22"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.second-season-of-f1-kids-to-broadcast-seven-races.3pmHww5n791dWAnfkqAmjC.html",
-      "title": "Second season of F1 Kids to broadcast seven races",
-      "image": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/bd1970cc-ef3e-4dc5-906f-0133e9ff4642/b9b2eff6-3358-4a2b-9dd0-28bd8c9bf979/206x116/match/image.jpg"
-    },
-    {
-      "link": "https://formula1.com/en/latest/article.breaking-sainz-ruled-out-of-saudi-arabian-gp-with-appendicitis-as-f2-racer.2JzIonRBBDEjEb2AlkdVfl.html",
-      "title": "Sainz ruled out of Saudi Arabian GP with appendicitis as F2 racer Bearman steps up to replace him",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Saudi Arabia/Sainz Bearman"
     }
   ]
 }
