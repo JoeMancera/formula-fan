@@ -68,7 +68,7 @@
     "shortName": "Australia",
     "circuitId": "Australia",
     "url": "https://www.formula1.com/en/racing/2024/Australia.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "22 - 24 Mar",
     "dates": {
       "practice1": "2024-03-22T01:30:00.000Z",
@@ -78,7 +78,21 @@
       "race": "2024-03-24T04:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Carlos Sainz",
+          "time": "1:20:26.843"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+2.366"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+5.904"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1231/australia/race-result.html"
     }
   },
   {

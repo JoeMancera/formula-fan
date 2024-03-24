@@ -10,27 +10,27 @@
       "rank": "1"
     },
     {
-      "firstName": "Sergio",
-      "lastName": "Perez",
-      "url": "/en/drivers/sergio-perez.html",
-      "team": "Red Bull Racing",
-      "points": "36",
-      "rank": "2"
-    },
-    {
       "firstName": "Charles",
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc.html",
       "team": "Ferrari",
-      "points": "28",
+      "points": "47",
+      "rank": "2"
+    },
+    {
+      "firstName": "Sergio",
+      "lastName": "Perez",
+      "url": "/en/drivers/sergio-perez.html",
+      "team": "Red Bull Racing",
+      "points": "46",
       "rank": "3"
     },
     {
-      "firstName": "George",
-      "lastName": "Russell",
-      "url": "/en/drivers/george-russell.html",
-      "team": "Mercedes",
-      "points": "18",
+      "firstName": "Carlos",
+      "lastName": "Sainz",
+      "url": "/en/drivers/carlos-sainz.html",
+      "team": "Ferrari",
+      "points": "40",
       "rank": "4"
     },
     {
@@ -38,32 +38,40 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri.html",
       "team": "McLaren",
-      "points": "16",
+      "points": "28",
       "rank": "5"
-    },
-    {
-      "firstName": "Carlos",
-      "lastName": "Sainz",
-      "url": "/en/drivers/carlos-sainz.html",
-      "team": "Ferrari",
-      "points": "15",
-      "rank": "6"
-    },
-    {
-      "firstName": "Fernando",
-      "lastName": "Alonso",
-      "url": "/en/drivers/fernando-alonso.html",
-      "team": "Aston Martin",
-      "points": "12",
-      "rank": "7"
     },
     {
       "firstName": "Lando",
       "lastName": "Norris",
       "url": "/en/drivers/lando-norris.html",
       "team": "McLaren",
-      "points": "12",
+      "points": "27",
+      "rank": "6"
+    },
+    {
+      "firstName": "George",
+      "lastName": "Russell",
+      "url": "/en/drivers/george-russell.html",
+      "team": "Mercedes",
+      "points": "18",
+      "rank": "7"
+    },
+    {
+      "firstName": "Fernando",
+      "lastName": "Alonso",
+      "url": "/en/drivers/fernando-alonso.html",
+      "team": "Aston Martin",
+      "points": "16",
       "rank": "8"
+    },
+    {
+      "firstName": "Lance",
+      "lastName": "Stroll",
+      "url": "/en/drivers/lance-stroll.html",
+      "team": "Aston Martin",
+      "points": "9",
+      "rank": "9"
     },
     {
       "firstName": "Lewis",
@@ -71,7 +79,15 @@
       "url": "/en/drivers/lewis-hamilton.html",
       "team": "Mercedes",
       "points": "8",
-      "rank": "9"
+      "rank": "10"
+    },
+    {
+      "firstName": "Yuki",
+      "lastName": "Tsunoda",
+      "url": "/en/drivers/yuki-tsunoda.html",
+      "team": "RB",
+      "points": "6",
+      "rank": "11"
     },
     {
       "firstName": "Oliver",
@@ -79,23 +95,23 @@
       "url": "/en/drivers/oliver-bearman.html",
       "team": "Ferrari",
       "points": "6",
-      "rank": "10"
+      "rank": "12"
     },
     {
       "firstName": "Nico",
       "lastName": "Hulkenberg",
       "url": "/en/drivers/nico-hulkenberg.html",
       "team": "Haas F1 Team",
-      "points": "1",
-      "rank": "11"
+      "points": "3",
+      "rank": "13"
     },
     {
-      "firstName": "Lance",
-      "lastName": "Stroll",
-      "url": "/en/drivers/lance-stroll.html",
-      "team": "Aston Martin",
+      "firstName": "Kevin",
+      "lastName": "Magnussen",
+      "url": "/en/drivers/kevin-magnussen.html",
+      "team": "Haas F1 Team",
       "points": "1",
-      "rank": "12"
+      "rank": "14"
     },
     {
       "firstName": "Alexander",
@@ -103,7 +119,7 @@
       "url": "/en/drivers/alexander-albon.html",
       "team": "Williams",
       "points": "0",
-      "rank": "13"
+      "rank": "15"
     },
     {
       "firstName": "Guanyu",
@@ -111,15 +127,7 @@
       "url": "/en/drivers/guanyu-zhou.html",
       "team": "Kick Sauber",
       "points": "0",
-      "rank": "14"
-    },
-    {
-      "firstName": "Kevin",
-      "lastName": "Magnussen",
-      "url": "/en/drivers/kevin-magnussen.html",
-      "team": "Haas F1 Team",
-      "points": "0",
-      "rank": "15"
+      "rank": "16"
     },
     {
       "firstName": "Daniel",
@@ -127,7 +135,7 @@
       "url": "/en/drivers/daniel-ricciardo.html",
       "team": "RB",
       "points": "0",
-      "rank": "16"
+      "rank": "17"
     },
     {
       "firstName": "Esteban",
@@ -135,21 +143,13 @@
       "url": "/en/drivers/esteban-ocon.html",
       "team": "Alpine",
       "points": "0",
-      "rank": "17"
-    },
-    {
-      "firstName": "Yuki",
-      "lastName": "Tsunoda",
-      "url": "/en/drivers/yuki-tsunoda.html",
-      "team": "RB",
-      "points": "0",
       "rank": "18"
     },
     {
-      "firstName": "Logan",
-      "lastName": "Sargeant",
-      "url": "/en/drivers/logan-sargeant.html",
-      "team": "Williams",
+      "firstName": "Pierre",
+      "lastName": "Gasly",
+      "url": "/en/drivers/pierre-gasly.html",
+      "team": "Alpine",
       "points": "0",
       "rank": "19"
     },
@@ -162,10 +162,10 @@
       "rank": "20"
     },
     {
-      "firstName": "Pierre",
-      "lastName": "Gasly",
-      "url": "/en/drivers/pierre-gasly.html",
-      "team": "Alpine",
+      "firstName": "Logan",
+      "lastName": "Sargeant",
+      "url": "/en/drivers/logan-sargeant.html",
+      "team": "Williams",
       "points": "0",
       "rank": "21"
     }

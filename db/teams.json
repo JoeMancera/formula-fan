@@ -1,17 +1,17 @@
 [
   {
     "name": "Red Bull Racing",
-    "points": 87,
+    "points": 97,
     "rank": 1
   },
   {
     "name": "Ferrari",
-    "points": 49,
+    "points": 93,
     "rank": 2
   },
   {
     "name": "McLaren",
-    "points": 28,
+    "points": 55,
     "rank": 3
   },
   {
@@ -21,26 +21,26 @@
   },
   {
     "name": "Aston Martin",
-    "points": 13,
+    "points": 25,
     "rank": 5
   },
   {
-    "name": "Haas F1 Team",
-    "points": 1,
+    "name": "RB",
+    "points": 6,
     "rank": 6
+  },
+  {
+    "name": "Haas F1 Team",
+    "points": 4,
+    "rank": 7
   },
   {
     "name": "Williams",
     "points": 0,
-    "rank": 7
-  },
-  {
-    "name": "Kick Sauber",
-    "points": 0,
     "rank": 8
   },
   {
-    "name": "RB",
+    "name": "Kick Sauber",
     "points": 0,
     "rank": 9
   },
