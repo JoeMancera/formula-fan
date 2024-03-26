@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-03-26T12:01:06.019Z",
+  "updatedDate": "2024-03-26T18:06:49.314Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/not-where-i-expected-to-be-admits-ricciardo-as-he-rues-difficult-opening.6a6RNpeA90UZAvEE6uxx9h",
+      "title": "‘Not where I expected to be’ admits Ricciardo as he rues difficult opening three races for RB",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Australia/Ricciardo%20Australia"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-announces-multi-year-partnership-with-playseat-to-produce.72sBxPuGViDOCfr9NuMvtH",
+      "title": "Formula 1 announces multi-year partnership with Playseat to produce officially licensed racing simulators",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miscellaneous/PLAYSEAT_F1_Partnership_2024"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/red-bull-backed-rising-star-ayumu-iwasa-to-make-f1-weekend-debut-with-rb.6mRW558GisArscLn6MArX",
       "title": "Red Bull-backed rising star Ayumu Iwasa to make F1 weekend debut with RB during practice at Japanese GP",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/im-used-to-it-now-hamilton-says-hes-trying-to-keep-head-above-water-after-q2.1pVsnJx8qFbVEdCeN5HLOF",
       "title": "‘I’m used to it now’ – Hamilton says he’s ‘trying to keep head above water’ after Q2 exit in Australia",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia___Qualifying/2105654857"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-australia-2024.6IA2iwLV8T6XAkaBrgUh8f",
-      "title": "FIA post-qualifying press conference – Australia",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia___Qualifying/2105974919"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/breaking-perez-handed-three-place-grid-penalty-for-australian-grand-prix.3i0CX8FLsFVqqUv4s99uif",
-      "title": "Perez handed three-place grid penalty for Australian Grand Prix after impeding incident",
-      "image": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/92d306b0-af82-4a17-b6b8-2782f875bc95/90fca30d-5726-4f2e-a5dc-0dcde6358c61/432x243/match/image.jpg"
     }
   ]
 }
