@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-04-02T06:04:12.446Z",
+  "updatedDate": "2024-04-02T12:00:50.618Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/vasseur-feels-ferraris-success-in-australia-shows-red-bull-can-make-mistakes.4vtn4bFy1UBXGXZXxX25CC",
+      "title": "Vasseur feels Ferrari’s success in Australia shows Red Bull can make mistakes under pressure",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Australia/vasseur-red-bull-australia-2024-comp"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/mclaren-announce-several-organisational-changes-as-new-signing-sanchez.4zQsiFn5q4ebcaTanM51fg",
+      "title": "McLaren announce several organisational changes as new signing Sanchez leaves team",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/mclaren-logo-2024"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/mercedes-provide-update-on-hamiltons-engine-after-melbourne-failure.41H4XkQ19CKlg2GHQQFdLZ",
+      "title": "Mercedes provide update on Hamilton’s engine after Melbourne failure",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Australia/hamilton-dnf-australia-2024-1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/why-new-team-boss-komatsu-felt-australia-wasnt-perfect-for-haas-despite.6rLkhDRVHZHZ5wcBqIfe15",
       "title": "Why new team boss Komatsu felt Australia ‘wasn’t perfect’ for Haas despite ‘amazing’ double points finish",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/2024-las-vegas-grand-prix-tickets-on-sale-now.1lNtFOAZi69dQemLma3HGs",
       "title": "2024 Las Vegas Grand Prix tickets on sale now",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/campaign/Promoter%20support/Las%20Vegas/Las%20Vegas%20Grand%20Prix_Sphere%20Content%201"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/f1-and-topps-announce-exclusive-long-term-renewal.6rdmdAXBZD3gMIGYgVBaaM",
-      "title": "F1 and Topps announce exclusive long-term renewal",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/fom-website/2024/Miscellaneous/ToppsPressRelease2024_Text_4"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/perez-admits-ferraris-very-strong-pace-in-australia-took-him-by-surprise-as.54ks3YuZnmDpjlHHl2ry4l",
-      "title": "Perez admits Ferrari’s ‘very strong’ pace in Australia took him by surprise as he eyes Red Bull fightback at Suzuka",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia/2108384526"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/vettel-set-to-test-porsche-963-hypercar-as-he-opens-up-on-curiosity-for.6nzPEQDR4Izl7fjYJRRK2d",
-      "title": "Vettel set to test Porsche 963 Hypercar as he explains ‘curiosity’ for endurance events",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Vettel%20Porsche%20Test%202024/POR24_031411260700466SVS-Bearbeitet_SVS"
     }
   ]
 }
