@@ -1,6 +1,31 @@
 {
-  "updatedDate": "2024-04-04T06:04:07.587Z",
+  "updatedDate": "2024-04-04T12:00:38.807Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-hails-four-time-champion-vettel-as-an-amazing-option-for-mercedes.7yx5oeqwOyl4Npbl2uIwzy",
+      "title": "Hamilton hails four-time champion Vettel as ‘an amazing option’ for Mercedes in 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/hamilton-vettel-comp-2024"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-japan-2024.54ji8xik4xo86LZcq1XpTF",
+      "title": "FIA Thursday press conference – Japan",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Japan___Previews/2137071059"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/russell-feared-can-of-worms-being-opened-if-alonso-had-gone-unpenalised.3FtIZaWABxDBWQl9oDSAqr",
+      "title": "Russell feared ‘can of worms’ being opened if Alonso had gone unpenalised after Australian GP",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Japan/russell-alonso-suzuka-2024-comp"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/well-move-on-and-learn-from-it-verstappen-reflects-on-red-bull-reliability.1zxDTi6jq2aA18uZbTtZSz",
+      "title": "‘We’ll move on and learn from it’ – Verstappen reflects on Red Bull reliability issue in Australia as he quashes any concerns for Japan",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Japan/GettyImages-2137011455"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/sargeant-describes-raw-moments-after-australia-car-swap-as-he-gets-set-for.24FeBBobQIzybyKNzHkVjv",
+      "title": "Sargeant describes ‘raw’ moments after Australia car swap as he gets set for return to action in Japan",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/sargeant-portrait-2024-1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/sainz-insists-its-time-to-speed-up-everything-as-he-assesses-his-2025.pC7FFez14vQ5NtL2keKx2",
       "title": "Sainz insists it’s ‘time to speed up everything’ as he assesses his 2025 options",
@@ -85,31 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/opening-weekend-of-new-champions-of-the-future-academy-gets-underway-with-f1.2wrRtxPOxAgpCesLYwXRGi",
       "title": "Opening weekend of new Champions of the Future Academy gets underway with F1 ACADEMY collaboration",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/F1%20Academy/Formula%201%20header%20template%20-%202024-03-30T200256.160"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/everybody-knows-his-worth-norris-and-leclerc-respond-to-suggestion-sainz-is.4XAEIh4QMcaVIqoakk5Jiz",
-      "title": "‘Everybody knows his worth’ – Norris and Leclerc respond to suggestion Sainz is ‘underrated’ with 2025 future unknown",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/sainz-leclerc-norris-australia-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/tsunoda-proving-to-the-people-with-his-performances-as-he-reflects-on-strong.3YrXhxsFLNr8iFVevX65ri",
-      "title": "Tsunoda 'proving to the people' with his performances as he reflects on strong start to 2024 ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia___Previews/2100521352"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/vowles-provides-chassis-repair-update-as-he-assesses-chances-of-williams.4Colegc27FgdB86EEswyHX",
-      "title": "Vowles provides chassis repair update as he assesses chances of Williams competing with two cars in Japan",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/vowles-williams-australia-comp-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ricciardo-explains-why-2024-struggles-with-rb-are-different-to-his-time-at.392uPuFfPpAv7N0FrMz352",
-      "title": "Ricciardo explains why 2024 struggles with RB are different to his time at McLaren",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia___Qualifying/2105959510"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/wolff-names-first-choice-to-replace-hamilton-at-mercedes-as-he-sets-timeline.5PpVlgaetAzM8wgChLEzMO",
-      "title": "Wolff names first choice to replace Hamilton at Mercedes as he sets timeline for decision",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/wolff-mercedes-2025-comp"
     }
   ]
 }
