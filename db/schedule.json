@@ -334,7 +334,7 @@
     "shortName": "Japan",
     "circuitId": "Japan",
     "url": "https://www.formula1.com/en/racing/2024/Japan.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "05 - 07 Apr",
     "dates": {
       "practice1": "2024-04-05T02:30:00.000Z",
@@ -344,7 +344,21 @@
       "race": "2024-04-07T05:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:54:23.566"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+12.535"
+        },
+        {
+          "driver": "Carlos Sainz",
+          "time": "+20.866"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1232/japan/race-result.html"
     }
   },
   {
