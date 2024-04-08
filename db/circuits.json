@@ -136,5 +136,11 @@
     "name": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023",
     "circuitId": "yas-marina",
     "circuitNameUrl": "United_Arab_Emirates"
+  },
+  {
+    "id": 24,
+    "name": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023",
+    "circuitId": "china",
+    "circuitNameUrl": "China"
   }
 ]

@@ -468,5 +468,23 @@
     "results": {
       "podium": []
     }
+  },
+  {
+    "name": "FORMULA 1 LENOVO CHINESE GRAND PRIX 2024",
+    "shortName": "China",
+    "circuitId": "China",
+    "url": "https://www.formula1.com/en/racing/2024/China.html",
+    "state": "schedule",
+    "fallbackDate": "19 - 21 Apr",
+    "dates": {
+      "practice1": "2024-04-19T03:30:00.000Z",
+      "qualifying": "2024-04-20T07:00:00.000Z",
+      "race": "2024-04-21T07:00:00.000Z",
+      "sprint": "2024-04-20T03:00:00.000Z",
+      "sprintShootout": "2024-04-19T07:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
   }
 ]
