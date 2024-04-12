@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-04-12T12:00:44.517Z",
+  "updatedDate": "2024-04-12T18:06:18.440Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-and-formula-1-announces-calendar-for-2025.48ii9hOMGxuOJnjLgpA5qS",
+      "title": "FIA and Formula 1 announce calendar for 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Australia/2108303848"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-fernando-alonso-signs-new-deal-with-aston-martin-to-end-speculation-over-f1.14YlqBvQcJlYUwtV61LsEH",
       "title": "Alonso signs new deal with Aston Martin to end speculation over F1 future",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/verstappen-overjoyed-by-victory-comeback-at-suzuka-as-he-says-race-couldnt.1DQpKKl3kH6Cz5Ksfsf34u",
       "title": "Verstappen overjoyed by victory comeback at Suzuka as he says race ‘couldn’t have been better’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Japan/2145242707"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-leclerc-gets-your-vote-with-faultless-p4-drive-in-japan.3I2nahwyZVrUCukT3ai3KK",
-      "title": "DRIVER OF THE DAY: Leclerc gets your vote with faultless P4 drive in Japan",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/manual/Misc/Driver%20Of%20The%20Day/2024/Leclerc"
     }
   ]
 }
