@@ -474,7 +474,7 @@
     "shortName": "China",
     "circuitId": "China",
     "url": "https://www.formula1.com/en/racing/2024/China.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "19 - 21 Apr",
     "dates": {
       "practice1": "2024-04-19T03:30:00.000Z",
@@ -484,7 +484,21 @@
       "sprintShootout": "2024-04-19T07:30:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:40:52.554"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+13.773"
+        },
+        {
+          "driver": "Sergio Perez",
+          "time": "+19.16"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1233/china/race-result.html"
     }
   }
 ]
