@@ -40,7 +40,7 @@
     "fallbackDate": "07 - 09 Mar",
     "dates": {
       "practice1": "2024-03-07T13:30:00.000Z",
-      "practice2": "2024-03-07T17:00:00.000Z",
+      "practice2": "2024-03-07T17:10:00.000Z",
       "practice3": "2024-03-08T13:30:00.000Z",
       "qualifying": "2024-03-08T17:00:00.000Z",
       "race": "2024-03-09T17:00:00.000Z"
@@ -115,7 +115,7 @@
   },
   {
     "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024",
-    "shortName": "United States",
+    "shortName": "Miami",
     "circuitId": "Miami",
     "url": "https://www.formula1.com/en/racing/2024/Miami.html",
     "state": "schedule",
@@ -133,7 +133,7 @@
   },
   {
     "name": "FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024",
-    "shortName": "Italy",
+    "shortName": "Emilia-Romagna",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
     "state": "schedule",
@@ -186,7 +186,7 @@
     }
   },
   {
-    "name": "FORMULA 1 AWS GRAND PRIX DU CANADA 2024",
+    "name": "FORMULA 1 GRAND PRIX DU CANADA 2024",
     "shortName": "Canada",
     "circuitId": "Canada",
     "url": "https://www.formula1.com/en/racing/2024/Canada.html",
@@ -435,7 +435,7 @@
   },
   {
     "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
-    "shortName": "United States",
+    "shortName": "Las Vegas",
     "circuitId": "Las_Vegas",
     "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
     "state": "schedule",
