@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-05-01T06:05:04.333Z",
+  "updatedDate": "2024-05-01T12:00:47.752Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-miami-grand-prix.7yPvrATAUWlQa1QEIyaMXf",
+      "title": "What is the weather forecast for the 2024 Miami Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/miami-2023-action-shot"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2024-miami-grand-prix-and-how-can-i-watch-it.4IaS8j5iRWXdDpN24JrOBe",
+      "title": "What time is the Formula 1 2024 Miami Grand Prix and how can I watch it?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/miami-start-2023"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-red-bull-confirm-legendary-f1-designer-newey-is-to-leave-the-team.3zzQGetyOSLSxMH6QeeA2P",
+      "title": "Red Bull confirm legendary F1 designer Newey is to leave the team",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Japan___Practice/2139618172"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/horner-in-no-rush-to-confirm-red-bulls-2025-line-up-as-he-explains-perezs.6qwgsHY3cHcYws3niB1VgX",
       "title": "Horner in ‘no rush’ to confirm Red Bull’s 2025 line-up as he explains Perez’s change in approach",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/christian-horner-toto-wolff-max-verstappen-red-bull-mercedes-f1-future.41ndwco9k1zeUm317JPoCu",
       "title": "‘His time would be better spent focusing on the team’ – Horner criticises Wolff’s comments on Verstappen’s F1 future",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miscellaneous/Formula%201%20header%20template%20-%202024-04-23T114620.659"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ocon-and-gasly-hail-step-in-right-direction-for-alpine-after-narrowly.4GB67noayAVzca3PSzPzsl",
-      "title": "Ocon and Gasly hail step in ‘right direction’ for Alpine after narrowly missing out on points in China",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_China/2149510366"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hulkenberg-pleased-to-steal-another-point-for-haas-as-magnussen-rues-costly.440bdFIkJnqFU3fOaSSsb2",
-      "title": "Hulkenberg pleased to ‘steal’ another point for Haas as Magnussen rues costly contact with Tsunoda",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/China/hulkenberg-magnussen-comp-2024-china"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-admits-spending-much-of-chinese-gp-in-damage-limitation-mode-after.5844zqk2426WiWa2VaxakT",
-      "title": "Piastri admits spending much of Chinese GP in ‘damage limitation’ mode after car was left ‘destroyed’",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_China/2149504120"
     }
   ]
 }
