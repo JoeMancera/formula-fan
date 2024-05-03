@@ -15,6 +15,9 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 			</h2>
 			{nextEvent.dates.race && <ul className='flex flex-col gap-4 my-5'>
 				<EventDateItem nameSession='Practice 1' date={nextEvent.dates.practice1} />
+				{nextEvent.dates.sprintShootout && (
+					<EventDateItem nameSession='Sprint Shootout' date={nextEvent.dates.sprintShootout} />
+				)}
 				{nextEvent.dates.practice2 && (
 					<EventDateItem nameSession='Practice 2' date={nextEvent.dates.practice2} />
 				)}
@@ -22,9 +25,6 @@ export const RaceCard = ({ nextEvent, showNextRaceLabel = true }: { nextEvent?: 
 					<EventDateItem nameSession='Practice 3' date={nextEvent.dates.practice3} />
 				)}
 				<EventDateItem nameSession='Qualifying' date={nextEvent.dates.qualifying} />
-				{nextEvent.dates.sprintShootout && (
-					<EventDateItem nameSession='Sprint Shootout' date={nextEvent.dates.sprintShootout} />
-				)}
 				{nextEvent.dates.sprint && (
 					<EventDateItem nameSession='Sprint' date={nextEvent.dates.sprint} />
 				)}
