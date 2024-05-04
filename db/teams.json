@@ -1,17 +1,17 @@
 [
   {
     "name": "Red Bull Racing",
-    "points": 195,
+    "points": 209,
     "rank": 1
   },
   {
     "name": "Ferrari",
-    "points": 151,
+    "points": 162,
     "rank": 2
   },
   {
     "name": "McLaren",
-    "points": 96,
+    "points": 99,
     "rank": 3
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "name": "RB",
-    "points": 7,
+    "points": 13,
     "rank": 6
   },
   {
     "name": "Haas",
-    "points": 5,
+    "points": 7,
     "rank": 7
   },
   {

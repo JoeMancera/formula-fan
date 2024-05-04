@@ -6,7 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen.html",
       "team": "Red Bull Racing",
-      "points": 110,
+      "points": 118,
       "rank": 1
     },
     {
@@ -14,7 +14,7 @@
       "lastName": "Perez",
       "url": "/en/drivers/sergio-perez.html",
       "team": "Red Bull Racing",
-      "points": 85,
+      "points": 91,
       "rank": 2
     },
     {
@@ -22,7 +22,7 @@
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc.html",
       "team": "Ferrari",
-      "points": 76,
+      "points": 83,
       "rank": 3
     },
     {
@@ -30,7 +30,7 @@
       "lastName": "Sainz",
       "url": "/en/drivers/carlos-sainz.html",
       "team": "Ferrari",
-      "points": 69,
+      "points": 73,
       "rank": 4
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri.html",
       "team": "McLaren",
-      "points": 38,
+      "points": 41,
       "rank": 6
     },
     {
@@ -86,7 +86,7 @@
       "lastName": "Tsunoda",
       "url": "/en/drivers/yuki-tsunoda.html",
       "team": "RB",
-      "points": 7,
+      "points": 8,
       "rank": 11
     },
     {
@@ -102,8 +102,16 @@
       "lastName": "Hulkenberg",
       "url": "/en/drivers/nico-hulkenberg.html",
       "team": "Haas",
-      "points": 4,
+      "points": 6,
       "rank": 13
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Ricciardo",
+      "url": "/en/drivers/daniel-ricciardo.html",
+      "team": "RB",
+      "points": 5,
+      "rank": 14
     },
     {
       "firstName": "Kevin",
@@ -111,7 +119,7 @@
       "url": "/en/drivers/kevin-magnussen.html",
       "team": "Haas",
       "points": 1,
-      "rank": 14
+      "rank": 15
     },
     {
       "firstName": "Alexander",
@@ -119,7 +127,7 @@
       "url": "/en/drivers/alexander-albon.html",
       "team": "Williams",
       "points": 0,
-      "rank": 15
+      "rank": 16
     },
     {
       "firstName": "Esteban",
@@ -127,21 +135,13 @@
       "url": "/en/drivers/esteban-ocon.html",
       "team": "Alpine",
       "points": 0,
-      "rank": 16
+      "rank": 17
     },
     {
       "firstName": "Guanyu",
       "lastName": "Zhou",
       "url": "/en/drivers/guanyu-zhou.html",
       "team": "Kick Sauber",
-      "points": 0,
-      "rank": 17
-    },
-    {
-      "firstName": "Daniel",
-      "lastName": "Ricciardo",
-      "url": "/en/drivers/daniel-ricciardo.html",
-      "team": "RB",
       "points": 0,
       "rank": 18
     },
