@@ -118,7 +118,7 @@
     "shortName": "Miami",
     "circuitId": "Miami",
     "url": "https://www.formula1.com/en/racing/2024/Miami.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "03 - 05 May",
     "dates": {
       "practice1": "2024-05-03T16:30:00.000Z",
