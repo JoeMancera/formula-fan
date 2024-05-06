@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-06T06:04:48.677Z",
+  "updatedDate": "2024-05-06T12:00:45.948Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-miami-2024.6D2onvmEeRLjr1I2pJx71G",
+      "title": "FIA post-race press conference – Miami ",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151619400"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/mclaren-boss-brown-says-maiden-norris-win-long-overdue-as-he-praises-perfect.5Q2fhXKwYEptXDhY4ZY1Kp",
       "title": "McLaren boss Brown says maiden Norris win ‘long overdue’ as he praises ‘perfect’ Miami performance",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/bottas-hit-with-three-place-grid-penalty-for-miami-sprint-after-incident.1FrHGCEISUlcZFr1EQY7rP",
       "title": "Bottas hit with three-place grid penalty for Miami Sprint after incident with Piastri in Sprint Qualifying",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Practice__Sprint_Qualifying/2151322729"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-miami-2024.6ZHm4lGGhI4NVfL0BZ6syp",
-      "title": "FIA post-qualifying press conference – Miami ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Sprint__Qualifying/2151472465"
     }
   ]
 }
