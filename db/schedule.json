@@ -128,7 +128,21 @@
       "sprintShootout": "2024-05-03T20:30:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Lando Norris",
+          "time": "1:30:49.876"
+        },
+        {
+          "driver": "Max Verstappen",
+          "time": "+7.612"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+9.92"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1234/miami/race-result.html"
     }
   },
   {
