@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-07T06:04:35.814Z",
+  "updatedDate": "2024-05-07T12:00:46.833Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/perez-explains-what-caused-dramatic-turn-1-moment-where-he-nearly-tagged.1xPR56ATEtTn7aMhBzSzpZ",
+      "title": "Perez explains what caused dramatic Turn 1 moment where he nearly tagged Verstappen in Miami ",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miami/GettyImages-2151122259"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/horner-says-verstappen-picked-up-a-lot-of-damage-after-hitting-bollard-in.2HVehUv4KgzUqdHJByKK8b",
       "title": "Horner says Verstappen picked up ‘a lot of damage’ after hitting bollard in Miami GP",
@@ -19,7 +24,7 @@
     {
       "link": "https://www.formula1.com/en/latest/article/we-could-have-won-this-race-sainz-left-frustrated-after-pit-stop-timing-and.4Yse2r2PI3QrSCnoguzXOM",
       "title": "‘We could have won this race’ – Sainz left frustrated after pit stop timing and penalty costs him in Miami",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miami/GettyImages-2151157141"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miami/GettyImages-2151157141"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/hamilton-thrilled-with-tough-battles-in-miami-while-russell-rues-pretty.GasxbHWB29RO1xj575d3Y",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/verstappen-relieved-to-grab-second-pole-on-incredibly-tough-weekend-in-miami.2sPsEvxfmpQchgHm2AnZtw",
       "title": "Verstappen relieved to grab second pole on ‘incredibly tough’ weekend in Miami",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Sprint__Qualifying/2151460928"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-sprint-press-conference-miami-2024.46fHRALQifsFNmE34ZSF94",
-      "title": "FIA post-Sprint press conference – Miami ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Sprint__Qualifying/2151443828"
     }
   ]
 }
