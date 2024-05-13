@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-13T06:04:42.667Z",
+  "updatedDate": "2024-05-13T12:00:41.495Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/20-students-to-be-awarded-formula-1-engineering-scholarship-across-2024-and.53RvQbpjXllbY3iElMyRYg",
+      "title": "20 students to be awarded Formula 1 Engineering Scholarship across 2024 and 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/campaign/ESG/Engineering%20Scholarship%20Programme%20Still%202"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/greatest-season-ever-f1-clash-reveals-2024-update.6fWLlC91G0vkzUVGjPhgue",
       "title": "F1 Clash reveals 2024 update to deliver most authentic gameplay yet",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/hamilton-thrilled-with-tough-battles-in-miami-while-russell-rues-pretty.GasxbHWB29RO1xj575d3Y",
       "title": "Hamilton thrilled with ‘tough battles’ in Miami while Russell rues ‘pretty rubbish race from start to finish’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151606186"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-left-with-mixed-emotions-after-race-unravels-in-miami-while-norris.2KqQj8w6gRAHRd1yX1yNvk",
-      "title": "Piastri left with mixed emotions after race ‘unravels’ in Miami while Norris takes victory",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151609050"
     }
   ]
 }
