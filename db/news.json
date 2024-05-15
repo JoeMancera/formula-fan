@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-15T12:00:45.084Z",
+  "updatedDate": "2024-05-15T18:06:39.680Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2024-emilia-romagna-grand.6H3BnwUVJrVFqcyQTukIXv",
+      "title": "What tyres will the teams and drivers have for the 2024 Emilia Romagna Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151580504"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-emilia-romagna-grand-prix.6bj26UxnbMhdTWTXSkZS7l",
       "title": "What is the weather forecast for the 2024 Emilia Romagna Grand Prix?",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/hulkenberg-eager-for-more-haas-upgrades-to-edge-us-ahead-again-after-points.7cscNhRrnyYDpYIuUyVRFF",
       "title": "Hulkenberg eager for more Haas upgrades to ‘edge us ahead again’ after points near-miss in Miami GP",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Sprint__Qualifying/2151443615"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/miami-grand-prix-attracts-f1s-largest-live-audience-in-united-states.1TZioGIIUvFHEEsQ7qz304",
-      "title": "Miami Grand Prix attracts F1’s largest live audience in United States television history",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151604919"
     }
   ]
 }
