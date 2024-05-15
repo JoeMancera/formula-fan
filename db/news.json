@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-05-15T06:04:19.390Z",
+  "updatedDate": "2024-05-15T12:00:45.084Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-emilia-romagna-grand-prix.6bj26UxnbMhdTWTXSkZS7l",
+      "title": "What is the weather forecast for the 2024 Emilia Romagna Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Imola%20(Emilia-Romagna)/imola-weather"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2024-emilia-romagna-grand-prix-and-how-can-i.BJtrgnkyWopBeYisXwVXK",
+      "title": "What time is the Formula 1 2024 Emilia Romagna Grand Prix and how can I watch it?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Imola%20(Emilia-Romagna)/imola-start-2022"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/alex-albon-signs-multi-year-contract-extension-with-williams.IjlMRnuH947a5ZHglHYYq",
+      "title": "Albon signs multi-year contract extension with Williams",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Previews/2151108377"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/barcelona-fan-festival-announced-ahead-of-this-years-spanish-grand-prix.5sriEHC1IIgTY3hjvZkw2Q",
       "title": "Barcelona Fan Festival announced ahead of this year’s Spanish Grand Prix",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/miami-grand-prix-attracts-f1s-largest-live-audience-in-united-states.1TZioGIIUvFHEEsQ7qz304",
       "title": "Miami Grand Prix attracts F1’s largest live audience in United States television history",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami/2151604919"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/newey-very-flattered-as-he-responds-to-hamiltons-comments-about-joining-him.43VRRp8ThTIELGBO787mcR",
-      "title": "Newey ‘very flattered’ as he responds to Hamilton’s comments about joining him at Ferrari",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miami/newey-ferrari-miami-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/leave-him-to-it-norris-race-engineer-reflects-on-an-emotional-victory-for.2Bd3Asyh5pccH1eMGsnzH6",
-      "title": "‘Leave him to it’ – Norris’ race engineer reflects on an emotional victory for McLaren",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miami/GP2406_163405_67A2716"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/what-a-race-ocon-overjoyed-to-score-alpines-first-point-of-the-season-in.2gbBXJTScce7QBBVteFdIV",
-      "title": "'What a race' – Ocon overjoyed to score Alpine’s first point of the season in Miami",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Miami___Practice__Sprint_Qualifying/2151323480"
     }
   ]
 }
