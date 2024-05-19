@@ -150,7 +150,7 @@
     "shortName": "Emilia-Romagna",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "17 - 19 May",
     "dates": {
       "practice1": "2024-05-17T11:30:00.000Z",
@@ -160,7 +160,21 @@
       "race": "2024-05-19T13:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:25:25.252"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+0.725"
+        },
+        {
+          "driver": "Charles Leclerc",
+          "time": "+7.916"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1235/italy/race-result.html"
     }
   },
   {

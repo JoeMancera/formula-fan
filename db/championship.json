@@ -6,15 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen",
       "team": "Red Bull Racing",
-      "points": 136,
-      "rank": 0
-    },
-    {
-      "firstName": "Sergio",
-      "lastName": "Perez",
-      "url": "/en/drivers/sergio-perez",
-      "team": "Red Bull Racing",
-      "points": 103,
+      "points": 161,
       "rank": 0
     },
     {
@@ -22,7 +14,15 @@
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc",
       "team": "Ferrari",
-      "points": 98,
+      "points": 113,
+      "rank": 0
+    },
+    {
+      "firstName": "Sergio",
+      "lastName": "Perez",
+      "url": "/en/drivers/sergio-perez",
+      "team": "Red Bull Racing",
+      "points": 107,
       "rank": 0
     },
     {
@@ -30,7 +30,7 @@
       "lastName": "Norris",
       "url": "/en/drivers/lando-norris",
       "team": "McLaren",
-      "points": 83,
+      "points": 101,
       "rank": 0
     },
     {
@@ -38,7 +38,7 @@
       "lastName": "Sainz",
       "url": "/en/drivers/carlos-sainz",
       "team": "Ferrari",
-      "points": 83,
+      "points": 93,
       "rank": 0
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri",
       "team": "McLaren",
-      "points": 41,
+      "points": 53,
       "rank": 0
     },
     {
@@ -54,7 +54,15 @@
       "lastName": "Russell",
       "url": "/en/drivers/george-russell",
       "team": "Mercedes",
-      "points": 37,
+      "points": 44,
+      "rank": 0
+    },
+    {
+      "firstName": "Lewis",
+      "lastName": "Hamilton",
+      "url": "/en/drivers/lewis-hamilton",
+      "team": "Mercedes",
+      "points": 35,
       "rank": 0
     },
     {
@@ -66,19 +74,11 @@
       "rank": 0
     },
     {
-      "firstName": "Lewis",
-      "lastName": "Hamilton",
-      "url": "/en/drivers/lewis-hamilton",
-      "team": "Mercedes",
-      "points": 27,
-      "rank": 0
-    },
-    {
       "firstName": "Yuki",
       "lastName": "Tsunoda",
       "url": "/en/drivers/yuki-tsunoda",
       "team": "RB",
-      "points": 14,
+      "points": 15,
       "rank": 0
     },
     {
@@ -86,7 +86,7 @@
       "lastName": "Stroll",
       "url": "/en/drivers/lance-stroll",
       "team": "Aston Martin",
-      "points": 9,
+      "points": 11,
       "rank": 0
     },
     {
