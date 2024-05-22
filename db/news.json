@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-22T12:00:43.220Z",
+  "updatedDate": "2024-05-22T18:07:03.244Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-2-and-formula-3-calendars-for-2025-revealed.7lUhLtjOg1yClyM6LF1pja",
+      "title": "Formula 2 and Formula 3 calendars for 2025 revealed",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Formula%202/F2%20F3"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/vasseur-says-ferrari-and-mclaren-can-come-back-at-red-bull-as-he-makes.1Hua2jMkJ7KF7EcMvNwszW",
       "title": "Vasseur says Ferrari and McLaren can ‘come back at Red Bull’ as he makes ‘gamechanger’ title race forecast",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/official-grid-ferraris-promoted-at-home-and-alonso-starts-from-imola-pit.7g1AGhJT4MgOJI4VHey165",
       "title": "OFFICIAL GRID: Ferraris promoted at home and Alonso starts from Imola pit lane",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Emilia_Romagna/2153628978"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-loses-front-row-grid-slot-after-penalty-for-impeding-magnussen.66AzYMEkT7Qp6Twb7Dv5lI",
-      "title": "Piastri loses front-row grid slot after penalty for impeding Magnussen",
-      "image": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/01c691f1-1627-45d6-97a3-bda3bedd1337/09077c5f-27e6-499a-bfeb-a1f9dc6acedf/432x243/match/image.jpg"
     }
   ]
 }
