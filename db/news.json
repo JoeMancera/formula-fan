@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-05-24T12:00:42.803Z",
+  "updatedDate": "2024-05-24T18:07:23.667Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-team-principals-press-conference-monaco-2024.1RZgq7TY96lUKdBGOPEtvF",
+      "title": "FIA Team Principals press conference – Monaco",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco___Practice/2154462878"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-havent-made-my-mind-up-yet-says-sainz-as-he-assesses-2025-seat-options.5DH7LobvMvAq51RzxnUXPZ",
       "title": "‘I haven’t made my mind up yet’ says Sainz as he assesses 2025 seat options ahead of Monaco",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/perez-believes-difficult-imola-weekend-was-one-off-as-he-explains-what.4jKaG8RINS3WCnWJrZqxa3",
       "title": "Perez believes difficult Imola weekend was ‘one-off’ as he explains what compromised his race",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Emilia_Romagna/2153682946"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/vasseur-a-bit-frustrated-as-he-pinpoints-where-ferrari-lost-chance-of-home.70EueHRKe5Xl4fnXbIt1C7",
-      "title": "Vasseur ‘a bit frustrated’ as he pinpoints where Ferrari lost chance of home Imola victory",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Emilia_Romagna/2153666476"
     }
   ]
 }
