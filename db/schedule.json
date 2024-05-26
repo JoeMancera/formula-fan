@@ -182,7 +182,7 @@
     "shortName": "Monaco",
     "circuitId": "Monaco",
     "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "24 - 26 May",
     "dates": {
       "practice1": "2024-05-24T11:30:00.000Z",
@@ -192,7 +192,21 @@
       "race": "2024-05-26T13:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Charles Leclerc",
+          "time": "2:23:15.554"
+        },
+        {
+          "driver": "Oscar Piastri",
+          "time": "+7.152"
+        },
+        {
+          "driver": "Carlos Sainz",
+          "time": "+7.585"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1236/monaco/race-result.html"
     }
   },
   {
