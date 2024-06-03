@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-06-03T06:04:46.694Z",
+  "updatedDate": "2024-06-03T12:00:40.034Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-alpine-announce-they-will-part-ways-with-ocon-at-end-of-2024-season.7ra4uaXdrYOHfklwU9TEqH",
+      "title": "Alpine announce they will part ways with Ocon at end of 2024 season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/ocon-portrait-2024-1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/we-are-not-robots-ocon-confirms-he-will-race-in-canada-and-hits-out-at-abuse.3Z3LdE3q1EqKpvZuaTp89R",
       "title": "'We are not robots' – Ocon confirms he will race in Canada and hits out at ‘abuse’ following Monaco crash",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-monaco-2024.3haNcTQ1SoWmg8evqn3Po3",
       "title": "FIA post-race press conference – Monaco",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154753324"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/verstappen-reflects-on-lowly-p6-finish-in-monaco-gp-as-he-takes-one-positive.5PlWBJMVoKz0SnEkKTIsjY",
-      "title": "Verstappen reflects on lowly P6 finish in Monaco GP as he takes one ‘positive’ from painful weekend",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154730667"
     }
   ]
 }
