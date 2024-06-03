@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-06-03T12:00:40.034Z",
+  "updatedDate": "2024-06-03T18:07:44.001Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/wache-gives-his-take-on-neweys-impending-departure-from-red-bull-as-2026.6qXEmhi2rXiLYFhkSs5XEO",
+      "title": "Wache gives his take on Newey’s impending departure from Red Bull as 2026 rule changes loom",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/wache-newey-2024-comp"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-alpine-announce-they-will-part-ways-with-ocon-at-end-of-2024-season.7ra4uaXdrYOHfklwU9TEqH",
       "title": "Alpine announce they will part ways with Ocon at end of 2024 season",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/russell-explains-why-he-was-confident-of-a-podium-or-even-victory-prior-to.49FsALES5HeyPYvbweOb9S",
       "title": "Russell explains why he was confident of a podium or ‘even victory’ prior to red flag in Monaco",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154728431"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-monaco-2024.3haNcTQ1SoWmg8evqn3Po3",
-      "title": "FIA post-race press conference – Monaco",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154753324"
     }
   ]
 }
