@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-06-05T12:00:51.112Z",
+  "updatedDate": "2024-06-05T18:06:47.106Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-canadian-grand-prix.1LJdbHzcig0iKZlVK5J4aK",
+      "title": "What is the weather forecast for the 2024 Canadian Grand Prix?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Canada/montreal-start-2023-weather"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2024-canadian-grand-prix-on-f1-tv-pro.2QHpBBVtS5KQezpEvBsrmP",
+      "title": "How to stream the Formula 1 2024 Canadian Grand Prix on F1 TV Pro",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/F1%20TV/F1%20TV%20promo%202024"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/jack-doohan-to-drive-esteban-ocons-car-during-first-practice-in-canada.76zfU6GPLuw3xUv94AnROn",
       "title": "Doohan to drive Ocon’s car during first practice in Canada",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/wolff-responds-to-hamiltons-comments-about-russell-qualifying-ahead-of-him.5ovchbLbCc7pgyNcYIgzf3",
       "title": "Wolff responds to Hamilton’s comments about Russell qualifying ahead of him",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/wolff-russell-hamilton-comp-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/leclerc-says-he-struggled-to-see-in-closing-laps-of-dream-monaco-victory.2MVwGHLFEpWdHApQrnVIQY",
-      "title": "Leclerc says he ‘struggled to see’ in closing laps of dream Monaco victory after fighting back tears",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154746121"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/haas-keen-to-move-on-from-monaco-after-sunday-to-forget-with-double-dnf.3SZkNxBQYKhCDJAr9R3Dw0",
-      "title": "Haas keen to move on from Monaco after ‘Sunday to forget’ with double DNF likely to have 'big cost'",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Haas/GettyImages-2154731165"
     }
   ]
 }
