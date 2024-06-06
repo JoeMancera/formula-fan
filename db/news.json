@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-06-06T12:00:52.986Z",
+  "updatedDate": "2024-06-06T18:06:50.202Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-unveils-formula-1-regulations-for-2026-and-beyond-featuring-more-agile.75qJiYOHXgeJqsVQtDr2UB",
+      "title": "FIA unveils Formula 1 regulations for 2026 and beyond featuring more agile cars and active aerodynamics",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/2026%20regulations/2"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-canadian-grand-prix.1LJdbHzcig0iKZlVK5J4aK",
       "title": "What is the weather forecast for the 2024 Canadian Grand Prix?",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/horner-calls-on-red-bull-to-understand-weaknesses-after-challenging-monaco.4IwOTV1dxjPYG7ALzkjwrU",
       "title": "Horner calls on Red Bull to ‘understand weaknesses’ after challenging Monaco GP weekend",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco___Practice/2154459480"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/wolff-responds-to-hamiltons-comments-about-russell-qualifying-ahead-of-him.5ovchbLbCc7pgyNcYIgzf3",
-      "title": "Wolff responds to Hamilton’s comments about Russell qualifying ahead of him",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/wolff-russell-hamilton-comp-2024"
     }
   ]
 }
