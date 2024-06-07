@@ -1,6 +1,26 @@
 {
-  "updatedDate": "2024-06-06T18:06:50.202Z",
+  "updatedDate": "2024-06-07T00:10:45.812Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-canada-2024.28C6nPakDUoKbmIYYaljkr",
+      "title": "FIA Thursday press conference – Canada",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Canada___Previews/2156387381"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-believes-mercedes-podium-isnt-far-away-as-he-confirms-canada.2B0CXQ1NtjZnPsfb3ZnL5y",
+      "title": "Hamilton believes Mercedes podium isn’t ‘far away’ as he confirms Canada upgrade plan",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Canada___Previews/2156387393"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/perez-explains-why-he-wants-to-finish-his-f1-career-at-red-bull-as-he.2kOygJvI2T9XG3Tz2abNwV",
+      "title": "Perez explains why he wants to finish his F1 career at Red Bull as he reflects on new contract extension",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Canada___Previews/2156387404"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/ocon-opens-up-on-alpine-exit-as-he-dismisses-suggestions-of-monaco.21ZYQoXtFhdfn6eqVPDzc3",
+      "title": "Ocon opens up on Alpine exit as he dismisses suggestions of Monaco ‘punishment’",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Canada___Previews/2156382900"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/fia-unveils-formula-1-regulations-for-2026-and-beyond-featuring-more-agile.75qJiYOHXgeJqsVQtDr2UB",
       "title": "FIA unveils Formula 1 regulations for 2026 and beyond featuring more agile cars and active aerodynamics",
@@ -14,7 +34,7 @@
     {
       "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2024-canadian-grand-prix-on-f1-tv-pro.2QHpBBVtS5KQezpEvBsrmP",
       "title": "How to stream the Formula 1 2024 Canadian Grand Prix on F1 TV Pro",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/F1%20TV/F1%20TV%20promo%202024"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/F1%20TV/English%20-%20Lifestyle%20-%20Helmets_262449_1200x628"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/jack-doohan-to-drive-esteban-ocons-car-during-first-practice-in-canada.76zfU6GPLuw3xUv94AnROn",
@@ -90,26 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/rb-boss-bayer-hails-tsunoda-for-big-step-forward-in-2024-as-he-makes.7nOiyFf4ulhl8K3jGsCWBx",
       "title": "RB boss Bayer hails Tsunoda for ‘big step forward’ in 2024 as he makes statement on his future",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/bayer-tsunoda-comp-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/russell-shares-why-mercedes-are-feeling-very-confident-for-2026-power-unit.3pWLrm0iudY1cyGAWxaUj2",
-      "title": "Russell shares why Mercedes are feeling ‘very confident’ for 2026 power unit regulations",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco___Previews/2154279898"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ferrari-facing-unavoidable-title-race-consideration-after-leclercs-monaco.1TsVs1a0NlaVNRnpogVIiU",
-      "title": "Ferrari facing ‘unavoidable’ title race consideration after Leclerc’s Monaco win, says team ambassador Gene",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco/2154766539"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/brundle-backs-competitive-animal-newey-to-stay-in-f1-as-he-pinpoints-what.5BQrny3ZOjyA0Jrn0jQ4JD",
-      "title": "Brundle backs ‘competitive animal’ Newey to stay in F1 as he pinpoints what potential next team must have",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Miscellaneous/newey-brundle-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/horner-calls-on-red-bull-to-understand-weaknesses-after-challenging-monaco.4IwOTV1dxjPYG7ALzkjwrU",
-      "title": "Horner calls on Red Bull to ‘understand weaknesses’ after challenging Monaco GP weekend",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Monaco___Practice/2154459480"
     }
   ]
 }
