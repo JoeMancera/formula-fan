@@ -232,7 +232,7 @@
     "shortName": "Canada",
     "circuitId": "Canada",
     "url": "https://www.formula1.com/en/racing/2024/Canada.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "07 - 09 Jun",
     "dates": {
       "practice1": "2024-06-07T17:30:00.000Z",
@@ -242,7 +242,21 @@
       "race": "2024-06-09T18:00:00.000Z"
     },
     "results": {
-      "podium": []
+      "podium": [
+        {
+          "driver": "Max Verstappen",
+          "time": "1:45:47.927"
+        },
+        {
+          "driver": "Lando Norris",
+          "time": "+3.879"
+        },
+        {
+          "driver": "George Russell",
+          "time": "+4.317"
+        }
+      ],
+      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1237/canada/race-result.html"
     }
   },
   {

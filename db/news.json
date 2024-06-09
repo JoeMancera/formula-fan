@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-06-09T18:06:25.211Z",
+  "updatedDate": "2024-06-09T21:05:01.228Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-never-say-die-drive-from-norris-gets-your-canada-vote.1JhKHruxmFHO7CndDQ7rZQ",
+      "title": "DRIVER OF THE DAY: Never-say-die drive from Norris gets your Canada vote",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/manual/Misc/Driver%20Of%20The%20Day/2024/Norris"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/official-grid-russell-on-pole-a-ferrari-less-top-ten-and-pit-lane-starts-for.3dgzxd14EGetxM5p0KbT7y",
       "title": "OFFICIAL GRID: Russell on pole, a Ferrari-less top ten, and pit-lane starts for the Kick Saubers",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/gasly-reflects-on-his-partnership-with-ocon-as-he-addresses-his-own-alpine.SZKsmwUxMw64ckprZbPxe",
       "title": "Gasly reflects on his partnership with Ocon as he addresses his own Alpine future",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Miscellaneous/ocon-gasly-2024-portrait"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/leclerc-assesses-title-chances-after-monaco-win-as-he-claims-ferrari-are.1TCL6mGvKOQVlfFsDCMh0W",
-      "title": "Leclerc assesses title chances after Monaco win as he claims Ferrari are improving ‘more than anybody else’",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Canada___Previews/2156393048"
     }
   ]
 }
