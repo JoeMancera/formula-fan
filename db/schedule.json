@@ -1,560 +1,386 @@
 [
   {
-    "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Bahrain",
     "circuitId": "Bahrain",
     "url": "https://www.formula1.com/en/racing/2024/Bahrain.html",
-    "state": "finished",
-    "fallbackDate": "29 Feb - 02 Mar",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-02-29T11:30:00.000Z",
-      "practice2": "2024-02-29T15:00:00.000Z",
-      "practice3": "2024-03-01T12:30:00.000Z",
-      "qualifying": "2024-03-01T16:00:00.000Z",
-      "race": "2024-03-02T15:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:31:44.742"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+22.457"
-        },
-        {
-          "driver": "Carlos Sainz",
-          "time": "+25.11"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1229/bahrain/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Saudi Arabia",
     "circuitId": "Saudi_Arabia",
     "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
-    "state": "finished",
-    "fallbackDate": "07 - 09 Mar",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-03-07T13:30:00.000Z",
-      "practice2": "2024-03-07T17:10:00.000Z",
-      "practice3": "2024-03-08T13:30:00.000Z",
-      "qualifying": "2024-03-08T17:00:00.000Z",
-      "race": "2024-03-09T17:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:20:43.273"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+13.643"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+18.639"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1230/saudi-arabia/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Australia",
     "circuitId": "Australia",
     "url": "https://www.formula1.com/en/racing/2024/Australia.html",
-    "state": "finished",
-    "fallbackDate": "22 - 24 Mar",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-03-22T01:30:00.000Z",
-      "practice2": "2024-03-22T05:00:00.000Z",
-      "practice3": "2024-03-23T01:30:00.000Z",
-      "qualifying": "2024-03-23T05:00:00.000Z",
-      "race": "2024-03-24T04:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Carlos Sainz",
-          "time": "1:20:26.843"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+2.366"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+5.904"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1231/australia/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Azerbaijan",
     "circuitId": "Azerbaijan",
     "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
-    "state": "schedule",
-    "fallbackDate": "13 - 15 Sep",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-09-13T09:30:00.000Z",
-      "practice2": "2024-09-13T13:00:00.000Z",
-      "practice3": "2024-09-14T08:30:00.000Z",
-      "qualifying": "2024-09-14T12:00:00.000Z",
-      "race": "2024-09-15T11:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024",
+    "name": "",
     "shortName": "Miami",
     "circuitId": "Miami",
     "url": "https://www.formula1.com/en/racing/2024/Miami.html",
-    "state": "finished",
-    "fallbackDate": "03 - 05 May",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-05-03T16:30:00.000Z",
-      "qualifying": "2024-05-04T20:00:00.000Z",
-      "race": "2024-05-05T20:00:00.000Z",
-      "sprint": "2024-05-04T16:00:00.000Z",
-      "sprintShootout": "2024-05-03T20:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Lando Norris",
-          "time": "1:30:49.876"
-        },
-        {
-          "driver": "Max Verstappen",
-          "time": "+7.612"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+9.92"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1234/miami/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024",
+    "name": "",
     "shortName": "Emilia-Romagna",
     "circuitId": "EmiliaRomagna",
     "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
-    "state": "finished",
-    "fallbackDate": "17 - 19 May",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-05-17T11:30:00.000Z",
-      "practice2": "2024-05-17T15:00:00.000Z",
-      "practice3": "2024-05-18T10:30:00.000Z",
-      "qualifying": "2024-05-18T14:00:00.000Z",
-      "race": "2024-05-19T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:25:25.252"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+0.725"
-        },
-        {
-          "driver": "Charles Leclerc",
-          "time": "+7.916"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1235/italy/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 GRAND PRIX DE MONACO 2024",
+    "name": "",
     "shortName": "Monaco",
     "circuitId": "Monaco",
     "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
-    "state": "finished",
-    "fallbackDate": "24 - 26 May",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-05-24T11:30:00.000Z",
-      "practice2": "2024-05-24T15:00:00.000Z",
-      "practice3": "2024-05-25T10:30:00.000Z",
-      "qualifying": "2024-05-25T14:00:00.000Z",
-      "race": "2024-05-26T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Charles Leclerc",
-          "time": "2:23:15.554"
-        },
-        {
-          "driver": "Oscar Piastri",
-          "time": "+7.152"
-        },
-        {
-          "driver": "Carlos Sainz",
-          "time": "+7.585"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1236/monaco/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
+    "name": "",
     "shortName": "Spain",
     "circuitId": "Spain",
     "url": "https://www.formula1.com/en/racing/2024/Spain.html",
-    "state": "schedule",
-    "fallbackDate": "21 - 23 Jun",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-06-21T11:30:00.000Z",
-      "practice2": "2024-06-21T15:00:00.000Z",
-      "practice3": "2024-06-22T10:30:00.000Z",
-      "qualifying": "2024-06-22T14:00:00.000Z",
-      "race": "2024-06-23T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 AWS GRAND PRIX DU CANADA 2024",
+    "name": "",
     "shortName": "Canada",
     "circuitId": "Canada",
     "url": "https://www.formula1.com/en/racing/2024/Canada.html",
-    "state": "finished",
-    "fallbackDate": "07 - 09 Jun",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-06-07T17:30:00.000Z",
-      "practice2": "2024-06-07T21:00:00.000Z",
-      "practice3": "2024-06-08T16:30:00.000Z",
-      "qualifying": "2024-06-08T20:00:00.000Z",
-      "race": "2024-06-09T18:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:45:47.927"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+3.879"
-        },
-        {
-          "driver": "George Russell",
-          "time": "+4.317"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1237/canada/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Austria",
     "circuitId": "Austria",
     "url": "https://www.formula1.com/en/racing/2024/Austria.html",
-    "state": "schedule",
-    "fallbackDate": "28 - 30 Jun",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-06-28T10:30:00.000Z",
-      "qualifying": "2024-06-29T14:00:00.000Z",
-      "race": "2024-06-30T13:00:00.000Z",
-      "sprint": "2024-06-29T10:00:00.000Z",
-      "sprintShootout": "2024-06-28T14:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",
+    "name": "",
     "shortName": "Great Britain",
     "circuitId": "Great_Britain",
     "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
-    "state": "schedule",
-    "fallbackDate": "05 - 07 Jul",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-07-05T11:30:00.000Z",
-      "practice2": "2024-07-05T15:00:00.000Z",
-      "practice3": "2024-07-06T10:30:00.000Z",
-      "qualifying": "2024-07-06T14:00:00.000Z",
-      "race": "2024-07-07T14:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 HUNGARIAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Hungary",
     "circuitId": "Hungary",
     "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
-    "state": "schedule",
-    "fallbackDate": "19 - 21 Jul",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-07-19T11:30:00.000Z",
-      "practice2": "2024-07-19T15:00:00.000Z",
-      "practice3": "2024-07-20T10:30:00.000Z",
-      "qualifying": "2024-07-20T14:00:00.000Z",
-      "race": "2024-07-21T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024",
+    "name": "",
     "shortName": "Belgium",
     "circuitId": "Belgium",
     "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
-    "state": "schedule",
-    "fallbackDate": "26 - 28 Jul",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-07-26T11:30:00.000Z",
-      "practice2": "2024-07-26T15:00:00.000Z",
-      "practice3": "2024-07-27T10:30:00.000Z",
-      "qualifying": "2024-07-27T14:00:00.000Z",
-      "race": "2024-07-28T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
+    "name": "",
     "shortName": "Netherlands",
     "circuitId": "Netherlands",
     "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
-    "state": "schedule",
-    "fallbackDate": "23 - 25 Aug",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-08-23T10:30:00.000Z",
-      "practice2": "2024-08-23T14:00:00.000Z",
-      "practice3": "2024-08-24T09:30:00.000Z",
-      "qualifying": "2024-08-24T13:00:00.000Z",
-      "race": "2024-08-25T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
+    "name": "",
     "shortName": "Italy",
     "circuitId": "Italy",
     "url": "https://www.formula1.com/en/racing/2024/Italy.html",
-    "state": "schedule",
-    "fallbackDate": "30 Aug - 01 Sep",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-08-30T11:30:00.000Z",
-      "practice2": "2024-08-30T15:00:00.000Z",
-      "practice3": "2024-08-31T10:30:00.000Z",
-      "qualifying": "2024-08-31T14:00:00.000Z",
-      "race": "2024-09-01T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024",
+    "name": "",
     "shortName": "Singapore",
     "circuitId": "Singapore",
     "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
-    "state": "schedule",
-    "fallbackDate": "20 - 22 Sep",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-09-20T09:30:00.000Z",
-      "practice2": "2024-09-20T13:00:00.000Z",
-      "practice3": "2024-09-21T09:30:00.000Z",
-      "qualifying": "2024-09-21T13:00:00.000Z",
-      "race": "2024-09-22T12:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024",
+    "name": "",
     "shortName": "Japan",
     "circuitId": "Japan",
     "url": "https://www.formula1.com/en/racing/2024/Japan.html",
-    "state": "finished",
-    "fallbackDate": "05 - 07 Apr",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-04-05T02:30:00.000Z",
-      "practice2": "2024-04-05T06:00:00.000Z",
-      "practice3": "2024-04-06T02:30:00.000Z",
-      "qualifying": "2024-04-06T06:00:00.000Z",
-      "race": "2024-04-07T05:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:54:23.566"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+12.535"
-        },
-        {
-          "driver": "Carlos Sainz",
-          "time": "+20.866"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1232/japan/race-result.html"
+      "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024",
+    "name": "",
     "shortName": "Qatar",
     "circuitId": "Qatar",
     "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
-    "state": "schedule",
-    "fallbackDate": "29 Nov - 01 Dec",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-11-29T13:30:00.000Z",
-      "qualifying": "2024-11-30T17:00:00.000Z",
-      "race": "2024-12-01T17:00:00.000Z",
-      "sprint": "2024-11-30T13:00:00.000Z",
-      "sprintShootout": "2024-11-29T17:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024",
+    "name": "",
     "shortName": "United States",
     "circuitId": "United_States",
     "url": "https://www.formula1.com/en/racing/2024/United_States.html",
-    "state": "schedule",
-    "fallbackDate": "18 - 20 Oct",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-10-18T17:30:00.000Z",
-      "qualifying": "2024-10-19T22:00:00.000Z",
-      "race": "2024-10-20T19:00:00.000Z",
-      "sprint": "2024-10-19T18:00:00.000Z",
-      "sprintShootout": "2024-10-18T21:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024",
+    "name": "",
     "shortName": "Mexico",
     "circuitId": "Mexico",
     "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
-    "state": "schedule",
-    "fallbackDate": "25 - 27 Oct",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-10-25T18:30:00.000Z",
-      "practice2": "2024-10-25T22:00:00.000Z",
-      "practice3": "2024-10-26T17:30:00.000Z",
-      "qualifying": "2024-10-26T21:00:00.000Z",
-      "race": "2024-10-27T20:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024",
+    "name": "",
     "shortName": "Brazil",
     "circuitId": "Brazil",
     "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
-    "state": "schedule",
-    "fallbackDate": "01 - 03 Nov",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-11-01T14:30:00.000Z",
-      "qualifying": "2024-11-02T18:00:00.000Z",
-      "race": "2024-11-03T17:00:00.000Z",
-      "sprint": "2024-11-02T14:00:00.000Z",
-      "sprintShootout": "2024-11-01T18:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
+    "name": "",
     "shortName": "Las Vegas",
     "circuitId": "Las_Vegas",
     "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
-    "state": "schedule",
-    "fallbackDate": "21 - 23 Nov",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-11-22T02:30:00.000Z",
-      "practice2": "2024-11-22T06:00:00.000Z",
-      "practice3": "2024-11-23T02:30:00.000Z",
-      "qualifying": "2024-11-23T06:00:00.000Z",
-      "race": "2024-11-24T06:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024",
+    "name": "",
     "shortName": "Abu Dhabi",
     "circuitId": "United_Arab_Emirates",
     "url": "https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html",
-    "state": "schedule",
-    "fallbackDate": "06 - 08 Dec",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-12-06T09:30:00.000Z",
-      "practice2": "2024-12-06T13:00:00.000Z",
-      "practice3": "2024-12-07T10:30:00.000Z",
-      "qualifying": "2024-12-07T14:00:00.000Z",
-      "race": "2024-12-08T13:00:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 LENOVO CHINESE GRAND PRIX 2024",
+    "name": "",
     "shortName": "China",
     "circuitId": "China",
     "url": "https://www.formula1.com/en/racing/2024/China.html",
-    "state": "finished",
-    "fallbackDate": "19 - 21 Apr",
+    "state": "canceled",
+    "fallbackDate": "",
     "dates": {
-      "practice1": "2024-04-19T03:30:00.000Z",
-      "qualifying": "2024-04-20T07:00:00.000Z",
-      "race": "2024-04-21T07:00:00.000Z",
-      "sprint": "2024-04-20T03:00:00.000Z",
-      "sprintShootout": "2024-04-19T07:30:00.000Z"
+      "practice1": null,
+      "qualifying": null,
+      "race": null
     },
     "results": {
-      "podium": [
-        {
-          "driver": "Max Verstappen",
-          "time": "1:40:52.554"
-        },
-        {
-          "driver": "Lando Norris",
-          "time": "+13.773"
-        },
-        {
-          "driver": "Sergio Perez",
-          "time": "+19.16"
-        }
-      ],
-      "fullResults": "https://www.formula1.com/en/results.html/2024/races/1233/china/race-result.html"
+      "podium": []
     }
   }
 ]
