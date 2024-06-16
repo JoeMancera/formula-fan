@@ -1,9 +1,9 @@
 [
   {
     "name": "",
-    "shortName": "Bahrain",
+    "shortName": "",
     "circuitId": "Bahrain",
-    "url": "https://www.formula1.com/en/racing/2024/Bahrain.html",
+    "url": "https://www.formula1.com/en/racing/2025/Bahrain.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -17,9 +17,9 @@
   },
   {
     "name": "",
-    "shortName": "Saudi Arabia",
+    "shortName": "",
     "circuitId": "Saudi_Arabia",
-    "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
+    "url": "https://www.formula1.com/en/racing/2025/Saudi_Arabia.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -33,9 +33,9 @@
   },
   {
     "name": "",
-    "shortName": "Australia",
+    "shortName": "",
     "circuitId": "Australia",
-    "url": "https://www.formula1.com/en/racing/2024/Australia.html",
+    "url": "https://www.formula1.com/en/racing/2025/Australia.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -49,9 +49,9 @@
   },
   {
     "name": "",
-    "shortName": "Azerbaijan",
+    "shortName": "",
     "circuitId": "Azerbaijan",
-    "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
+    "url": "https://www.formula1.com/en/racing/2025/Azerbaijan.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -65,9 +65,9 @@
   },
   {
     "name": "",
-    "shortName": "Miami",
+    "shortName": "",
     "circuitId": "Miami",
-    "url": "https://www.formula1.com/en/racing/2024/Miami.html",
+    "url": "https://www.formula1.com/en/racing/2025/Miami.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -81,9 +81,9 @@
   },
   {
     "name": "",
-    "shortName": "Emilia-Romagna",
+    "shortName": "",
     "circuitId": "EmiliaRomagna",
-    "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
+    "url": "https://www.formula1.com/en/racing/2025/EmiliaRomagna.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -97,9 +97,9 @@
   },
   {
     "name": "",
-    "shortName": "Monaco",
+    "shortName": "",
     "circuitId": "Monaco",
-    "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
+    "url": "https://www.formula1.com/en/racing/2025/Monaco.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -113,9 +113,9 @@
   },
   {
     "name": "",
-    "shortName": "Spain",
+    "shortName": "",
     "circuitId": "Spain",
-    "url": "https://www.formula1.com/en/racing/2024/Spain.html",
+    "url": "https://www.formula1.com/en/racing/2025/Spain.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -129,9 +129,9 @@
   },
   {
     "name": "",
-    "shortName": "Canada",
+    "shortName": "",
     "circuitId": "Canada",
-    "url": "https://www.formula1.com/en/racing/2024/Canada.html",
+    "url": "https://www.formula1.com/en/racing/2025/Canada.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -145,9 +145,9 @@
   },
   {
     "name": "",
-    "shortName": "Austria",
+    "shortName": "",
     "circuitId": "Austria",
-    "url": "https://www.formula1.com/en/racing/2024/Austria.html",
+    "url": "https://www.formula1.com/en/racing/2025/Austria.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -161,9 +161,9 @@
   },
   {
     "name": "",
-    "shortName": "Great Britain",
+    "shortName": "",
     "circuitId": "Great_Britain",
-    "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
+    "url": "https://www.formula1.com/en/racing/2025/Great_Britain.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -177,9 +177,9 @@
   },
   {
     "name": "",
-    "shortName": "Hungary",
+    "shortName": "",
     "circuitId": "Hungary",
-    "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
+    "url": "https://www.formula1.com/en/racing/2025/Hungary.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -193,9 +193,9 @@
   },
   {
     "name": "",
-    "shortName": "Belgium",
+    "shortName": "",
     "circuitId": "Belgium",
-    "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
+    "url": "https://www.formula1.com/en/racing/2025/Belgium.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -209,9 +209,9 @@
   },
   {
     "name": "",
-    "shortName": "Netherlands",
+    "shortName": "",
     "circuitId": "Netherlands",
-    "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
+    "url": "https://www.formula1.com/en/racing/2025/Netherlands.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -225,9 +225,9 @@
   },
   {
     "name": "",
-    "shortName": "Italy",
+    "shortName": "",
     "circuitId": "Italy",
-    "url": "https://www.formula1.com/en/racing/2024/Italy.html",
+    "url": "https://www.formula1.com/en/racing/2025/Italy.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -241,9 +241,9 @@
   },
   {
     "name": "",
-    "shortName": "Singapore",
+    "shortName": "",
     "circuitId": "Singapore",
-    "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
+    "url": "https://www.formula1.com/en/racing/2025/Singapore.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -257,9 +257,9 @@
   },
   {
     "name": "",
-    "shortName": "Japan",
+    "shortName": "",
     "circuitId": "Japan",
-    "url": "https://www.formula1.com/en/racing/2024/Japan.html",
+    "url": "https://www.formula1.com/en/racing/2025/Japan.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -273,9 +273,9 @@
   },
   {
     "name": "",
-    "shortName": "Qatar",
+    "shortName": "",
     "circuitId": "Qatar",
-    "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
+    "url": "https://www.formula1.com/en/racing/2025/Qatar.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -289,9 +289,9 @@
   },
   {
     "name": "",
-    "shortName": "United States",
+    "shortName": "",
     "circuitId": "United_States",
-    "url": "https://www.formula1.com/en/racing/2024/United_States.html",
+    "url": "https://www.formula1.com/en/racing/2025/United_States.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -305,9 +305,9 @@
   },
   {
     "name": "",
-    "shortName": "Mexico",
+    "shortName": "",
     "circuitId": "Mexico",
-    "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
+    "url": "https://www.formula1.com/en/racing/2025/Mexico.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -321,9 +321,9 @@
   },
   {
     "name": "",
-    "shortName": "Brazil",
+    "shortName": "",
     "circuitId": "Brazil",
-    "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
+    "url": "https://www.formula1.com/en/racing/2025/Brazil.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -337,9 +337,9 @@
   },
   {
     "name": "",
-    "shortName": "Las Vegas",
+    "shortName": "",
     "circuitId": "Las_Vegas",
-    "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
+    "url": "https://www.formula1.com/en/racing/2025/Las_Vegas.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -353,9 +353,9 @@
   },
   {
     "name": "",
-    "shortName": "Abu Dhabi",
+    "shortName": "",
     "circuitId": "United_Arab_Emirates",
-    "url": "https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html",
+    "url": "https://www.formula1.com/en/racing/2025/United_Arab_Emirates.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
@@ -369,9 +369,9 @@
   },
   {
     "name": "",
-    "shortName": "China",
+    "shortName": "",
     "circuitId": "China",
-    "url": "https://www.formula1.com/en/racing/2024/China.html",
+    "url": "https://www.formula1.com/en/racing/2025/China.html",
     "state": "canceled",
     "fallbackDate": "",
     "dates": {
