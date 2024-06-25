@@ -1,6 +1,6 @@
 const SELECTORS = {
-	nameGP: 'h2.f1--s',
-	shortNameGP: 'h1',
+	nameGP: 'h2.f1-heading',
+	shortNameGP: 'h1.font-formula',
 	raceTime: '.row .js-race',
 	qualyTime: '.row .js-qualifying',
 	practice3Time: '.row .js-practice-3',
