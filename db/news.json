@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-06-27T12:00:49.717Z",
+  "updatedDate": "2024-06-27T18:07:03.111Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/im-very-happy-where-im-at-verstappen-reiterates-focus-on-future-with-red.4F29IdQxoh7SP76zy6V2KV",
+      "title": "‘I’m very happy where I’m at’ – Verstappen reiterates focus on future with Red Bull as he assesses challenge posed by McLaren",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Austria___Previews/2159513783"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/former-alpine-tech-chief-matt-harman-heads-bumper-list-of-26-williams-hires.41ymWaiX90AmjoScccl2lv",
+      "title": "Former Alpine tech chief Matt Harman heads bumper list of 26 Williams hires as team bolster technical structure",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Bahrain/GettyImages-1985437424"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/leclerc-not-worried-about-relationship-with-sainz-after-barcelona-clash-as.58cVeKWq3v47cdpWffaWpR",
+      "title": "Leclerc ‘not worried’ about relationship with Sainz after Barcelona clash as he reveals post-race discussion",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Spain/Sainz%20and%20Leclerc%20Spain"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-aston-martin-confirm-stroll-to-remain-as-alonsos-team-mate-after.2jFNF8IKenDvIeDXEpblBD",
       "title": "Aston Martin confirm Stroll to remain as Alonso’s team mate after contract extension",
@@ -29,7 +44,7 @@
     {
       "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2024-austrian-grand-prix-on-f1-tv-pro.536LEeU1vOT3jmGXFEs2eu",
       "title": "How to stream the Formula 1 2024 Austrian Grand Prix on F1 TV Pro",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/F1%20TV/F1%20TV%20promo%202024"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/F1%20TV/English_-_Car_-_Austria%20GP_1200x628"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-austrian-grand-prix.617NT55kmSv4DuhUlPp4FJ",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-norris-your-winner-despite-narrowly-missing-out-on.5nyREANtzN53V37yiaf85i",
       "title": "DRIVER OF THE DAY: Norris your winner despite narrowly missing out on Barcelona victory ",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/manual/Misc/Driver%20Of%20The%20Day/2024/Norris"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-spain-as-perez-and-sargeant-take-three.5IHXi6DfIJlDj8FjAGgUsQ",
-      "title": "OFFICIAL GRID: Who starts where in Spain as Perez and Sargeant take three-place drops and Albon demoted to pit lane",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Spain___Qualifying/2158721734"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ferrari-drivers-left-searching-for-answers-after-very-disappointing.1Q5m8MqN4UpnfRuRgzYKsB",
-      "title": "Ferrari drivers left searching for answers after ‘very disappointing’ qualifying display in Spain",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Spain/leclerc-sainz-barcelona-2024-comp"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hamilton-targets-norris-and-verstappen-on-barcelona-race-day-after-huge.44Haf3KmCRbdQByH1x3Pva",
-      "title": "Hamilton targets Norris and Verstappen on Barcelona race day after ‘huge steps’ put Mercedes back in the mix",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Spain___Qualifying/2158742106"
     }
   ]
 }
