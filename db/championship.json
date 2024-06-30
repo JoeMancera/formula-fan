@@ -6,7 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen",
       "team": "Red Bull Racing",
-      "points": 227,
+      "points": 237,
       "rank": 0
     },
     {
@@ -30,7 +30,7 @@
       "lastName": "Sainz",
       "url": "/en/drivers/carlos-sainz",
       "team": "Ferrari",
-      "points": 120,
+      "points": 135,
       "rank": 0
     },
     {
@@ -38,7 +38,7 @@
       "lastName": "Perez",
       "url": "/en/drivers/sergio-perez",
       "team": "Red Bull Racing",
-      "points": 112,
+      "points": 118,
       "rank": 0
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri",
       "team": "McLaren",
-      "points": 94,
+      "points": 112,
       "rank": 0
     },
     {
@@ -54,7 +54,7 @@
       "lastName": "Russell",
       "url": "/en/drivers/george-russell",
       "team": "Mercedes",
-      "points": 86,
+      "points": 111,
       "rank": 0
     },
     {
@@ -62,7 +62,7 @@
       "lastName": "Hamilton",
       "url": "/en/drivers/lewis-hamilton",
       "team": "Mercedes",
-      "points": 73,
+      "points": 85,
       "rank": 0
     },
     {
@@ -90,11 +90,19 @@
       "rank": 0
     },
     {
+      "firstName": "Nico",
+      "lastName": "Hulkenberg",
+      "url": "/en/drivers/nico-hulkenberg",
+      "team": "Haas",
+      "points": 14,
+      "rank": 0
+    },
+    {
       "firstName": "Daniel",
       "lastName": "Ricciardo",
       "url": "/en/drivers/daniel-ricciardo",
       "team": "RB",
-      "points": 9,
+      "points": 11,
       "rank": 0
     },
     {
@@ -106,18 +114,18 @@
       "rank": 0
     },
     {
-      "firstName": "Nico",
-      "lastName": "Hulkenberg",
-      "url": "/en/drivers/nico-hulkenberg",
-      "team": "Haas",
-      "points": 6,
-      "rank": 0
-    },
-    {
       "firstName": "Pierre",
       "lastName": "Gasly",
       "url": "/en/drivers/pierre-gasly",
       "team": "Alpine",
+      "points": 6,
+      "rank": 0
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Magnussen",
+      "url": "/en/drivers/kevin-magnussen",
+      "team": "Haas",
       "points": 5,
       "rank": 0
     },
@@ -135,14 +143,6 @@
       "url": "/en/drivers/alexander-albon",
       "team": "Williams",
       "points": 2,
-      "rank": 0
-    },
-    {
-      "firstName": "Kevin",
-      "lastName": "Magnussen",
-      "url": "/en/drivers/kevin-magnussen",
-      "team": "Haas",
-      "points": 1,
       "rank": 0
     },
     {
