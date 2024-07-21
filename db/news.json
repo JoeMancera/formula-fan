@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-07-21T06:04:31.077Z",
+  "updatedDate": "2024-07-21T12:00:40.490Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/official-grid-can-mclaren-maintain-their-one-two-formation-as-gasly-starts.7lonzKf5sWPVE9wvlkNlhu",
+      "title": "OFFICIAL GRID: Can McLaren maintain their one-two formation, as Gasly starts from pit lane?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Hungary___Qualifying/2162768766"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-hungary-2024.2rY3SFCHxWRwg7P7PLg4Xo",
       "title": "What the teams said – Qualifying in Hungary",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/mercedes-release-latest-sustainability-report-as-they-set-target-to-become.5OKRvEHxf2jQ8DzwbWTmZv",
       "title": "Mercedes release latest sustainability report as they set target to become ‘one of the most sustainable global professional sports teams’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/campaign/ESG/M449834"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2024-hungarian-grand-prix.6zgvwbJiWKVLFACHPftc1j",
-      "title": "What tyres will the teams and drivers have for the 2024 Hungarian Grand Prix?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Spain___Practice/2158624479"
     }
   ]
 }
