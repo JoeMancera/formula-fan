@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-07-25T06:05:08.773Z",
+  "updatedDate": "2024-07-25T12:00:44.727Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-haas-confirm-signing-of-ocon-with-frenchman-to-partner-bearman-in.7uQGY6qNKCZmU8fXM57TBi",
+      "title": "Haas confirm signing of Ocon with Frenchman to partner Bearman in 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Haas/GettyImages-2162356163"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-belgian-grand-prix.2UO7zoNawgtJj6qLZoQMwu",
       "title": "What is the weather forecast for the 2024 Belgian Grand Prix?",
@@ -9,7 +14,7 @@
     {
       "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2024-belgian-grand-prix-on-f1-tv-pro.1smiLQxw7wU8kKnahLTxUa",
       "title": "How to stream the Formula 1 2024 Belgian Grand Prix on F1 TV Pro",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/F1%20TV/English_-_Car_-_Stream_Live_286665"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/F1%20TV/Formula%201%20header%20template%20(80)"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/red-bull-technical-chief-wache-explains-ongoing-push-to-help-perez-and.42L3ShJakyPwsWUTHFSKDi",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-know-what-oscars-done-for-me-norris-gives-his-take-on-tough-moment-he-let.5kPNvq1KJidVrYkBdR2Ppi",
       "title": "‘I know what Oscar’s done for me’ – Norris gives his take on ‘tough’ moment he let Piastri past in Hungary",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Hungary/GettyImages-2162903284"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-admits-mclaren-team-orders-made-him-a-bit-nervous-as-he-reflects-on.6F3RkrpAotqWMtHCWvssoJ",
-      "title": "Piastri admits McLaren team orders made him ‘a bit nervous’ as he reflects on ‘very special’ maiden win in Hungary",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Hungary/2162901520"
     }
   ]
 }
