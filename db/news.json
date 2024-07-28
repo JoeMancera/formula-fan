@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-07-28T12:00:38.924Z",
+  "updatedDate": "2024-07-28T18:06:30.540Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-belgium-2024.2vCVoou8ZKoiCqXnpG3LlS",
+      "title": "FIA post-race press conference – Belgium",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Belgium/2164061949"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-russell-disqualified-from-belgian-grand-prix-for-underweight-car-as.2NIuo4cHgOl1LgplIkGG5D",
+      "title": "Russell disqualified from Belgian Grand Prix for underweight car as Hamilton is promoted to winner",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/fom-website/2024/Belgium/GettyImages-2164058565"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-hamilton-gets-your-vote-after-mercedes-showdown-at-spa.4ZPc0ZtBdlyPIPGevPDkvU",
+      "title": "DRIVER OF THE DAY: Hamilton gets your vote after Mercedes showdown at Spa",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/manual/Misc/Driver%20Of%20The%20Day/2024/Hamilton"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-at-spa-as-zhou-tsunoda-and-verstappen-all.2YeWXUduonhT8URDr5LXlo",
       "title": "OFFICIAL GRID: Who starts where at Spa as Zhou, Tsunoda and Verstappen all take penalties",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/ocon-explains-what-convinced-him-to-join-haas-as-he-reflects-on-how.1vYCFref4uPol5KzlCneVW",
       "title": "Ocon explains what convinced him to join Haas as he reflects on how partnership with Bearman can ‘pull the team forward’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Belgium___Previews/2163585286"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-belgium-2024.3FT8h7IcJcLPIRrC2E9O8l",
-      "title": "FIA Thursday press conference – Belgium",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Belgium___Previews/2163617179"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/breaking-haas-confirm-signing-of-ocon-with-frenchman-to-partner-bearman-in.7uQGY6qNKCZmU8fXM57TBi",
-      "title": "Haas confirm signing of Ocon with Frenchman to partner Bearman in 2025",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Haas/GettyImages-2162356163"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2024-belgian-grand-prix.2UO7zoNawgtJj6qLZoQMwu",
-      "title": "What is the weather forecast for the 2024 Belgian Grand Prix?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Belgium/spa-rain-2023"
     }
   ]
 }
