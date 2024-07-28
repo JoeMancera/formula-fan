@@ -6,7 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen",
       "team": "Red Bull Racing",
-      "points": 265,
+      "points": 277,
       "rank": 0
     },
     {
@@ -14,7 +14,7 @@
       "lastName": "Norris",
       "url": "/en/drivers/lando-norris",
       "team": "McLaren",
-      "points": 189,
+      "points": 199,
       "rank": 0
     },
     {
@@ -22,15 +22,7 @@
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc",
       "team": "Ferrari",
-      "points": 162,
-      "rank": 0
-    },
-    {
-      "firstName": "Carlos",
-      "lastName": "Sainz",
-      "url": "/en/drivers/carlos-sainz",
-      "team": "Ferrari",
-      "points": 154,
+      "points": 177,
       "rank": 0
     },
     {
@@ -38,7 +30,15 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri",
       "team": "McLaren",
-      "points": 149,
+      "points": 167,
+      "rank": 0
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Sainz",
+      "url": "/en/drivers/carlos-sainz",
+      "team": "Ferrari",
+      "points": 162,
       "rank": 0
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Hamilton",
       "url": "/en/drivers/lewis-hamilton",
       "team": "Mercedes",
-      "points": 125,
+      "points": 150,
       "rank": 0
     },
     {
@@ -54,7 +54,7 @@
       "lastName": "Perez",
       "url": "/en/drivers/sergio-perez",
       "team": "Red Bull Racing",
-      "points": 124,
+      "points": 131,
       "rank": 0
     },
     {
@@ -70,7 +70,7 @@
       "lastName": "Alonso",
       "url": "/en/drivers/fernando-alonso",
       "team": "Aston Martin",
-      "points": 45,
+      "points": 49,
       "rank": 0
     },
     {
@@ -102,7 +102,7 @@
       "lastName": "Ricciardo",
       "url": "/en/drivers/daniel-ricciardo",
       "team": "RB",
-      "points": 11,
+      "points": 12,
       "rank": 0
     },
     {
@@ -130,19 +130,19 @@
       "rank": 0
     },
     {
+      "firstName": "Esteban",
+      "lastName": "Ocon",
+      "url": "/en/drivers/esteban-ocon",
+      "team": "Alpine",
+      "points": 5,
+      "rank": 0
+    },
+    {
       "firstName": "Alexander",
       "lastName": "Albon",
       "url": "/en/drivers/alexander-albon",
       "team": "Williams",
       "points": 4,
-      "rank": 0
-    },
-    {
-      "firstName": "Esteban",
-      "lastName": "Ocon",
-      "url": "/en/drivers/esteban-ocon",
-      "team": "Alpine",
-      "points": 3,
       "rank": 0
     },
     {
