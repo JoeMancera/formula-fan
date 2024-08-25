@@ -6,7 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen",
       "team": "Red Bull Racing",
-      "points": 277,
+      "points": 295,
       "rank": 0
     },
     {
@@ -14,7 +14,7 @@
       "lastName": "Norris",
       "url": "/en/drivers/lando-norris",
       "team": "McLaren",
-      "points": 199,
+      "points": 225,
       "rank": 0
     },
     {
@@ -22,7 +22,7 @@
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc",
       "team": "Ferrari",
-      "points": 177,
+      "points": 192,
       "rank": 0
     },
     {
@@ -30,7 +30,7 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri",
       "team": "McLaren",
-      "points": 167,
+      "points": 179,
       "rank": 0
     },
     {
@@ -38,7 +38,7 @@
       "lastName": "Sainz",
       "url": "/en/drivers/carlos-sainz",
       "team": "Ferrari",
-      "points": 162,
+      "points": 172,
       "rank": 0
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Hamilton",
       "url": "/en/drivers/lewis-hamilton",
       "team": "Mercedes",
-      "points": 150,
+      "points": 154,
       "rank": 0
     },
     {
@@ -54,7 +54,7 @@
       "lastName": "Perez",
       "url": "/en/drivers/sergio-perez",
       "team": "Red Bull Racing",
-      "points": 131,
+      "points": 139,
       "rank": 0
     },
     {
@@ -62,7 +62,7 @@
       "lastName": "Russell",
       "url": "/en/drivers/george-russell",
       "team": "Mercedes",
-      "points": 116,
+      "points": 122,
       "rank": 0
     },
     {
@@ -70,7 +70,7 @@
       "lastName": "Alonso",
       "url": "/en/drivers/fernando-alonso",
       "team": "Aston Martin",
-      "points": 49,
+      "points": 50,
       "rank": 0
     },
     {
@@ -106,18 +106,18 @@
       "rank": 0
     },
     {
-      "firstName": "Oliver",
-      "lastName": "Bearman",
-      "url": "/en/drivers/oliver-bearman",
-      "team": "Ferrari",
-      "points": 6,
-      "rank": 0
-    },
-    {
       "firstName": "Pierre",
       "lastName": "Gasly",
       "url": "/en/drivers/pierre-gasly",
       "team": "Alpine",
+      "points": 8,
+      "rank": 0
+    },
+    {
+      "firstName": "Oliver",
+      "lastName": "Bearman",
+      "url": "/en/drivers/oliver-bearman",
+      "team": "Ferrari",
       "points": 6,
       "rank": 0
     },
