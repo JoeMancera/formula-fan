@@ -6,7 +6,7 @@
       "lastName": "Verstappen",
       "url": "/en/drivers/max-verstappen",
       "team": "Red Bull Racing",
-      "points": 295,
+      "points": 303,
       "rank": 0
     },
     {
@@ -14,7 +14,7 @@
       "lastName": "Norris",
       "url": "/en/drivers/lando-norris",
       "team": "McLaren",
-      "points": 225,
+      "points": 241,
       "rank": 0
     },
     {
@@ -22,7 +22,7 @@
       "lastName": "Leclerc",
       "url": "/en/drivers/charles-leclerc",
       "team": "Ferrari",
-      "points": 192,
+      "points": 217,
       "rank": 0
     },
     {
@@ -30,7 +30,7 @@
       "lastName": "Piastri",
       "url": "/en/drivers/oscar-piastri",
       "team": "McLaren",
-      "points": 179,
+      "points": 197,
       "rank": 0
     },
     {
@@ -38,7 +38,7 @@
       "lastName": "Sainz",
       "url": "/en/drivers/carlos-sainz",
       "team": "Ferrari",
-      "points": 172,
+      "points": 184,
       "rank": 0
     },
     {
@@ -46,7 +46,7 @@
       "lastName": "Hamilton",
       "url": "/en/drivers/lewis-hamilton",
       "team": "Mercedes",
-      "points": 154,
+      "points": 164,
       "rank": 0
     },
     {
@@ -54,7 +54,7 @@
       "lastName": "Perez",
       "url": "/en/drivers/sergio-perez",
       "team": "Red Bull Racing",
-      "points": 139,
+      "points": 143,
       "rank": 0
     },
     {
@@ -62,7 +62,7 @@
       "lastName": "Russell",
       "url": "/en/drivers/george-russell",
       "team": "Mercedes",
-      "points": 122,
+      "points": 128,
       "rank": 0
     },
     {
@@ -126,7 +126,15 @@
       "lastName": "Magnussen",
       "url": "/en/drivers/kevin-magnussen",
       "team": "Haas",
-      "points": 5,
+      "points": 6,
+      "rank": 0
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Albon",
+      "url": "/en/drivers/alexander-albon",
+      "team": "Williams",
+      "points": 6,
       "rank": 0
     },
     {
@@ -135,14 +143,6 @@
       "url": "/en/drivers/esteban-ocon",
       "team": "Alpine",
       "points": 5,
-      "rank": 0
-    },
-    {
-      "firstName": "Alexander",
-      "lastName": "Albon",
-      "url": "/en/drivers/alexander-albon",
-      "team": "Williams",
-      "points": 4,
       "rank": 0
     },
     {
@@ -162,18 +162,18 @@
       "rank": 0
     },
     {
-      "firstName": "Valtteri",
-      "lastName": "Bottas",
-      "url": "/en/drivers/valtteri-bottas",
-      "team": "Kick Sauber",
-      "points": 0,
-      "rank": 0
-    },
-    {
       "firstName": "Franco",
       "lastName": "Colapinto",
       "url": "/en/drivers/franco-colapinto",
       "team": "Williams",
+      "points": 0,
+      "rank": 0
+    },
+    {
+      "firstName": "Valtteri",
+      "lastName": "Bottas",
+      "url": "/en/drivers/valtteri-bottas",
+      "team": "Kick Sauber",
       "points": 0,
       "rank": 0
     }
