@@ -1,15 +1,40 @@
 {
-  "updatedDate": "2024-09-19T12:00:42.104Z",
+  "updatedDate": "2024-09-19T18:07:57.822Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-singapore-2024.5ZYFJGJjfwMeH911988Tjz",
+      "title": "FIA Thursday press conference – Singapore",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Previews/2173094617"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-explains-approach-in-singapore-after-conceding-baku-left-him.3aCYZMn9reLGCWSPt4lOUE",
+      "title": "Hamilton explains approach in Singapore after conceding Baku left him feeling ‘slapped and surprised’",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Previews/2173073389"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/leclerc-hopes-singapore-upgrade-keeps-ferrari-on-trend-as-constructors.6zl3Zagwyfxd9Yy102yqpx",
+      "title": "Leclerc hopes Singapore upgrade keeps Ferrari ‘on trend’ as constructors’ battle heats up",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan___Qualifying/2171917074"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/norris-working-on-something-bigger-amid-championship-goals-as-he-admits-race.5kyNw5oX8EVxzFgp0Z3XFH",
+      "title": "Norris ‘working on something bigger’ amid championship goals as he admits race win celebrations have changed",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Previews/2173112707"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/verstappen-sets-out-target-for-singapore-as-he-predicts-not-our-easiest.4QzhPTaUgE41AyLKsabymu",
+      "title": "Verstappen sets out target for Singapore as he predicts ‘not our easiest weekend’ for Red Bull",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Singapore/GettyImages-2172159666"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/williams-stand-in-colapinto-responds-to-audi-seat-rumours-after-eye-catching.6XM6uxXjzGvsBfWIVKpvpH",
+      "title": "Williams stand-in Colapinto responds to Audi seat rumours after eye-catching Baku performance",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan/2172067194"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-know-how-it-is-and-how-it-works-ricciardo-reveals-when-his-rb-future-will.4svBylYRcjq87rx1OAPYO2",
       "title": "‘I know how it is and how it works’ – Ricciardo reveals when his RB future will become clear as he admits uncertainty",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Previews/2173078309"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/mclaren-become-latest-f1-team-to-reveal-special-singapore-livery-with-nod-to.5H65SnudCCJg78iLY64iuw",
-      "title": "McLaren become latest F1 team to reveal special Singapore livery with nod to past",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto/q_auto/fom-website/2024/Singapore/mclaren-singapore-livery-2024"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/piastris-race-engineer-reflects-on-special-baku-win-as-he-identifies-area.6VFCyvBXnTzF5im8YplrYz",
@@ -85,31 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/webber-calls-piastris-baku-win-the-best-drive-ive-seen-him-pull-off-as-he.3rOdij4yuITvVeTI61cxzu",
       "title": "Webber calls Piastri’s Baku win ‘the best drive I’ve seen him pull off’ as he hails ‘world class’ effort",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Azerbaijan/Formula%201%20header%20template%20-%202024-09-16T155817.371"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/horner-rues-heartbreaking-baku-crash-that-destroyed-the-race-for-podium.4rUVFnVBX9lnuimg1ZYkSV",
-      "title": "Horner rues ‘heartbreaking’ Baku crash that ‘destroyed the race’ for podium-bound Perez  ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Azerbaijan/Formula%201%20header%20template%20-%202024-09-16T154246.368"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/weve-got-to-be-realistic-russell-surprised-by-baku-podium-as-hamilton-left.2Xcgqq6ba7zCGH8IO9LtpC",
-      "title": "‘We’ve got to be realistic’ – Russell ‘surprised’ by Baku podium as Hamilton left ‘impressed’ by rookies",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Azerbaijan/Formula%201%20header%20template%20-%202024-09-16T115501.892"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/its-my-fault-bearman-reflects-on-not-fully-deserved-point-in-baku-despite.MSVNYn1ZvBl4lpyFxL6td",
-      "title": "‘It’s my fault’ – Bearman reflects on ‘not fully deserved’ point in Baku despite making history",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan/2172143105"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/f1-and-fia-confirm-bahrain-to-host-2025-pre-season-testing.586OT31AUTKcOOtRCGYvMV",
-      "title": "F1 and FIA confirm Bahrain to host 2025 pre-season testing",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/fom-website/2024/Miscellaneous/bahrain-testing-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/colapinto-declares-points-finish-a-dream-come-true-as-williams-celebrate.4jVwmupqRiGAcmGplBs24O",
-      "title": "Colapinto declares points finish ‘a dream come true’ as Williams celebrate double success in Baku",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/fom-website/2024/Azerbaijan/GettyImages-2172140107"
     }
   ]
 }
