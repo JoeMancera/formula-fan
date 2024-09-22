@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-09-22T06:04:38.497Z",
+  "updatedDate": "2024-09-22T12:00:49.341Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/official-grid-its-norris-versus-verstappen-into-turn-1-in-singapore.5YUB6a4fzFqGaG7Eo0YQAG",
+      "title": "OFFICIAL GRID: It's Norris versus Verstappen into Turn 1 in Singapore",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9Centre/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Qualifying/2173542090"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/horner-namechecks-mercedes-russell-as-he-says-red-bull-not-afraid-to-look.32oVLMyv6sbRneAumrczFT",
       "title": "Horner cites Mercedes’ Russell as potential Red Bull target as he says team not afraid to ‘go out of the pool’ in future",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/hamilton-explains-approach-in-singapore-after-conceding-baku-left-him.3aCYZMn9reLGCWSPt4lOUE",
       "title": "Hamilton explains approach in Singapore after conceding Baku left him feeling ‘slapped and surprised’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9South/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_Of_Singapore___Previews/2173073389"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/leclerc-hopes-singapore-upgrade-keeps-ferrari-on-trend-as-constructors.6zl3Zagwyfxd9Yy102yqpx",
-      "title": "Leclerc hopes Singapore upgrade keeps Ferrari ‘on trend’ as constructors’ battle heats up",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/t_16by9North/f_auto/q_auto/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan___Qualifying/2171917074"
     }
   ]
 }
