@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-11T00:15:00.877Z",
+  "updatedDate": "2024-10-11T06:05:14.497Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/toyota-return-to-f1-as-they-sign-multi-year-technical-partnership-with-haas.1WFIOvxjafXJWzM7qrvKqD",
+      "title": "Toyota return to F1 as they sign multi-year technical partnership with Haas",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Haas/Formula%201%20header%20template%20-%202024-10-10T173845.943"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-was-pretty-emotional-lawson-recalls-the-surreal-moment-that-saved-my.2wHgv0cuOd1QEpimtbKCDL",
       "title": "'I was pretty emotional' – Lawson recalls the surreal moment that 'saved my career'",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/horner-hopes-to-keep-brilliant-character-ricciardo-in-red-bull-family-as-he.35V3EQeLJzy5aYtsQHAEpA",
       "title": "Horner hopes to keep ‘brilliant character’ Ricciardo in Red Bull family as he hints at F1 lifeline for the Australian",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/horner-ricciardo-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/from-fangio-to-hamilton-who-are-the-oldest-world-champions-in-the-history-of.5GOBodkkPk5NmobPhJXvzd",
-      "title": "From Fangio to Hamilton – Who are the oldest world champions in the history of Formula 1?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Features/oldest-champions-header"
     }
   ]
 }
