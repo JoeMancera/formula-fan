@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-17T06:05:27.032Z",
+  "updatedDate": "2024-10-17T12:00:41.125Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/mercedes-share-significant-carbon-footprint-savings-as-f1-team-successfully.1NLnuN6wiZQpTquTRj2Y2Y",
+      "title": "Mercedes share significant carbon footprint savings as F1 team successfully power European season on biofuels",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/mercedes-logo-1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-was-going-to-turn-them-into-a-top-three-team-szafnauer-opens-up-on-alpine.1T4rzJ1pemkctkTjxTrON8",
       "title": "‘I was going to turn them into a top-three team’ – Szafnauer opens up on Alpine stint and the key reasons behind his exit",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/mercedes-confirm-substantial-upgrade-for-austin-as-they-look-to-celebrate.aqNHhLHNh059JtMxJ3dwo",
       "title": "Mercedes confirm 'substantial' upgrade for Austin as they look to celebrate another milestone with Hamilton",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_Of_Singapore/2173715483"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/toyota-return-to-f1-as-they-sign-multi-year-technical-partnership-with-haas.1WFIOvxjafXJWzM7qrvKqD",
-      "title": "Toyota return to F1 as they sign multi-year technical partnership with Haas",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Haas/Formula%201%20header%20template%20-%202024-10-10T173845.943"
     }
   ]
 }
