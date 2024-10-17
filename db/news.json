@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-17T12:00:41.125Z",
+  "updatedDate": "2024-10-17T18:07:31.212Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fastest-lap-point-to-be-scrapped-in-2025-after-latest-fia-world-motor-sport.4pUjDzWnGRN7KVWENLc1BY",
+      "title": "Fastest lap point to be scrapped in 2025 after latest FIA World Motor Sport Council meeting",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/fia-f1-flags"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/mercedes-share-significant-carbon-footprint-savings-as-f1-team-successfully.1NLnuN6wiZQpTquTRj2Y2Y",
       "title": "Mercedes share significant carbon footprint savings as F1 team successfully power European season on biofuels",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/veteran-team-boss-franz-tost-gives-his-take-on-antonelli-and-the-biggest.4rdPHa2VNRLbrJRKGU29In",
       "title": "Veteran team boss Franz Tost gives his take on Antonelli and the biggest challenge he will face in F1",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/tost-antonelli-header"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/mercedes-confirm-substantial-upgrade-for-austin-as-they-look-to-celebrate.aqNHhLHNh059JtMxJ3dwo",
-      "title": "Mercedes confirm 'substantial' upgrade for Austin as they look to celebrate another milestone with Hamilton",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_Of_Singapore/2173715483"
     }
   ]
 }
