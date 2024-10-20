@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-19T21:01:25.563Z",
+  "updatedDate": "2024-10-20T00:13:33.636Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-post-sprint-press-conference-united-states-2024.5dZfrKHGG8npgNOhNlS1q2",
+      "title": "FIA post-Sprint press conference – United States ",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179625651"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/downbeat-hamilton-says-austin-sprint-doesnt-give-mercedes-any-hope-for-rest.4a5cii6HadvIifk2IA4pMF",
       "title": "Downbeat Hamilton says Austin Sprint doesn’t give Mercedes ‘any hope’ for rest of weekend",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-united-states-2024.uVqtpch9l377ruklk0HoI",
       "title": "FIA Thursday press conference – United States ",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Previews/2178994895"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/russell-picks-his-favourite-for-the-drivers-title-as-norris-versus.2z1eOIMl0YGRFbLn9ezeZq",
-      "title": "Russell picks his favourite for the drivers’ title as Norris vs Verstappen battle heats up",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/norris-verstappen-russell-2024-1"
     }
   ]
 }
