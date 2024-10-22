@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-10-22T12:00:56.351Z",
+  "updatedDate": "2024-10-22T18:08:23.781Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/its-a-good-mentality-vasseur-explains-ferraris-approach-to-the-constructors.20ShBxuRhFDSyvV1zD4VoK",
+      "title": "‘It’s a good mentality’ – Vasseur explains Ferrari’s approach to the constructors’ battle after closing the gap in Austin",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States/2179854744"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/fast-and-courageous-horners-verdict-on-lawsons-exceptional-f1-return-in.2JQOP82u8fgPmGI580ke3U",
+      "title": "‘Fast and courageous’ – Horner’s verdict on Lawson’s ‘exceptional’ F1 return in Austin",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States/2179856444"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/wolff-insists-spin-100-not-hamiltons-fault-as-he-questions-odd-russell.236Ig29YU0UXF6atF2v23G",
+      "title": "Wolff insists spin ‘100%’ not Hamilton’s fault as he questions ‘odd’ Russell penalty",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/United%20States%20(Austin)/hamilton-russell-austin-2024-comp"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/alonso-admits-aston-martin-have-an-uphill-battle-to-score-points-as-stroll.E3difcHYqxhks7RXJHrfk",
       "title": "Alonso admits Aston Martin have ‘an uphill battle’ to score points as Stroll says there’s ‘a lot of work ahead’",
@@ -24,7 +39,7 @@
     {
       "link": "https://www.formula1.com/en/latest/article/the-way-the-stewards-interfered-with-a-beautiful-piece-of-motorsport-was.31DQwApbsKioAmif3NeDAS",
       "title": "‘The way the stewards interfered with a beautiful piece of motorsport was inappropriate’ – Stella's verdict on Norris penalty",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan___Previews/2171484818"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan___Previews/2171484818"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/beaming-lawson-definitely-didnt-expect-points-on-f1-return-after-massive.6gztiHx6JLCTrDOBybfxZS",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/sainz-pleased-with-gradual-progress-in-austin-as-ferraris-ups-and-downs.5bbD15alwA0lCxgHkXnHK0",
       "title": "Sainz pleased with gradual progress in Austin as Ferrari’s ‘ups and downs’ continue in qualifying",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179650903"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/race-predictor-vote-for-who-you-think-will-reach-the-podium-in-the-united.1gLqnF5w38BzZuwAKbrUsz",
-      "title": "RACE PREDICTOR: Vote for who you think will reach the podium in the United States Grand Prix",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/United%20States%20(Austin)/austin_predictor"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/at-least-the-potential-was-there-verstappen-rues-unfortunate-qualifying.3f45AGilstg1qDtFImwYni",
-      "title": "‘At least the potential was there’ – Verstappen rues ‘unfortunate’ qualifying issues in Austin after missing out on pole",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179656348"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-united-states-2024.7K9NPtQ7aipyu6mGP2sxRd",
-      "title": "FIA post-qualifying press conference – United States ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179657659"
     }
   ]
 }
