@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-27T06:05:06.484Z",
+  "updatedDate": "2024-10-27T12:00:37.158Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/every-qualifying-session-this-year-is-frustrating-laments-hamilton-as-he.12NjMdOGa41yrnvDRRb4vi",
+      "title": "‘Every qualifying session this year is frustrating’ laments Hamilton as he singles out 'very strange thing' with W15 in Mexico",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Qualifying/2181248231"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-mexico-city-2024.6sYTGSMPx84uBOdOc1xc4y",
       "title": "FIA post-qualifying press conference – Mexico City",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-just-follow-the-rules-verstappen-questions-scream-for-changes-in.4HmBxtXfcoJRs8PXsSlWta",
       "title": "‘I just follow the rules’ – Verstappen questions ‘scream for changes’ in overtaking guidelines debate",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Previews/2180848813"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/im-not-at-the-level-i-need-to-be-norris-reveals-he-will-slightly-change.4kmTPABTjJTZXNr237SQ1t",
-      "title": "‘I’m not at the level I need to be’ – Norris reveals he will ‘slightly’ change approach after Austin battle with Verstappen",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Previews/2180837052"
     }
   ]
 }
