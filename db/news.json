@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-10-27T00:13:30.432Z",
+  "updatedDate": "2024-10-27T06:05:06.484Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-mexico-city-2024.6sYTGSMPx84uBOdOc1xc4y",
+      "title": "FIA post-qualifying press conference – Mexico City",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Qualifying/2181249718"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/piastri-explains-disappointing-q1-exit-in-mexico-qualifying-as-he-assesses.1YSaBSkcfVin2WlZRRCtXf",
       "title": "Piastri explains ‘disappointing’ Q1 exit in Mexico qualifying as he assesses prospects from back of the grid",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/im-not-at-the-level-i-need-to-be-norris-reveals-he-will-slightly-change.4kmTPABTjJTZXNr237SQ1t",
       "title": "‘I’m not at the level I need to be’ – Norris reveals he will ‘slightly’ change approach after Austin battle with Verstappen",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Previews/2180837052"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/weve-got-to-keep-the-focus-leclerc-hopeful-ferrari-can-close-in-on-mclaren.46JiEZo2cg4NkOeLlStGGF",
-      "title": "‘We’ve got to keep the focus’ – Leclerc hopeful Ferrari can close in on McLaren for constructors’ title",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Previews/2180835200"
     }
   ]
 }
