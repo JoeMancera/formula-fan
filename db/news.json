@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-11-02T18:07:36.016Z",
+  "updatedDate": "2024-11-02T21:01:27.633Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/qualifying-for-sao-paulo-grand-prix-postponed-until-sunday-due-to-weather.C2RqUGIY8A87xNYtOSxeg",
+      "title": "Qualifying for Sao Paulo Grand Prix postponed until Sunday due to weather conditions",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Brazil___Sprint__Qualifying/2182518980"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/fia-post-sprint-press-conference-sao-paulo-2024.CyMdl0GzfuZbciWwaE5XH",
       "title": "FIA post-Sprint press conference – Sao Paulo",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/ferraris-strong-form-doesnt-mean-we-will-win-all-races-from-now-on-insists.PGNM4rUvOov95u5jUYS2u",
       "title": "Ferrari’s strong form ‘doesn’t mean we will win all races from now on’ insists Leclerc as constructors’ battle heats up",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Brazil___Previews/2182138074"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-thursday-press-conference-sao-paulo-2024.5cMlABnf74fowzFRKKrbjw",
-      "title": "FIA Thursday press conference – Sao Paulo",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Brazil___Previews/2182132978"
     }
   ]
 }
