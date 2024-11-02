@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-11-02T00:12:10.492Z",
+  "updatedDate": "2024-11-02T06:05:06.243Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/2024-drivers-championship-max-verstappen-lando-norris-red-bull-points-permutations.6BHWvf0q6MikIuW1IHEOyw",
+      "title": "What is the earliest point that Max Verstappen could win the 2024 drivers’ championship?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Brazil___Previews/2182148484"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/haas-confirm-magnussen-out-for-remainder-of-sao-paulo-grand-prix.3FquZlQeYmFxwIoWhlfDE7",
       "title": "Haas confirm Magnussen out for remainder of Sao Paulo Grand Prix weekend as super-sub Bearman set to continue",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/alonso-to-miss-media-day-in-sao-paulo-after-receiving-medical-treatment.Ubs9OUMwQyzC8pH4AHn5l",
       "title": "Alonso to miss media day in Sao Paulo after receiving medical treatment",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico/2181382294"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/at-least-we-could-fight-bottas-taking-positives-from-kick-saubers-step.3Z5gBhNTuwh58EqspSGQRt",
-      "title": "‘At least we could fight’ – Bottas taking positives from Kick Sauber’s step forward in Mexico",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Mexico___Practice/2181072346"
     }
   ]
 }
