@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-11-11T12:00:40.759Z",
+  "updatedDate": "2024-11-11T18:08:01.003Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-welcomes-kitkat-as-official-chocolate-bar-partner.78cQVrqIwT3KiU3j9xPkED",
+      "title": "Formula 1 welcomes KitKat as Official Chocolate Bar partner",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/Campaign/Partner%20support/Work_CAA_KK_SocMedClip_KV_16-9_1a_JK"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-had-a-few-moments-alonso-opens-up-on-past-red-bull-talks-and-how-he-could.4TYbVPXZmInFfF3fyRo5Hu",
       "title": "‘I had a few moments’ – Alonso opens up on past Red Bull talks and how he could have joined the squad",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-was-pretty-angry-russell-reflects-on-losing-out-to-red-flags-after-leading.5aqBRrJGe2M2SSaLCkX0C",
       "title": "'I was pretty angry' – Russell reflects on losing out to red flags after leading initial stages of Sao Paulo GP",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Brazil/GettyImages-2182702035"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/norris-rues-unlucky-pit-stop-timing-in-sao-paulo-as-he-vows-team-will-keep.749ednuIJNfUU7BdDL1reI",
-      "title": "Norris rues ‘unlucky’ pit stop timing in Sao Paulo as he vows team will ‘keep our heads down’ despite title setback ",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Brazil/GettyImages-2182703356"
     }
   ]
 }
