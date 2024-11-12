@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-11-12T06:05:23.818Z",
+  "updatedDate": "2024-11-12T12:00:42.680Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/alpine-to-use-mercedes-power-units-and-gearbox-from-2026.5jzzbQeHx7aPT3hoP5hRtc",
+      "title": "Alpine to use Mercedes power units and gearboxes from 2026",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Miscellaneous/Alpine%20Mercedes%20"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/formula-1-welcomes-kitkat-as-official-chocolate-bar-partner.78cQVrqIwT3KiU3j9xPkED",
       "title": "Formula 1 welcomes KitKat as Official Chocolate Bar partner",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-sao-paulo-2024.27Sn55ZjdhcjtCYCYFo3mB",
       "title": "FIA post-race press conference – Sao Paulo",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Brazil_and_Qualifying/2182707864"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/i-was-pretty-angry-russell-reflects-on-losing-out-to-red-flags-after-leading.5aqBRrJGe2M2SSaLCkX0C",
-      "title": "'I was pretty angry' – Russell reflects on losing out to red flags after leading initial stages of Sao Paulo GP",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Brazil/GettyImages-2182702035"
     }
   ]
 }
