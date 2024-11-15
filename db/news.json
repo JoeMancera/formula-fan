@@ -1,15 +1,20 @@
 {
-  "updatedDate": "2024-11-15T12:00:45.578Z",
+  "updatedDate": "2024-11-15T18:08:26.212Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/its-my-first-time-being-in-this-situation-norris-reflects-on-how-friendship.7fkaeOSohanhUR7QJqKg6P",
+      "title": "‘It’s my first time being in this situation’ – Norris reflects on how friendship with Verstappen has been affected by title fight",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179650761"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/williams-confirm-sainz-to-drive-for-team-at-abu-dhabi-post-season-test.4IYHv2hRpiCrleuL4xapfr",
+      "title": "Williams confirm Sainz to drive for team at Abu Dhabi post-season test",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Previews/2178909533"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-was-so-focused-about-it-alonso-names-best-race-since-his-comeback-that-he.OyLfG9M7hJBpg6nudBEOs",
       "title": "‘I was so focused about it’ – Alonso names best race since his comeback that he prepared for more than any other",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2023/F1_Grand_Prix_of_Monaco/1493966946"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/f1-75-live-unlocked-exclusive.7pnu7Wc8vI8vLAmNzTQ03H",
-      "title": "Your chance to join us at F1® 75 Live next year",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/Unlocked2024/1920x1080-Module-Image-F1-O2_"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/i-heard-the-bells-ringing-wolff-reveals-who-first-told-him-hamilton-had.6is6WL50NbAokQndM1OHDq",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/f1-academy-announce-2024-champion-will-receive-fully-funded-gb3-seat-for.4nMoLBksmdixGowaEiMPsN",
       "title": "F1 ACADEMY announce 2024 champion will receive fully funded GB3 seat for 2025",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/f1-academy-2025-announce"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/f1-launches-global-education-programme-learning-sectors-with-british-council.48wfhnH9OZaVvWrJ8Jiv4x",
-      "title": "F1 launches global education programme ‘Learning Sectors’ with British Council",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Miscellaneous/F1%20Grand%20Prix%20of%20Brazil%20-%20Previews"
     }
   ]
 }
