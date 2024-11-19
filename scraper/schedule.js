@@ -1,83 +1,52 @@
-const SELECTORS = {
-	nameGP: 'h2.f1-heading',
-	shortNameGP: 'h1.font-formula',
-	raceTime: '.row .js-race',
-	qualyTime: '.row .js-qualifying',
-	practice3Time: '.row .js-practice-3',
-	practice2Time: '.row .js-practice-2',
-	practice1Time: '.row .js-practice-1',
-	sprintTime: '.row .js-sprint',
-	sprintShootoutTime: '.row .js-sprint-shootout',
-	podiumListItems: 'ul.f1-podium.f1-color--carbonBlack li',
-	fullResults: '.race-review-ctas .btn.btn--default.d-block.d-md-inline-block',
-	fallbackDate: '.race-weekend-dates.f1-color--white.f1-bg--carbonBlack.f1--xxs'
-}
+import fetch from 'node-fetch'
+import { CURRENT_YEAR } from './utils.js'
+import { readDBFile } from '../db/index.js'
 
-const DATA_ATTRIBUTES = {
-	startTime: 'start-time',
-	endTime: 'end-time',
-	gmtOffset: 'gmt-offset'
-}
-
-const PODIUM = {
-	driver: 'li .f1-podium--driver.f1--xs',
-	driverName: {
-		firstName: '.d-none.d-md-inline.f1-capitalize',
-		lastName: '.f1-podium--surname.f1-uppercase'
-	},
-	time: 'li .f1-podium--time.f1-label.f1-bg--gray2.misc--label'
-}
-
-export async function getEventSchedule($, url, nameCircuit) {
-	const schedule = []
+export async function getEventSchedule() {
+	let schedule = []
 	const drivers = []
-	const currentYear = new Date().getFullYear()
 
-	const nameGP = $(SELECTORS.nameGP).text()
-	const shortNameGP = $(SELECTORS.shortNameGP).text().replace(String(currentYear), '')
-	const raceTime = $(SELECTORS.raceTime).data(DATA_ATTRIBUTES.startTime)
-	const qualifyingTime = $(SELECTORS.qualyTime).data(DATA_ATTRIBUTES.startTime)
-	const practice3Time = $(SELECTORS.practice3Time).data(DATA_ATTRIBUTES.startTime)
-	const practice2Time = $(SELECTORS.practice2Time).data(DATA_ATTRIBUTES.startTime)
-	const practice1Time = $(SELECTORS.practice1Time).data(DATA_ATTRIBUTES.startTime)
-	const sprintTime = $(SELECTORS.sprintTime).data(DATA_ATTRIBUTES.startTime)
-	const sprintShootoutTime = $(SELECTORS.sprintShootoutTime).data(DATA_ATTRIBUTES.startTime)
-	const gtmOffset = $(SELECTORS.raceTime).data(DATA_ATTRIBUTES.gmtOffset)
-	const fullResults = $(SELECTORS.fullResults).attr('href')
-	const podiumListItems = $(SELECTORS.podiumListItems)
+	const circuits = await readDBFile('circuits')
+	const res = await fetch('https://api.jolpi.ca/ergast/f1/current/races/')
+	const currentRacesData = await res.json()
 
-	podiumListItems.each((_, podiumItem) => {
-		const driverFistName = $(podiumItem).find(PODIUM.driver).find(PODIUM.driverName.firstName).text().trim().replace(/\n/g, '')
-		const driverLastName = $(podiumItem).find(PODIUM.driver).find(PODIUM.driverName.lastName).text().trim().replace(/\n/g, '')
-		const driver = `${driverFistName} ${driverLastName}`
-		const time = $(podiumItem).find(PODIUM.time).text().trim().replace(/\n/g, '')
+	const scheduleData = currentRacesData.MRData.RaceTable.Races
 
-		drivers.push({
-			driver,
-			time
-		})
-	})
+	const baseUrl = `https://www.formula1.com/en/racing/${CURRENT_YEAR}/`
+	schedule = scheduleData.map((circuitItem) => {
+		const circuitInfo = circuits.find((circuit) => circuit.circuitId === circuitItem.Circuit.circuitId) || {}
+		const url = `${baseUrl}${circuitInfo?.circuitNameUrl}.html`
 
-	schedule.push({
-		name: nameGP,
-		shortName: shortNameGP,
-		circuitId: nameCircuit,
-		url,
-		state: raceTime ? new Date(`${raceTime}${gtmOffset}`) > new Date() || raceTime === 'TBC' ? 'schedule' : 'finished' : 'canceled',
-		fallbackDate: $(SELECTORS.fallbackDate).text().trim().replace(/\n/g, ''),
-		dates: {
-			practice1: new Date(`${practice1Time}${gtmOffset}`),
-			practice2: practice2Time && new Date(`${practice2Time}${gtmOffset}`),
-			practice3: practice3Time && new Date(`${practice3Time}${gtmOffset}`),
-			qualifying: new Date(`${qualifyingTime}${gtmOffset}`),
-			race: new Date(`${raceTime}${gtmOffset}`),
-			sprint: sprintTime && new Date(`${sprintTime}${gtmOffset}`),
-			sprintShootout: sprintShootoutTime && new Date(`${sprintShootoutTime}${gtmOffset}`)
-		},
-		results: {
-			podium: drivers,
-			fullResults
+		const raceTime = `${circuitItem.date}T${circuitItem.time}`
+		const practice1Time = `${circuitItem.FirstPractice.date}T${circuitItem.FirstPractice.time}`
+		const practice2Time = circuitItem.SecondPractice && `${circuitItem.SecondPractice.date}T${circuitItem.SecondPractice.time}`
+		const practice3Time = circuitItem.ThirdPractice && `${circuitItem.ThirdPractice.date}T${circuitItem.ThirdPractice.time}`
+		const qualifyingTime = `${circuitItem.Qualifying.date}T${circuitItem.Qualifying.time}`
+		const sprintTime = circuitItem.Sprint && `${circuitItem.Sprint.date}T${circuitItem.Sprint.time}`
+		const sprintShootoutTime = circuitItem.SprintQualifying && `${circuitItem.SprintQualifying.date}T${circuitItem.SprintQualifying.time}`
+
+	return {
+			name: circuitItem.raceName,
+			shortName: circuitItem.Circuit.Location.locality,
+			circuitId: circuitInfo.circuitId,
+			url,
+			state: raceTime ? new Date(raceTime) > new Date() || raceTime === 'TBC' ? 'schedule' : 'finished' : 'canceled',
+			fallbackDate: raceTime,
+			dates: {
+				practice1: new Date(practice1Time),
+				practice2: practice2Time && new Date(practice2Time),
+				practice3: practice3Time && new Date(practice3Time),
+				qualifying: new Date(qualifyingTime),
+				race: new Date(raceTime),
+				sprint: sprintTime && new Date(sprintTime),
+				sprintShootout: sprintShootoutTime && new Date(sprintShootoutTime)
+			},
+			results: {
+				podium: drivers
+				// fullResults
+			}
 		}
 	})
+
 	return schedule
 }

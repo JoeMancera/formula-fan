@@ -14,7 +14,7 @@
   {
     "id": 3,
     "name": "Formula 1 Rolex Australian Grand Prix 2023",
-    "circuitId": "melbourne",
+    "circuitId": "albert_park",
     "circuitNameUrl": "Australia"
   },
   {
@@ -44,13 +44,13 @@
   {
     "id": 8,
     "name": "Formula 1 Aramco Gran Premio De España 2023",
-    "circuitId": "barcelona",
+    "circuitId": "catalunya",
     "circuitNameUrl": "Spain"
   },
   {
     "id": 9,
     "name": "Formula 1 Heineken Grand Prix Du Canada 2023",
-    "circuitId": "montreal",
+    "circuitId": "villeneuve",
     "circuitNameUrl": "Canada"
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "name": "Formula 1 Rolex Belgian Grand Prix 2023",
-    "circuitId": "spa-francorchamps",
+    "circuitId": "spa",
     "circuitNameUrl": "Belgium"
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": 16,
     "name": "Formula 1 Singapore Airlines Singapore Grand Prix 2023",
-    "circuitId": "singapore",
+    "circuitId": "marina_bay",
     "circuitNameUrl": "Singapore"
   },
   {
@@ -110,13 +110,13 @@
   {
     "id": 19,
     "name": "Formula 1 Aramco United States Grand Prix 2023",
-    "circuitId": "austin",
+    "circuitId": "americas",
     "circuitNameUrl": "United_States"
   },
   {
     "id": 20,
     "name": "Formula 1 Gran Premio de la Ciudad de México 2023",
-    "circuitId": "mexico-city",
+    "circuitId": "rodriguez",
     "circuitNameUrl": "Mexico"
   },
   {
@@ -128,7 +128,7 @@
   {
     "id": 22,
     "name": "Formula 1 Heineken Silver Las Vegas Grand Prix 2023",
-    "circuitId": "las-vegas",
+    "circuitId": "vegas",
     "circuitNameUrl": "Las_Vegas"
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "id": 24,
-    "name": "Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023",
-    "circuitId": "china",
+    "name": "China",
+    "circuitId": "shanghai",
     "circuitNameUrl": "China"
   }
 ]

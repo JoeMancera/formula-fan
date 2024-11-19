@@ -1,383 +1,429 @@
 [
   {
-    "name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Bahrain",
-    "circuitId": "Bahrain",
+    "name": "Bahrain Grand Prix",
+    "shortName": "Sakhir",
+    "circuitId": "bahrain",
     "url": "https://www.formula1.com/en/racing/2024/Bahrain.html",
-    "state": "canceled",
-    "fallbackDate": "",
+    "state": "finished",
+    "fallbackDate": "2024-03-02T15:00:00Z",
     "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
+      "practice1": "2024-02-29T11:30:00.000Z",
+      "practice2": "2024-02-29T15:00:00.000Z",
+      "practice3": "2024-03-01T12:30:00.000Z",
+      "qualifying": "2024-03-01T16:00:00.000Z",
+      "race": "2024-03-02T15:00:00.000Z"
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Saudi Arabia",
-    "circuitId": "Saudi_Arabia",
+    "name": "Saudi Arabian Grand Prix",
+    "shortName": "Jeddah",
+    "circuitId": "jeddah",
     "url": "https://www.formula1.com/en/racing/2024/Saudi_Arabia.html",
-    "state": "canceled",
-    "fallbackDate": "",
+    "state": "finished",
+    "fallbackDate": "2024-03-09T17:00:00Z",
     "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
+      "practice1": "2024-03-07T13:30:00.000Z",
+      "practice2": "2024-03-07T17:00:00.000Z",
+      "practice3": "2024-03-08T13:30:00.000Z",
+      "qualifying": "2024-03-08T17:00:00.000Z",
+      "race": "2024-03-09T17:00:00.000Z"
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Australia",
-    "circuitId": "Australia",
+    "name": "Australian Grand Prix",
+    "shortName": "Melbourne",
+    "circuitId": "albert_park",
     "url": "https://www.formula1.com/en/racing/2024/Australia.html",
-    "state": "canceled",
-    "fallbackDate": "",
+    "state": "finished",
+    "fallbackDate": "2024-03-24T04:00:00Z",
     "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
+      "practice1": "2024-03-22T01:30:00.000Z",
+      "practice2": "2024-03-22T05:00:00.000Z",
+      "practice3": "2024-03-23T01:30:00.000Z",
+      "qualifying": "2024-03-23T05:00:00.000Z",
+      "race": "2024-03-24T04:00:00.000Z"
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Azerbaijan",
-    "circuitId": "Azerbaijan",
-    "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Miami",
-    "circuitId": "Miami",
-    "url": "https://www.formula1.com/en/racing/2024/Miami.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024Discover more from F1®",
-    "shortName": "Emilia-Romagna",
-    "circuitId": "EmiliaRomagna",
-    "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 GRAND PRIX DE MONACO 2024Discover more from F1®",
-    "shortName": "Monaco",
-    "circuitId": "Monaco",
-    "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024Discover more from F1®",
-    "shortName": "Spain",
-    "circuitId": "Spain",
-    "url": "https://www.formula1.com/en/racing/2024/Spain.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 AWS GRAND PRIX DU CANADA 2024Discover more from F1®",
-    "shortName": "Canada",
-    "circuitId": "Canada",
-    "url": "https://www.formula1.com/en/racing/2024/Canada.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Austria",
-    "circuitId": "Austria",
-    "url": "https://www.formula1.com/en/racing/2024/Austria.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Great Britain",
-    "circuitId": "Great_Britain",
-    "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 HUNGARIAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Hungary",
-    "circuitId": "Hungary",
-    "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Belgium",
-    "circuitId": "Belgium",
-    "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Netherlands",
-    "circuitId": "Netherlands",
-    "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024Discover more from F1®",
-    "shortName": "Italy",
-    "circuitId": "Italy",
-    "url": "https://www.formula1.com/en/racing/2024/Italy.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Singapore",
-    "circuitId": "Singapore",
-    "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Japan",
-    "circuitId": "Japan",
+    "name": "Japanese Grand Prix",
+    "shortName": "Suzuka",
+    "circuitId": "suzuka",
     "url": "https://www.formula1.com/en/racing/2024/Japan.html",
-    "state": "canceled",
-    "fallbackDate": "",
+    "state": "finished",
+    "fallbackDate": "2024-04-07T05:00:00Z",
     "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
+      "practice1": "2024-04-05T02:30:00.000Z",
+      "practice2": "2024-04-05T06:00:00.000Z",
+      "practice3": "2024-04-06T02:30:00.000Z",
+      "qualifying": "2024-04-06T06:00:00.000Z",
+      "race": "2024-04-07T05:00:00.000Z"
     },
     "results": {
       "podium": []
     }
   },
   {
-    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Qatar",
-    "circuitId": "Qatar",
-    "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024Discover more from F1®",
-    "shortName": "United States",
-    "circuitId": "United_States",
-    "url": "https://www.formula1.com/en/racing/2024/United_States.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024Discover more from F1®",
-    "shortName": "Mexico",
-    "circuitId": "Mexico",
-    "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024Discover more from F1®",
-    "shortName": "Brazil",
-    "circuitId": "Brazil",
-    "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Las Vegas",
-    "circuitId": "Las_Vegas",
-    "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024Discover more from F1®",
-    "shortName": "Abu Dhabi",
-    "circuitId": "United_Arab_Emirates",
-    "url": "https://www.formula1.com/en/racing/2024/United_Arab_Emirates.html",
-    "state": "canceled",
-    "fallbackDate": "",
-    "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
-    },
-    "results": {
-      "podium": []
-    }
-  },
-  {
-    "name": "FORMULA 1 LENOVO CHINESE GRAND PRIX 2024Discover more from F1®",
-    "shortName": "China",
-    "circuitId": "China",
+    "name": "Chinese Grand Prix",
+    "shortName": "Shanghai",
+    "circuitId": "shanghai",
     "url": "https://www.formula1.com/en/racing/2024/China.html",
-    "state": "canceled",
-    "fallbackDate": "",
+    "state": "finished",
+    "fallbackDate": "2024-04-21T07:00:00Z",
     "dates": {
-      "practice1": null,
-      "qualifying": null,
-      "race": null
+      "practice1": "2024-04-19T03:30:00.000Z",
+      "qualifying": "2024-04-20T07:00:00.000Z",
+      "race": "2024-04-21T07:00:00.000Z",
+      "sprint": "2024-04-20T03:00:00.000Z",
+      "sprintShootout": "2024-04-19T07:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Miami Grand Prix",
+    "shortName": "Miami",
+    "circuitId": "miami",
+    "url": "https://www.formula1.com/en/racing/2024/Miami.html",
+    "state": "finished",
+    "fallbackDate": "2024-05-05T20:00:00Z",
+    "dates": {
+      "practice1": "2024-05-03T16:30:00.000Z",
+      "qualifying": "2024-05-04T20:00:00.000Z",
+      "race": "2024-05-05T20:00:00.000Z",
+      "sprint": "2024-05-04T16:00:00.000Z",
+      "sprintShootout": "2024-05-03T20:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Emilia Romagna Grand Prix",
+    "shortName": "Imola",
+    "circuitId": "imola",
+    "url": "https://www.formula1.com/en/racing/2024/EmiliaRomagna.html",
+    "state": "finished",
+    "fallbackDate": "2024-05-19T13:00:00Z",
+    "dates": {
+      "practice1": "2024-05-17T11:30:00.000Z",
+      "practice2": "2024-05-17T15:00:00.000Z",
+      "practice3": "2024-05-18T10:30:00.000Z",
+      "qualifying": "2024-05-18T14:00:00.000Z",
+      "race": "2024-05-19T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Monaco Grand Prix",
+    "shortName": "Monte-Carlo",
+    "circuitId": "monaco",
+    "url": "https://www.formula1.com/en/racing/2024/Monaco.html",
+    "state": "finished",
+    "fallbackDate": "2024-05-26T13:00:00Z",
+    "dates": {
+      "practice1": "2024-05-24T11:30:00.000Z",
+      "practice2": "2024-05-24T15:00:00.000Z",
+      "practice3": "2024-05-25T10:30:00.000Z",
+      "qualifying": "2024-05-25T14:00:00.000Z",
+      "race": "2024-05-26T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Canadian Grand Prix",
+    "shortName": "Montreal",
+    "circuitId": "villeneuve",
+    "url": "https://www.formula1.com/en/racing/2024/Canada.html",
+    "state": "finished",
+    "fallbackDate": "2024-06-09T18:00:00Z",
+    "dates": {
+      "practice1": "2024-06-07T17:30:00.000Z",
+      "practice2": "2024-06-07T21:00:00.000Z",
+      "practice3": "2024-06-08T16:30:00.000Z",
+      "qualifying": "2024-06-08T20:00:00.000Z",
+      "race": "2024-06-09T18:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Spanish Grand Prix",
+    "shortName": "Montmeló",
+    "circuitId": "catalunya",
+    "url": "https://www.formula1.com/en/racing/2024/Spain.html",
+    "state": "finished",
+    "fallbackDate": "2024-06-23T13:00:00Z",
+    "dates": {
+      "practice1": "2024-06-21T11:30:00.000Z",
+      "practice2": "2024-06-21T15:00:00.000Z",
+      "practice3": "2024-06-22T10:30:00.000Z",
+      "qualifying": "2024-06-22T14:00:00.000Z",
+      "race": "2024-06-23T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Austrian Grand Prix",
+    "shortName": "Spielberg",
+    "url": "https://www.formula1.com/en/racing/2024/undefined.html",
+    "state": "finished",
+    "fallbackDate": "2024-06-30T13:00:00Z",
+    "dates": {
+      "practice1": "2024-06-28T10:30:00.000Z",
+      "qualifying": "2024-06-29T14:00:00.000Z",
+      "race": "2024-06-30T13:00:00.000Z",
+      "sprint": "2024-06-29T10:00:00.000Z",
+      "sprintShootout": "2024-06-28T14:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "British Grand Prix",
+    "shortName": "Silverstone",
+    "circuitId": "silverstone",
+    "url": "https://www.formula1.com/en/racing/2024/Great_Britain.html",
+    "state": "finished",
+    "fallbackDate": "2024-07-07T14:00:00Z",
+    "dates": {
+      "practice1": "2024-07-05T11:30:00.000Z",
+      "practice2": "2024-07-05T15:00:00.000Z",
+      "practice3": "2024-07-06T10:30:00.000Z",
+      "qualifying": "2024-07-06T14:00:00.000Z",
+      "race": "2024-07-07T14:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Hungarian Grand Prix",
+    "shortName": "Budapest",
+    "circuitId": "hungaroring",
+    "url": "https://www.formula1.com/en/racing/2024/Hungary.html",
+    "state": "finished",
+    "fallbackDate": "2024-07-21T13:00:00Z",
+    "dates": {
+      "practice1": "2024-07-19T11:30:00.000Z",
+      "practice2": "2024-07-19T15:00:00.000Z",
+      "practice3": "2024-07-20T10:30:00.000Z",
+      "qualifying": "2024-07-20T14:00:00.000Z",
+      "race": "2024-07-21T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Belgian Grand Prix",
+    "shortName": "Spa",
+    "circuitId": "spa",
+    "url": "https://www.formula1.com/en/racing/2024/Belgium.html",
+    "state": "finished",
+    "fallbackDate": "2024-07-28T13:00:00Z",
+    "dates": {
+      "practice1": "2024-07-26T11:30:00.000Z",
+      "practice2": "2024-07-26T15:00:00.000Z",
+      "practice3": "2024-07-27T10:30:00.000Z",
+      "qualifying": "2024-07-27T14:00:00.000Z",
+      "race": "2024-07-28T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Dutch Grand Prix",
+    "shortName": "Zandvoort",
+    "circuitId": "zandvoort",
+    "url": "https://www.formula1.com/en/racing/2024/Netherlands.html",
+    "state": "finished",
+    "fallbackDate": "2024-08-25T13:00:00Z",
+    "dates": {
+      "practice1": "2024-08-23T10:30:00.000Z",
+      "practice2": "2024-08-23T14:00:00.000Z",
+      "practice3": "2024-08-24T09:30:00.000Z",
+      "qualifying": "2024-08-24T13:00:00.000Z",
+      "race": "2024-08-25T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Italian Grand Prix",
+    "shortName": "Monza",
+    "circuitId": "monza",
+    "url": "https://www.formula1.com/en/racing/2024/Italy.html",
+    "state": "finished",
+    "fallbackDate": "2024-09-01T13:00:00Z",
+    "dates": {
+      "practice1": "2024-08-30T11:30:00.000Z",
+      "practice2": "2024-08-30T15:00:00.000Z",
+      "practice3": "2024-08-31T10:30:00.000Z",
+      "qualifying": "2024-08-31T14:00:00.000Z",
+      "race": "2024-09-01T13:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Azerbaijan Grand Prix",
+    "shortName": "Baku",
+    "circuitId": "baku",
+    "url": "https://www.formula1.com/en/racing/2024/Azerbaijan.html",
+    "state": "finished",
+    "fallbackDate": "2024-09-15T11:00:00Z",
+    "dates": {
+      "practice1": "2024-09-13T09:30:00.000Z",
+      "practice2": "2024-09-13T13:00:00.000Z",
+      "practice3": "2024-09-14T08:30:00.000Z",
+      "qualifying": "2024-09-14T12:00:00.000Z",
+      "race": "2024-09-15T11:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Singapore Grand Prix",
+    "shortName": "Marina Bay",
+    "circuitId": "marina_bay",
+    "url": "https://www.formula1.com/en/racing/2024/Singapore.html",
+    "state": "finished",
+    "fallbackDate": "2024-09-22T12:00:00Z",
+    "dates": {
+      "practice1": "2024-09-20T09:30:00.000Z",
+      "practice2": "2024-09-20T13:00:00.000Z",
+      "practice3": "2024-09-21T09:30:00.000Z",
+      "qualifying": "2024-09-21T13:00:00.000Z",
+      "race": "2024-09-22T12:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "United States Grand Prix",
+    "shortName": "Austin",
+    "circuitId": "americas",
+    "url": "https://www.formula1.com/en/racing/2024/United_States.html",
+    "state": "finished",
+    "fallbackDate": "2024-10-20T19:00:00Z",
+    "dates": {
+      "practice1": "2024-10-18T17:30:00.000Z",
+      "qualifying": "2024-10-19T22:00:00.000Z",
+      "race": "2024-10-20T19:00:00.000Z",
+      "sprint": "2024-10-19T18:00:00.000Z",
+      "sprintShootout": "2024-10-18T21:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Mexico City Grand Prix",
+    "shortName": "Mexico City",
+    "circuitId": "rodriguez",
+    "url": "https://www.formula1.com/en/racing/2024/Mexico.html",
+    "state": "finished",
+    "fallbackDate": "2024-10-27T20:00:00Z",
+    "dates": {
+      "practice1": "2024-10-25T18:30:00.000Z",
+      "practice2": "2024-10-25T22:00:00.000Z",
+      "practice3": "2024-10-26T17:30:00.000Z",
+      "qualifying": "2024-10-26T21:00:00.000Z",
+      "race": "2024-10-27T20:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "São Paulo Grand Prix",
+    "shortName": "São Paulo",
+    "circuitId": "interlagos",
+    "url": "https://www.formula1.com/en/racing/2024/Brazil.html",
+    "state": "finished",
+    "fallbackDate": "2024-11-03T17:00:00Z",
+    "dates": {
+      "practice1": "2024-11-01T14:30:00.000Z",
+      "qualifying": "2024-11-02T18:00:00.000Z",
+      "race": "2024-11-03T17:00:00.000Z",
+      "sprint": "2024-11-02T14:00:00.000Z",
+      "sprintShootout": "2024-11-01T18:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Las Vegas Grand Prix",
+    "shortName": "Las Vegas",
+    "circuitId": "vegas",
+    "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
+    "state": "schedule",
+    "fallbackDate": "2024-11-24T06:00:00Z",
+    "dates": {
+      "practice1": "2024-11-22T02:30:00.000Z",
+      "practice2": "2024-11-22T06:00:00.000Z",
+      "practice3": "2024-11-23T02:30:00.000Z",
+      "qualifying": "2024-11-23T06:00:00.000Z",
+      "race": "2024-11-24T06:00:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Qatar Grand Prix",
+    "shortName": "Al Daayen",
+    "circuitId": "losail",
+    "url": "https://www.formula1.com/en/racing/2024/Qatar.html",
+    "state": "schedule",
+    "fallbackDate": "2024-12-01T17:00:00Z",
+    "dates": {
+      "practice1": "2024-11-29T13:30:00.000Z",
+      "qualifying": "2024-11-30T17:00:00.000Z",
+      "race": "2024-12-01T17:00:00.000Z",
+      "sprint": "2024-11-30T13:00:00.000Z",
+      "sprintShootout": "2024-11-29T17:30:00.000Z"
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Abu Dhabi Grand Prix",
+    "shortName": "Abu Dhabi",
+    "url": "https://www.formula1.com/en/racing/2024/undefined.html",
+    "state": "schedule",
+    "fallbackDate": "2024-12-08T13:00:00Z",
+    "dates": {
+      "practice1": "2024-12-06T09:30:00.000Z",
+      "practice2": "2024-12-06T13:00:00.000Z",
+      "practice3": "2024-12-07T10:30:00.000Z",
+      "qualifying": "2024-12-07T14:00:00.000Z",
+      "race": "2024-12-08T13:00:00.000Z"
     },
     "results": {
       "podium": []
