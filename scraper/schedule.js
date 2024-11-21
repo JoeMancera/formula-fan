@@ -28,7 +28,7 @@ export async function getEventSchedule() {
 	return {
 			name: circuitItem.raceName,
 			shortName: circuitItem.Circuit.Location.locality,
-			circuitId: circuitInfo.circuitId,
+			circuitId: circuitInfo.circuitId ?? 'red_bull_ring',
 			url,
 			state: raceTime ? new Date(raceTime) > new Date() || raceTime === 'TBC' ? 'schedule' : 'finished' : 'canceled',
 			fallbackDate: raceTime,

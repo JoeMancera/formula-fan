@@ -31,7 +31,8 @@ const eventInfo = events.find((event) => event.circuitId === id)
 		<section class='p-4 bg-gray rounded-3xl w-full'>
 			<h2 class='text-2xl font-semibold'>Results</h2>
 			{
-				eventInfo.results && eventInfo.results.podium && eventInfo.results.podium.length > 0 ? (
+				eventInfo.results && eventInfo.results.podium && eventInfo.results.podium.length > 0
+				? (
 					<div class='flex flex-col justify-between mt-5'>
 						<section>
 							<h3 class='text-xl font-semibold text-yellow mb-3'>Podium</h3>
@@ -58,7 +59,8 @@ const eventInfo = events.find((event) => event.circuitId === id)
 							Go to the full Results
 						</a>
 					</div>
-				) : (
+				)
+: (
 					<p class='text-orange'>No results available yet</p>
 				)
 			}

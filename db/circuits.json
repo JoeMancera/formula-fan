@@ -56,7 +56,7 @@
   {
     "id": 10,
     "name": "Formula 1 myWorld Grosser Preis Von Österreich 2023",
-    "circuitId": "red-bull-ring",
+    "circuitId": "red_bull_ring",
     "circuitNameUrl": "Austria"
   },
   {

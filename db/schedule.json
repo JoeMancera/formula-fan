@@ -182,7 +182,8 @@
   {
     "name": "Austrian Grand Prix",
     "shortName": "Spielberg",
-    "url": "https://www.formula1.com/en/racing/2024/undefined.html",
+    "circuitId": "red_bull_ring",
+    "url": "https://www.formula1.com/en/racing/2024/Austria.html",
     "state": "finished",
     "fallbackDate": "2024-06-30T13:00:00Z",
     "dates": {
@@ -415,6 +416,7 @@
   {
     "name": "Abu Dhabi Grand Prix",
     "shortName": "Abu Dhabi",
+    "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2024/undefined.html",
     "state": "schedule",
     "fallbackDate": "2024-12-08T13:00:00Z",
