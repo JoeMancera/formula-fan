@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-11-22T00:13:25.505Z",
+  "updatedDate": "2024-11-22T06:05:42.369Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-bottas-hit-with-grid-penalty-for-las-vegas-grand-prix.4ZxrZMl9pPj7zS8HercsKG",
+      "title": "Bottas hit with five-place grid penalty for Las Vegas Grand Prix",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Las_Vegas___Previews/2185846279"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/haas-sign-american-racer-courtney-crone-for-2025-f1-academy-campaign.6UexquKiGHhNb8H7N6tWIi",
+      "title": "Haas sign American racer Courtney Crone for 2025 F1 ACADEMY campaign",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/F1%20Academy/16x9%20COURTNEY%20CLEAN"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/formula-1-comes-to-life-in-brick-form-as-full-lego-range-unveiled.6rIriDouvPBHyWrvwUqjED",
       "title": "Formula 1 comes to life in brick form as full LEGO range unveiled",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/vasseur-outlines-plan-for-hamiltons-ferrari-arrival-with-first-test-set-to.4nLDRJYDa5ZEJgGxWmhg1d",
       "title": "Vasseur outlines plan for Hamilton’s Ferrari arrival with first test set to come in previous car",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/Miscellaneous/vasseur-hamilton-comp-2024-1"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/its-my-first-time-being-in-this-situation-norris-reflects-on-how-friendship.7fkaeOSohanhUR7QJqKg6P",
-      "title": "‘It’s my first time being in this situation’ – Norris reflects on how friendship with Verstappen has been affected by title fight",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Sprint__Qualifying/2179650761"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/williams-confirm-sainz-to-drive-for-team-at-abu-dhabi-post-season-test.4IYHv2hRpiCrleuL4xapfr",
-      "title": "Williams confirm Sainz to drive for team at Abu Dhabi post-season test",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_United_States___Previews/2178909533"
     }
   ]
 }
