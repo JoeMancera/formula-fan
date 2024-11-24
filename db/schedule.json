@@ -382,7 +382,7 @@
     "shortName": "Las Vegas",
     "circuitId": "vegas",
     "url": "https://www.formula1.com/en/racing/2024/Las_Vegas.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2024-11-24T06:00:00Z",
     "dates": {
       "practice1": "2024-11-22T02:30:00.000Z",
