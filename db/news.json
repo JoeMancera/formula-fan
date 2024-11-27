@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-11-27T06:05:49.472Z",
+  "updatedDate": "2024-11-27T12:00:47.930Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/alonso-plots-revenge-in-qatar-after-just-getting-pipped-to-p10-in-las-vegas.4xZrhfEsTNw9wOmNXU29BM",
+      "title": "Alonso plots ‘revenge’ in Qatar after just getting pipped to P10 in Las Vegas while Stroll rues lack of radio",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Las%20Vegas%20GP/Formula%201%20header%20template%20-%202024-11-27T115408.553"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/albon-admits-williams-having-terrible-time-of-it-amid-las-vegas-dnf-as.3Q2LyRjZwBDNGU7j7QIZgH",
       "title": "Albon admits Williams having ‘terrible time of it’ amid Las Vegas DNF as Colapinto reflects on ‘really hard’ race after qualifying crash",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/a-very-special-and-beautiful-season-verstappen-proud-after-joining-elites-as.4Q2zWcWyFVwbFgxdKJlOk8",
       "title": "‘A very special and beautiful season’ – Verstappen ‘proud’ after joining elites as a four-time F1 champion in Las Vegas",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Las_Vegas/2186585158"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-hamilton-gets-your-vote-for-p10-to-p2-vegas-charge.2r1ZqZxDpHqMpPNGJqSMsp",
-      "title": "DRIVER OF THE DAY: Hamilton gets your vote for P10-to-P2 Vegas charge",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/manual/Misc/Driver%20Of%20The%20Day/2024/Hamilton"
     }
   ]
 }
