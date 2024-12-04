@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-12-04T06:05:59.693Z",
+  "updatedDate": "2024-12-04T12:00:46.727Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-to-celebrate-final-dutch-grand-prix-in-2026-after-one-year.7EYLHSMGIJyqefI5tMjLrZ",
+      "title": "Formula 1 to celebrate final Dutch Grand Prix in 2026 after one-year extension confirmed for Zandvoort",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Netherlands/2168422839"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/this-is-not-how-i-wanted-things-to-end-ocon-shares-emotional-farewell-to.XUOx2kM5WjY99EU8tdOdw",
       "title": "‘This is not how I wanted things to end’ – Ocon shares emotional farewell to Alpine after ‘especially difficult’ season",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-qatar-2024.2wtb3Zqsoo1JPbvUr1leaq",
       "title": "FIA post-race press conference – Qatar",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Qatar/2187736195"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ive-let-them-down-norris-apologises-to-mclaren-as-he-offers-explanation-over.3iTzCNSEtKiltVxHmkTa3J",
-      "title": "‘I’ve let them down’ – Norris apologises to McLaren as he offers explanation over incident that led to stop/go penalty",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Qatar/2187707457"
     }
   ]
 }
