@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-12-07T18:08:08.781Z",
+  "updatedDate": "2024-12-08T00:14:38.309Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-abu-dhabi-2024.2qJg0jAhhwEIxMYZ5AaSFl",
+      "title": "FIA post-qualifying press conference – Abu Dhabi",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Qualifying/2188727956"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-hulkenberg-hit-with-three-place-grid-penalty-for-abu-dhabi-gp.7f9H9fwHYeWQ7VCUwLYVo0",
       "title": "Hulkenberg hit with three-place grid penalty for Abu Dhabi GP",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/the-six-young-drivers-set-to-take-part-in-fp1-in-abu-dhabi.uW8Vcs1t29uPwzhIGEKTE",
       "title": "The six rookie drivers set to take part in FP1 in Abu Dhabi",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Abu%20Dhabi/Formula%201%20header%20template%20(10)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/lewis-hamilton-mercedes-last-race-abu-dhabi-2024-farewell-year.6gBjScwRMQ8xsGjN9a1GpS",
-      "title": "Hamilton admits he 'massively underestimated' how difficult his Mercedes farewell year would be",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Previews/2188354799"
     }
   ]
 }
