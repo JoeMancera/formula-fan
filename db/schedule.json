@@ -418,7 +418,7 @@
     "shortName": "Abu Dhabi",
     "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2024/undefined.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2024-12-08T13:00:00Z",
     "dates": {
       "practice1": "2024-12-06T09:30:00.000Z",
