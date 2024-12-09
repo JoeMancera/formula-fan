@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2024-12-09T06:05:56.602Z",
+  "updatedDate": "2024-12-09T12:00:39.920Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/magnussen-reflects-on-real-privilege-of-f1-career-as-hulkenberg-shares-pride.10dc9tOUWnzeibhnRqGBpg",
+      "title": "Magnussen reflects on ‘real privilege’ of F1 career as Hulkenberg shares pride in Haas efforts despite team losing out on P6",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Qualifying/2188669108"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/im-not-done-yet-bottas-defiant-after-final-race-where-everything-went-wrong.5JWkKqw00nMLnfgY8BOl6M",
+      "title": "‘I’m not done yet’ – Bottas defiant on his F1 future after ‘everything went wrong’ in final Kick Sauber race",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188544936"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/kick-sauber-announce-f1-academys-carrie-schreiner-as-team-brand-ambassador.3YclZlU1TrshRR8hElyKRG",
+      "title": "Kick Sauber announce F1 ACADEMY’s Carrie Schreiner as Team Brand Ambassador",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/F1%20Academy/2024%20Qatar%20Grand%20Prix%20-%20Thursday"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-abu-dhabi-2024.wLeizjHq7nElulnTbELOA",
       "title": "FIA post-race press conference – Abu Dhabi",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/norris-warns-mclarens-practice-pace-looks-better-than-it-is-as-he-predicts.3yzikfzXFfdI5YalBM7Mzd",
       "title": "Norris warns McLaren’s practice pace ‘looks better than it is’ as he predicts ‘tough fight’ in Abu Dhabi",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Previews/2188354589"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/despondent-verstappen-says-qualifying-inside-top-six-in-abu-dhabi-would-be-a.2Hqh2yerLPGch7VOBfEDfT",
-      "title": "Despondent Verstappen says qualifying inside top six in Abu Dhabi would be ‘a good recovery’ after ‘tricky’ Friday",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188522908"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-team-principals-press-conference-abu-dhabi-2024.9vKL5HSc51lV0ZV4e43gc",
-      "title": "FIA Team Principals press conference – Abu Dhabi",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188515234"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/its-pantomime-season-horner-responds-to-verstappen-russell-rift-as-he.1XkWtNj9JU5Z8ybaef9zHL",
-      "title": "'It’s pantomime season' – Horner responds to Verstappen/Russell rift as he addresses Wolff’s ‘terrier’ comments",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188515663"
     }
   ]
 }
