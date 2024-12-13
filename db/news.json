@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-12-13T12:00:39.030Z",
+  "updatedDate": "2024-12-13T18:08:47.862Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/we-have-to-improve-everywhere-vasseur-targets-major-step-forward-for-ferrari.1MwphLe6cID919zvQOA1ix",
+      "title": "‘We have to improve everywhere’ – Vasseur targets major step forward for Ferrari after near-miss in constructors’ battle",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188482407"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/horner-confirms-tsunoda-and-lawson-would-be-the-candidates-to-replace-perez.7JVjuAREk2WMGW4lxdKbcL",
       "title": "Horner confirms Tsunoda and Lawson 'would be the candidates' to replace Perez for 2025",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/verstappen-and-piastri-give-their-take-on-first-lap-clash-as-both-endure.4NzTFagtVBRUXiCGTVgm3w",
       "title": "Verstappen and Piastri give their take on first-lap clash as both endure tough outing in Abu Dhabi",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Abu%20Dhabi/Formula%201%20header%20template%20(11)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/perez-says-collision-with-bottas-in-abu-dhabi-sums-it-up-as-he-admits.28DF4FwRahTOcEAvMzd6r",
-      "title": "Perez says collision with Bottas in Abu Dhabi ‘sums it up’ as he admits uncertainty around his future",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Qualifying/2188727108"
     }
   ]
 }
