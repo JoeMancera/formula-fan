@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2024-12-16T12:00:39.929Z",
+  "updatedDate": "2024-12-16T18:09:18.783Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/revealed-your-favourite-race-of-the-thrilling-2024-season.7t2FReCra8WXnwGa5qpNd0",
+      "title": "REVEALED: Your favourite race of the thrilling 2024 season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-2182673196"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/mekies-hails-outstanding-season-for-tsunoda-with-rb-racer-making-steps-no.1nfRHdYQbzTBTlo7VF06eA",
       "title": "Mekies hails ‘outstanding’ season for Tsunoda with RB racer making steps ‘no one could have forecast’",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/im-not-done-yet-bottas-defiant-after-final-race-where-everything-went-wrong.5JWkKqw00nMLnfgY8BOl6M",
       "title": "‘I’m not done yet’ – Bottas defiant on his F1 future after ‘everything went wrong’ in final Kick Sauber race",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188544936"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/kick-sauber-announce-f1-academys-carrie-schreiner-as-team-brand-ambassador.3YclZlU1TrshRR8hElyKRG",
-      "title": "Kick Sauber announce F1 ACADEMY’s Carrie Schreiner as Team Brand Ambassador",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/F1%20Academy/2024%20Qatar%20Grand%20Prix%20-%20Thursday"
     }
   ]
 }
