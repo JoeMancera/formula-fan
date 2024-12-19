@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2024-12-19T06:05:33.858Z",
+  "updatedDate": "2024-12-19T12:00:42.478Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-lawson-confirmed-as-verstappens-red-bull-team-mate-for-2025.4umEL3YzqWIv9JEV7qI2Gn",
+      "title": "Lawson confirmed as Verstappen's Red Bull team mate for 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Red%20Bull/GettyImages-2188377698"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-and-leclercs-2025-ferrari-given-launch-date.6at2zNukNRfyvYX8h2top",
+      "title": "Hamilton and Leclerc’s 2025 Ferrari given launch date",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-2188844503"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/ferrari-give-sainz-and-his-rally-champion-father-special-send-off-with-f1.5XNR5JV4bZeyPF0AGh22GP",
       "title": "Ferrari give Sainz and his rally champion father special send-off with F1 track day at Fiorano",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/f1-tv-crowned-apple-tv-app-of-the-year.650K1Ee2eYc3UT8JmQGQxe",
       "title": "F1 TV crowned Apple TV App of the Year",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/Campaign/F1%20TV/GP%20Emilia%20Romagna%20F1-2024%20F1%20TV%20169"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ferrari-agree-to-supply-general-motors-f1-project-with-power-units-and.5iJ8zSH3IEfakRY5XXt8GM",
-      "title": "Ferrari agree to supply General Motors F1 project with power units and gearboxes",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2024/Miscellaneous/Formula%201%20header%20template%20Ferrari"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hamilton-deserved-to-beat-me-in-abu-dhabi-says-russell-as-he-pays-tribute-to.3BLjVcLb4g7surX3141eRt",
-      "title": "Hamilton deserved to beat me in Abu Dhabi says Russell, as he pays tribute to ‘incredible’ team mate",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Qualifying/2188671729"
     }
   ]
 }
