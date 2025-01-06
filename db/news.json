@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-06T06:05:59.526Z",
+  "updatedDate": "2025-01-06T12:00:44.485Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/tag-heuer-returns-to-formula-1-as-official-timekeeper-from-2025-season.5lS9YMOfwnuaQXkRGQW11v",
+      "title": "TAG Heuer returns to Formula 1 as Official Timekeeper from 2025 season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/tag-heuer-2025"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/vasseur-responds-to-hamiltons-not-fast-anymore-concerns-ahead-of-ferrari.27uM42p7B7TnsJd3pOFto0",
       "title": "Vasseur responds to Hamilton’s 'not fast anymore' concerns ahead of Ferrari arrival",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/doriane-pin-to-continue-with-mercedes-for-2025-f1-academy-campaign.7ppdYzlMHmnMmmwnsnxX7M",
       "title": "Doriane Pin to continue with Mercedes for 2025 F1 ACADEMY campaign",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2024/F1%20Academy/pin-f1-academy-2024"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/aston-martin-cannot-be-happy-with-2024-season-as-team-boss-krack-insists.4Xb85dihP43NqSlas42yYB",
-      "title": "Aston Martin ‘cannot be happy’ with 2024 season as team boss Krack insists they have ‘learned lessons’ for the future",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Qatar___Practice__Sprint_Qualifying/2187470335"
     }
   ]
 }
