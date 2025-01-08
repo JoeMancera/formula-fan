@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-08T06:05:11.938Z",
+  "updatedDate": "2025-01-08T12:00:44.649Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-announces-multi-year-extension-with-the-belgian-grand-prix.7FR5zJUgLAB7htZrRQUB07",
+      "title": "Formula 1 announces multi-year extension with the Belgian Grand Prix",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Belgium/2164083565"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/leclerc-lists-areas-where-sainz-has-helped-him-improve-as-he-hails.5mFpWS7WWIiUK3s2m7QaCC",
       "title": "Leclerc lists areas where Sainz has helped him improve as he hails 'incredible team mate'",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/hamilton-and-leclercs-2025-ferrari-given-launch-date.6at2zNukNRfyvYX8h2top",
       "title": "Hamilton and Leclerc’s 2025 Ferrari given launch date",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-2188844503"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ferrari-give-sainz-and-his-rally-champion-father-special-send-off-with-f1.5XNR5JV4bZeyPF0AGh22GP",
-      "title": "Ferrari give Sainz and his rally champion father special send-off with F1 track day at Fiorano",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Miscellaneous/Group%20picture_bbab2a62-44dc-4e85-96f9-e3beac4c2bb0"
     }
   ]
 }
