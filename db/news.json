@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-08T12:00:44.649Z",
+  "updatedDate": "2025-01-08T18:08:28.790Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/hell-be-back-norris-insists-sainzs-time-will-come-again-as-spaniard-prepares.27lmb1IdiB6hdVrowxkVuT",
+      "title": "'He'll be back' – Norris insists Sainz’s ‘time will come again’ as Spaniard prepares for Williams journey",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20(3)"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/formula-1-announces-multi-year-extension-with-the-belgian-grand-prix.7FR5zJUgLAB7htZrRQUB07",
       "title": "Formula 1 announces multi-year extension with the Belgian Grand Prix",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/breaking-lawson-confirmed-as-verstappens-red-bull-team-mate-for-2025.4umEL3YzqWIv9JEV7qI2Gn",
       "title": "Lawson confirmed as Verstappen's Red Bull team mate for 2025",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Red%20Bull/GettyImages-2188377698"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hamilton-and-leclercs-2025-ferrari-given-launch-date.6at2zNukNRfyvYX8h2top",
-      "title": "Hamilton and Leclerc’s 2025 Ferrari given launch date",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-2188844503"
     }
   ]
 }
