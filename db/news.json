@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-10T12:00:40.828Z",
+  "updatedDate": "2025-01-10T18:08:35.566Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/all-the-2025-f1-driver-numbers-confirmed-in-full.MQatOGQ4HR0i8kg4lPkP4",
+      "title": "All the 2025 F1 driver numbers confirmed in full",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2188853563"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-andy-cowell-becomes-team-principal-at-aston-martin-as-mike-krack.4QdrRrvUDpwApaaPs9v2g1",
       "title": "Andy Cowell becomes Team Principal at Aston Martin as Mike Krack moves to new role in restructure",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/leclerc-singles-out-highlight-of-the-season-for-ferrari-as-he-hails-good-job.29IkDmospYVYW2diUyIlGL",
       "title": "Leclerc singles out 'highlight of the season' for Ferrari as he hails 'good job'",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi/2188880681"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-assesses-his-2024-season-as-he-pinpoints-areas-of-improvement-and.5vdvQzXBfv8kN4gpU7Y4ak",
-      "title": "Piastri assesses his 2024 season as he pinpoints areas of improvement and times he ‘made life too difficult’",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188490186"
     }
   ]
 }
