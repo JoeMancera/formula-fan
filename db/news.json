@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-16T12:00:46.244Z",
+  "updatedDate": "2025-01-16T18:08:10.049Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/iconic-mercedes-f1-car-driven-by-fangio-and-moss-goes-up-for-auction.2JDIltV5GitsxJlokZpoE9",
+      "title": "Iconic Mercedes F1 car driven by Fangio and Moss goes up for auction",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/91feea788ec797449e5fe8c2ceb40dfcd2f01c03"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/formula-1-and-singapore-airlines-renew-singapore-grand-prix-title.4uxaK22OEPi7ky83JBElxl",
       "title": "Formula 1 and Singapore Airlines renew Singapore Grand Prix title sponsorship",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/formula-1-announces-multi-year-extension-with-the-belgian-grand-prix.7FR5zJUgLAB7htZrRQUB07",
       "title": "Formula 1 announces multi-year extension with the Belgian Grand Prix",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Belgium/2164083565"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/leclerc-lists-areas-where-sainz-has-helped-him-improve-as-he-hails.5mFpWS7WWIiUK3s2m7QaCC",
-      "title": "Leclerc lists areas where Sainz has helped him improve as he hails 'incredible team mate'",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Monaco___Qualifying/2154568970"
     }
   ]
 }
