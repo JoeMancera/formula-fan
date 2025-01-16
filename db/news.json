@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-16T06:05:29.774Z",
+  "updatedDate": "2025-01-16T12:00:46.244Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-and-singapore-airlines-renew-singapore-grand-prix-title.4uxaK22OEPi7ky83JBElxl",
+      "title": "Formula 1 and Singapore Airlines renew Singapore Grand Prix title sponsorship",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/singapore-start-2024-f1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/hungarorings-redevelopment-continues-with-amazing-transformation-ahead-of.2BSWRWfuboKed0dTkwRXdW",
       "title": "Hungaroring's redevelopment continues with ‘amazing transformation’ ahead of Hungarian Grand Prix",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/leclerc-lists-areas-where-sainz-has-helped-him-improve-as-he-hails.5mFpWS7WWIiUK3s2m7QaCC",
       "title": "Leclerc lists areas where Sainz has helped him improve as he hails 'incredible team mate'",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Monaco___Qualifying/2154568970"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/magnussen-explains-how-he-could-have-ended-up-alongside-verstappen-at-red.3AvZlCvRsOCPW8PZmBxy27",
-      "title": "Magnussen explains how he could have ended up alongside Verstappen at Red Bull as he reflects on moments that changed his path",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Italy___Qualifying/2169555202"
     }
   ]
 }
