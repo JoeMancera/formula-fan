@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2025-01-20T06:05:34.057Z",
+  "updatedDate": "2025-01-20T12:00:50.171Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/i-couldnt-be-happier-hamilton-shares-emotional-message-after-dream-first.5A5w2BzhFcwZ07lEK6UBFA",
+      "title": "‘I couldn’t be happier’ – Hamilton shares emotional message after ‘dream’ first appearance for Ferrari",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Hamilton%20Ferrari"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/all-the-key-pre-season-dates-for-f1-2025.1ugNQZ4l2azsyiBMNd0MmN",
+      "title": "All the key pre-season dates for F1 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Bahrain___Day_3/2032837677"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/iconic-mercedes-f1-car-driven-by-fangio-and-moss-goes-up-for-auction.2JDIltV5GitsxJlokZpoE9",
       "title": "Iconic Mercedes F1 car driven by Fangio and Moss goes up for auction",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/ryo-hirakawa-joins-alpine-as-reserve-driver-for-2025-and-gets-fp1-run-in.1M59xFpQ9LFZMLhTka7a16",
       "title": "Ryo Hirakawa joins Alpine as reserve driver for 2025 and gets FP1 run in Japan",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189130728"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hell-be-back-norris-insists-sainzs-time-will-come-again-as-spaniard-prepares.27lmb1IdiB6hdVrowxkVuT",
-      "title": "'He'll be back' – Norris insists Sainz’s ‘time will come again’ as Spaniard prepares for Williams journey",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20(3)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/formula-1-announces-multi-year-extension-with-the-belgian-grand-prix.7FR5zJUgLAB7htZrRQUB07",
-      "title": "Formula 1 announces multi-year extension with the Belgian Grand Prix",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Belgium/2164083565"
     }
   ]
 }
