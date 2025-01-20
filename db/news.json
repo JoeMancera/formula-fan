@@ -1,10 +1,15 @@
 {
-  "updatedDate": "2025-01-20T12:00:50.171Z",
+  "updatedDate": "2025-01-20T18:08:22.798Z",
   "newsList": [
     {
+      "link": "https://www.formula1.com/en/latest/article/aston-martin-won-the-world-championship-for-most-updates-last-season-as-new.64jbS60VhyHbBaZWP6p8OM",
+      "title": "Aston Martin won the ‘World Championship for most updates’ last season as new team boss Cowell sets out ambitious 2025 target",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/cowell-aston-martin-1"
+    },
+    {
       "link": "https://www.formula1.com/en/latest/article/i-couldnt-be-happier-hamilton-shares-emotional-message-after-dream-first.5A5w2BzhFcwZ07lEK6UBFA",
-      "title": "‘I couldn’t be happier’ – Hamilton shares emotional message after ‘dream’ first appearance for Ferrari",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Hamilton%20Ferrari"
+      "title": "‘Today we start a new era’ – Hamilton shares emotional message after ‘dream’ first appearance for Ferrari",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Ferrari/lewis-hamilton-maranello-2025-v2_effc8f7f-7aa3-462e-a1d7-70d1442685b6"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/all-the-key-pre-season-dates-for-f1-2025.1ugNQZ4l2azsyiBMNd0MmN",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/binotto-expands-on-key-area-where-kick-sauber-need-to-change-after-being-in.NTBpKW1UezBGIYSQdXRTO",
       "title": "Binotto expands on key area where Kick Sauber need to change after being in 'survival mode'",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188482935"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/ryo-hirakawa-joins-alpine-as-reserve-driver-for-2025-and-gets-fp1-run-in.1M59xFpQ9LFZMLhTka7a16",
-      "title": "Ryo Hirakawa joins Alpine as reserve driver for 2025 and gets FP1 run in Japan",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189130728"
     }
   ]
 }
