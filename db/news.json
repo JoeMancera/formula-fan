@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-21T12:00:40.876Z",
+  "updatedDate": "2025-01-21T18:08:36.095Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/lewis-hamilton-to-reunite-with-former-trainer-angela-cullen-as-his-ferrari-journey.3mgMZiyn4jvlnK3ijzJ5Ky",
+      "title": "Hamilton to reunite with former trainer Angela Cullen as his Ferrari journey begins",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Ferrari/GettyImages-1429390294"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/laura-mueller-becomes-f1s-first-female-race-engineer-as-haas-confirm-key.3gFdz46OphteLHNKnGAIM6",
       "title": "Laura Mueller becomes F1's first female Race Engineer as Haas confirm key personnel changes",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/breaking-alpine-confirm-williams-super-sub-colapinto-as-reserve-driver-for.154qk8wYegROlfYD0TPfBj",
       "title": "Alpine confirm Williams super-sub Colapinto as reserve driver for 2025 season",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Azerbaijan___Previews/2171498785"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/williams-confirm-launch-date-for-2025-car-as-sainz-and-albon-share.H6J6CqDrl9hyjupGgc8oj",
-      "title": "Williams confirm launch date for 2025 car as Sainz and Albon share excitement about new season",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189130690"
     }
   ]
 }
