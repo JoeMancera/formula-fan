@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-23T06:05:35.968Z",
+  "updatedDate": "2025-01-23T12:01:08.483Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/lawson-reveals-the-one-driver-who-deserves-an-f1-seat-right-now.2fSCgkasbYTslKBzbwO1cN",
+      "title": "Lawson reveals the one driver who 'deserves an F1 seat right now'",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Las_Vegas___Practice/2186023692"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/one-of-the-best-feelings-of-my-life-hamilton-reflects-on-special-first.2eu96tzETmo7dHYaTez02D",
       "title": "'One of the best feelings of my life' – Hamilton reflects on 'special' first Ferrari drive",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/new-haas-team-mates-bearman-and-ocon-set-for-f1-test-runs-this-week-as-2025.25HLNRGv1jEH6j4YMk6SAB",
       "title": "New Haas team mates Bearman and Ocon set for F1 test runs this week as 2025 preparations ramp up",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/bearman-ocon-comp-1"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/its-what-youve-brought-wolff-tells-hamilton-mercedes-will-continue-with.1KN68RbGwtDb4kLHtpWvjZ",
-      "title": "‘It’s what you’ve brought’ – Wolff tells Hamilton Mercedes will continue with black on car livery",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20Hamilton%20livery"
     }
   ]
 }
