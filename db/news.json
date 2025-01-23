@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-22T18:08:35.896Z",
+  "updatedDate": "2025-01-23T00:12:14.116Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/one-of-the-best-feelings-of-my-life-hamilton-reflects-on-special-first.2eu96tzETmo7dHYaTez02D",
+      "title": "'One of the best feelings of my life' – Hamilton reflects on 'special' first Ferrari drive",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Miscellaneous/hamilton-first-ferrari-run-18"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/williams-sign-oliver-turvey-from-mclaren-in-test-and-development-role.2ULPdY5q0cuHIu0YTkmcjG",
       "title": "Williams sign Oliver Turvey from McLaren in test and development role",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/its-what-youve-brought-wolff-tells-hamilton-mercedes-will-continue-with.1KN68RbGwtDb4kLHtpWvjZ",
       "title": "‘It’s what you’ve brought’ – Wolff tells Hamilton Mercedes will continue with black on car livery",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20Hamilton%20livery"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/all-the-2025-f1-driver-numbers-confirmed-in-full.MQatOGQ4HR0i8kg4lPkP4",
-      "title": "All the 2025 F1 driver numbers confirmed in full",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2188853563"
     }
   ]
 }
