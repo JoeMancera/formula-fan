@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-24T06:05:30.669Z",
+  "updatedDate": "2025-01-24T12:00:42.770Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/shi-wei-confirmed-as-wild-card-entry-for-2025-f1-academy-season-opener-in.7xWpi8w4KTBfWxPSpbWHs0",
+      "title": "Shi Wei confirmed as Wild Card entry for 2025 F1 ACADEMY season opener in Shanghai",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/F1%20Academy/Formula%201%20header%20template%20(29)"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/alunni-bravi-to-join-mclaren-from-kick-sauber-ahead-of-2025-season.2DN2u8XtSMF47Euvjjag9y",
       "title": "Alunni Bravi to join McLaren from Kick Sauber ahead of 2025 season",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/theres-no-magic-oakes-outlines-alpines-approach-to-2025-season-as-teams-get.4j4D8slYMHbCisI5UEALua",
       "title": "‘There’s no magic’ – Oakes outlines Alpine’s approach to 2025 season as teams get set for ‘big compromise’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Las_Vegas___Practice/2186064851"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/all-the-2025-reserve-drivers-for-every-f1-team.rrmAe0qcgsARqNG07ZrqA",
-      "title": "All the 2025 reserve drivers for every F1 team",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20reserves%202025"
     }
   ]
 }
