@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-28T06:05:26.834Z",
+  "updatedDate": "2025-01-28T12:00:41.863Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-75-live-all-you-need-to-know-about-the-spectacular-launch-event-at-the-o2.4YxonJlJ6wKvNKcJUxYxS2",
+      "title": "F1 75 LIVE: All you need to know about the spectacular launch event at The O2",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Miscellaneous/F1_16X9%201"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/new-team-mates-hamilton-and-leclerc-combine-to-reveal-ferraris-2025-race.2bM6IKQ9m534dW25fRlHXM",
       "title": "New team mates Hamilton and Leclerc combine to reveal Ferrari’s 2025 race suits",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/formula-1-and-singapore-airlines-renew-singapore-grand-prix-title.4uxaK22OEPi7ky83JBElxl",
       "title": "Formula 1 and Singapore Airlines renew Singapore Grand Prix title sponsorship",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/singapore-start-2024-f1"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hungarorings-redevelopment-continues-with-amazing-transformation-ahead-of.2BSWRWfuboKed0dTkwRXdW",
-      "title": "Hungaroring's redevelopment continues with ‘amazing transformation’ ahead of Hungarian Grand Prix",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Hungaroring_25_01_07_010"
     }
   ]
 }
