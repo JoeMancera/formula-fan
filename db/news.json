@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-28T18:08:21.430Z",
+  "updatedDate": "2025-01-29T00:12:13.229Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-completes-latest-ferrari-run-in-barcelona-with-more-track-time.wV3h60orhI3Lao5NT9qCl",
+      "title": "Hamilton completes latest Ferrari run in Barcelona with more track time planned",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Formula%201%20header%20template%20(35)"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/new-team-boss-cowell-explains-how-he-plans-to-change-aston-martins-on-track.xHGREBPJ5btNhZxqT3pXu",
       "title": "New team boss Cowell explains how he plans to change Aston Martin’s on-track fortunes",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/aston-martin-won-the-world-championship-for-most-updates-last-season-as-new.64jbS60VhyHbBaZWP6p8OM",
       "title": "Aston Martin won the ‘World Championship for most updates’ last season as new team boss Cowell sets out ambitious 2025 target",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/cowell-aston-martin-1"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/i-couldnt-be-happier-hamilton-shares-emotional-message-after-dream-first.5A5w2BzhFcwZ07lEK6UBFA",
-      "title": "‘Today we start a new era’ – Hamilton shares emotional message after ‘dream’ first appearance for Ferrari",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Ferrari/lewis-hamilton-maranello-2025-v2_effc8f7f-7aa3-462e-a1d7-70d1442685b6"
     }
   ]
 }
