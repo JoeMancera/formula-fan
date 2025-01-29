@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2025-01-29T12:00:40.551Z",
+  "updatedDate": "2025-01-29T18:08:31.644Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/antonelli-passes-driving-test-weeks-before-making-f1-debut-with-mercedes.3z4y3HkSq2cCLoH0aD7tel",
+      "title": "Antonelli passes driving test weeks before making F1 debut with Mercedes",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189164326"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-crashes-during-second-f1-test-for-ferrari-in-barcelona.664mXxwbAX1mci4i2DQ6xo",
+      "title": "Hamilton crashes during second F1 test for Ferrari in Barcelona",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Formula%201%20header%20templates"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/f1-launches-when-will-teams-be-presenting-their-new-cars-for-the-2025-season.2E2hft0ePqy0DhGlTbBR74",
       "title": "F1 LAUNCHES: When will teams be presenting their new cars for the 2025 season?",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/lewis-hamilton-to-reunite-with-former-trainer-angela-cullen-as-his-ferrari-journey.3mgMZiyn4jvlnK3ijzJ5Ky",
       "title": "Hamilton to reunite with former trainer Angela Cullen as his Ferrari journey begins",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Ferrari/GettyImages-1429390294"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/laura-mueller-becomes-f1s-first-female-race-engineer-as-haas-confirm-key.3gFdz46OphteLHNKnGAIM6",
-      "title": "Laura Mueller becomes F1's first female Race Engineer as Haas confirm key personnel changes",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Haas/1020486137-LAT-20241210-F124T02_115613_ONZ8976-499"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/haas-reveal-when-2025-challenger-will-take-to-the-track-for-the-first-time.57hqyopX5H3xAebLbrE3Lt",
-      "title": "Haas reveal when 2025 challenger will take to the track for the first time",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Haas/GettyImages-2189150908"
     }
   ]
 }
