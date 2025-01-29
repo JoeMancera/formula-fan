@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-01-29T06:05:32.075Z",
+  "updatedDate": "2025-01-29T12:00:40.551Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-launches-when-will-teams-be-presenting-their-new-cars-for-the-2025-season.2E2hft0ePqy0DhGlTbBR74",
+      "title": "F1 LAUNCHES: When will teams be presenting their new cars for the 2025 season?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2013329938"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/hamilton-completes-latest-ferrari-run-in-barcelona-with-more-track-time.wV3h60orhI3Lao5NT9qCl",
       "title": "Hamilton completes latest Ferrari run in Barcelona with more track time planned",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/haas-reveal-when-2025-challenger-will-take-to-the-track-for-the-first-time.57hqyopX5H3xAebLbrE3Lt",
       "title": "Haas reveal when 2025 challenger will take to the track for the first time",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Haas/GettyImages-2189150908"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/aston-martin-won-the-world-championship-for-most-updates-last-season-as-new.64jbS60VhyHbBaZWP6p8OM",
-      "title": "Aston Martin won the ‘World Championship for most updates’ last season as new team boss Cowell sets out ambitious 2025 target",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/cowell-aston-martin-1"
     }
   ]
 }
