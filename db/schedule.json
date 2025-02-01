@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "name": "Australian Grand Prix",
+    "shortName": "Melbourne",
+    "circuitId": "albert_park",
+    "url": "https://www.formula1.com/en/racing/2025/Australia.html",
+    "state": "finished",
+    "fallbackDate": "2025-03-16Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Chinese Grand Prix",
+    "shortName": "Shanghai",
+    "circuitId": "shanghai",
+    "url": "https://www.formula1.com/en/racing/2025/China.html",
+    "state": "finished",
+    "fallbackDate": "2025-03-23Tundefined",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Japanese Grand Prix",
+    "shortName": "Suzuka",
+    "circuitId": "suzuka",
+    "url": "https://www.formula1.com/en/racing/2025/Japan.html",
+    "state": "finished",
+    "fallbackDate": "2025-04-06Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Bahrain Grand Prix",
+    "shortName": "Sakhir",
+    "circuitId": "bahrain",
+    "url": "https://www.formula1.com/en/racing/2025/Bahrain.html",
+    "state": "finished",
+    "fallbackDate": "2025-04-13Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Saudi Arabian Grand Prix",
+    "shortName": "Jeddah",
+    "circuitId": "jeddah",
+    "url": "https://www.formula1.com/en/racing/2025/Saudi_Arabia.html",
+    "state": "finished",
+    "fallbackDate": "2025-04-20Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Miami Grand Prix",
+    "shortName": "Miami",
+    "circuitId": "miami",
+    "url": "https://www.formula1.com/en/racing/2025/Miami.html",
+    "state": "finished",
+    "fallbackDate": "2025-05-04Tundefined",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Emilia Romagna Grand Prix",
+    "shortName": "Imola",
+    "circuitId": "imola",
+    "url": "https://www.formula1.com/en/racing/2025/EmiliaRomagna.html",
+    "state": "finished",
+    "fallbackDate": "2025-05-18Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Monaco Grand Prix",
+    "shortName": "Monte-Carlo",
+    "circuitId": "monaco",
+    "url": "https://www.formula1.com/en/racing/2025/Monaco.html",
+    "state": "finished",
+    "fallbackDate": "2025-05-25Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Spanish Grand Prix",
+    "shortName": "Montmeló",
+    "circuitId": "catalunya",
+    "url": "https://www.formula1.com/en/racing/2025/Spain.html",
+    "state": "finished",
+    "fallbackDate": "2025-06-01Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Canadian Grand Prix",
+    "shortName": "Montreal",
+    "circuitId": "villeneuve",
+    "url": "https://www.formula1.com/en/racing/2025/Canada.html",
+    "state": "finished",
+    "fallbackDate": "2025-06-15Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Austrian Grand Prix",
+    "shortName": "Spielberg",
+    "circuitId": "red_bull_ring",
+    "url": "https://www.formula1.com/en/racing/2025/Austria.html",
+    "state": "finished",
+    "fallbackDate": "2025-06-29Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "British Grand Prix",
+    "shortName": "Silverstone",
+    "circuitId": "silverstone",
+    "url": "https://www.formula1.com/en/racing/2025/Great_Britain.html",
+    "state": "finished",
+    "fallbackDate": "2025-07-06Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Belgian Grand Prix",
+    "shortName": "Spa",
+    "circuitId": "spa",
+    "url": "https://www.formula1.com/en/racing/2025/Belgium.html",
+    "state": "finished",
+    "fallbackDate": "2025-07-27Tundefined",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Hungarian Grand Prix",
+    "shortName": "Budapest",
+    "circuitId": "hungaroring",
+    "url": "https://www.formula1.com/en/racing/2025/Hungary.html",
+    "state": "finished",
+    "fallbackDate": "2025-08-03Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Dutch Grand Prix",
+    "shortName": "Zandvoort",
+    "circuitId": "zandvoort",
+    "url": "https://www.formula1.com/en/racing/2025/Netherlands.html",
+    "state": "finished",
+    "fallbackDate": "2025-08-31Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Italian Grand Prix",
+    "shortName": "Monza",
+    "circuitId": "monza",
+    "url": "https://www.formula1.com/en/racing/2025/Italy.html",
+    "state": "finished",
+    "fallbackDate": "2025-09-07Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Azerbaijan Grand Prix",
+    "shortName": "Baku",
+    "circuitId": "baku",
+    "url": "https://www.formula1.com/en/racing/2025/Azerbaijan.html",
+    "state": "finished",
+    "fallbackDate": "2025-09-21Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Singapore Grand Prix",
+    "shortName": "Marina Bay",
+    "circuitId": "marina_bay",
+    "url": "https://www.formula1.com/en/racing/2025/Singapore.html",
+    "state": "finished",
+    "fallbackDate": "2025-10-05Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "United States Grand Prix",
+    "shortName": "Austin",
+    "circuitId": "americas",
+    "url": "https://www.formula1.com/en/racing/2025/United_States.html",
+    "state": "finished",
+    "fallbackDate": "2025-10-19Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Mexico City Grand Prix",
+    "shortName": "Mexico City",
+    "circuitId": "rodriguez",
+    "url": "https://www.formula1.com/en/racing/2025/Mexico.html",
+    "state": "finished",
+    "fallbackDate": "2025-10-26Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "São Paulo Grand Prix",
+    "shortName": "São Paulo",
+    "circuitId": "interlagos",
+    "url": "https://www.formula1.com/en/racing/2025/Brazil.html",
+    "state": "finished",
+    "fallbackDate": "2025-11-09Tundefined",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Las Vegas Grand Prix",
+    "shortName": "Las Vegas",
+    "circuitId": "vegas",
+    "url": "https://www.formula1.com/en/racing/2025/Las_Vegas.html",
+    "state": "finished",
+    "fallbackDate": "2025-11-22Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Qatar Grand Prix",
+    "shortName": "Al Daayen",
+    "circuitId": "losail",
+    "url": "https://www.formula1.com/en/racing/2025/Qatar.html",
+    "state": "finished",
+    "fallbackDate": "2025-11-30Tundefined",
+    "dates": {
+      "practice1": null,
+      "qualifying": null,
+      "race": null,
+      "sprint": null,
+      "sprintShootout": null
+    },
+    "results": {
+      "podium": []
+    }
+  },
+  {
+    "name": "Abu Dhabi Grand Prix",
+    "shortName": "Abu Dhabi",
+    "circuitId": "red_bull_ring",
+    "url": "https://www.formula1.com/en/racing/2025/undefined.html",
+    "state": "finished",
+    "fallbackDate": "2025-12-07Tundefined",
+    "dates": {
+      "practice1": null,
+      "practice2": null,
+      "practice3": null,
+      "qualifying": null,
+      "race": null
+    },
+    "results": {
+      "podium": []
+    }
+  }
+]
