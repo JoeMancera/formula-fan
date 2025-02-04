@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-04T12:00:48.924Z",
+  "updatedDate": "2025-02-04T18:08:32.266Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/sauber-to-open-uk-technical-centre-as-transition-to-audi-works-team-gathers.6xbR2Kx3LwAPey7BcmSVqd",
+      "title": "Sauber to open UK ‘technical centre’ as transition to Audi works team gathers pace",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189142918"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/russell-discusses-his-2025-goals-as-he-highlights-area-i-need-to-work-on.h85tC80AgXPOGHA3dCmcB",
       "title": "Russell discusses his 2025 goals as he highlights area 'I need to work on'",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/f1-exhibition-races-into-buenos-aires-for-south-american-debut.5BpECYZV52YmZyb4rb3XfH",
       "title": "F1 Exhibition races into Buenos Aires for South American debut",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-f1/F1%20Exhibition/F1%20Exhibition%20Display%20169"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/mercedes-announce-car-reveal-date-for-2025-challenger.1xjMKWxnVkjfIRcBUTfdiX",
-      "title": "Mercedes announce car reveal date for 2025 challenger",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2024/Abu%20Dhabi/GettyImages-2188607796"
     }
   ]
 }
