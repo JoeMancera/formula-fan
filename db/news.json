@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-04T06:05:50.344Z",
+  "updatedDate": "2025-02-04T12:00:48.924Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/russell-discusses-his-2025-goals-as-he-highlights-area-i-need-to-work-on.h85tC80AgXPOGHA3dCmcB",
+      "title": "Russell discusses his 2025 goals as he highlights area 'I need to work on'",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189166681"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/f1-announces-race-start-times-for-2025-season.490KLLD7T1AAM7wQl28tn6",
       "title": "F1 announces race start times for 2025 season",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/mercedes-announce-car-reveal-date-for-2025-challenger.1xjMKWxnVkjfIRcBUTfdiX",
       "title": "Mercedes announce car reveal date for 2025 challenger",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2024/Abu%20Dhabi/GettyImages-2188607796"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/new-hot-wheels-collection-unveiled-featuring-several-f1-teams-cars.70b1YGZSALmWxWaO3aY0ni",
-      "title": "New Hot Wheels collection unveiled featuring several F1 teams’ cars",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/HW_Race_Premiums_Group_Shots_lockup_PR"
     }
   ]
 }
