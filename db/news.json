@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2025-02-05T12:00:44.799Z",
+  "updatedDate": "2025-02-05T18:08:52.001Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-piastri-in-action-as-pirellis-barcelona-tyre-test.4k5bwGwoPX5RxQz4Ltjnih",
+      "title": "Hamilton, Leclerc and Piastri in action as Pirelli’s Barcelona tyre test concludes",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/pirelliprivatetestingbarcelonaday2-16"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/doohan-addresses-recent-speculation-over-future-as-he-vows-to-cement-my.385v9qPEwb4hrsXqfmo52k",
+      "title": "Doohan addresses recent speculation over future as he vows to ‘cement my place’ in F1",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Qatar/2187683739"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/aston-martin-confirm-launch-date-for-2025-challenger.dI1DrcgWmpmtXQHittf22",
+      "title": "Aston Martin confirm launch date for 2025 challenger",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188517983"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/zhou-returns-to-ferrari-as-reserve-driver-for-2025-season-after-kick-sauber.zWFuNtS8Ju1jO68nzZ0sj",
       "title": "Zhou returns to Ferrari as reserve driver for 2025 season after Kick Sauber exit",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/hamilton-completes-latest-ferrari-run-in-barcelona-with-more-track-time.wV3h60orhI3Lao5NT9qCl",
       "title": "Hamilton completes latest Ferrari run in Barcelona with more track time planned",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Formula%201%20header%20template%20(35)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/new-team-boss-cowell-explains-how-he-plans-to-change-aston-martins-on-track.xHGREBPJ5btNhZxqT3pXu",
-      "title": "New team boss Cowell explains how he plans to change Aston Martin’s on-track fortunes",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/cowell-krack-2024-1"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/oakes-insists-doohan-will-get-fair-crack-for-alpine-amid-colapinto-signing.md3NJjEU54gjwThcblfss",
-      "title": "Oakes insists Doohan will get 'fair crack' for Alpine amid Colapinto signing",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%201%20header%20template%20Oakes%20Doohan"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/bottas-to-mark-mercedes-return-in-build-up-to-australian-grand-prix.2nyiUgao4d6Vt6flTfTQC1",
-      "title": "Bottas to mark Mercedes return in build-up to Australian Grand Prix",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-1477964276"
     }
   ]
 }
