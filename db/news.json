@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2025-02-05T06:05:22.988Z",
+  "updatedDate": "2025-02-05T12:00:44.799Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/zhou-returns-to-ferrari-as-reserve-driver-for-2025-season-after-kick-sauber.zWFuNtS8Ju1jO68nzZ0sj",
+      "title": "Zhou returns to Ferrari as reserve driver for 2025 season after Kick Sauber exit",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/zhou-ferrari-2025"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/moet-and-chandon-returns-as-the-official-champagne-of-formula-1.5ys8u5lq4Z6eXQRPtCaa5g",
+      "title": "Moët & Chandon returns as the Official Champagne of Formula 1",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-partner/moet%20chandon/Formula%201%20header%20templates%20(6)"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/hamilton-back-on-track-for-ferrari-as-part-of-pirelli-tyre-test-in-barcelona.7JVRqqUyZLVcvC6xViocrh",
       "title": "Hamilton back on track for Ferrari as part of Pirelli tyre test in Barcelona",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/bottas-to-mark-mercedes-return-in-build-up-to-australian-grand-prix.2nyiUgao4d6Vt6flTfTQC1",
       "title": "Bottas to mark Mercedes return in build-up to Australian Grand Prix",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Miscellaneous/GettyImages-1477964276"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/f1-75-live-all-you-need-to-know-about-the-spectacular-launch-event-at-the-o2.4YxonJlJ6wKvNKcJUxYxS2",
-      "title": "F1 75 LIVE: All you need to know about the spectacular launch event at The O2",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2024/Miscellaneous/F1_16X9%201"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/new-team-mates-hamilton-and-leclerc-combine-to-reveal-ferraris-2025-race.2bM6IKQ9m534dW25fRlHXM",
-      "title": "New team mates Hamilton and Leclerc combine to reveal Ferrari’s 2025 race suits",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/hamilton-leclerc-ferrari-suits-2025"
     }
   ]
 }
