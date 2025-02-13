@@ -1,6 +1,21 @@
 {
-  "updatedDate": "2025-02-13T06:05:29.371Z",
+  "updatedDate": "2025-02-13T12:00:46.857Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/first-look-mclarens-new-mcl39-car-hits-the-track-for-the-first-time-ahead-of.qSF041NcBa68VNpZl3PQd",
+      "title": "FIRST LOOK: McLaren's new MCL39 car hits the track for the first time ahead of 2025 season ",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/McLaren/Formula%201%20header%20templates%20(11)"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/verstappen-goes-back-to-the-roots-as-he-reveals-helmet-design-for-2025.3S1DZvQWmwhSeGOcWyHskl",
+      "title": "Verstappen goes ‘back to the roots’ as he reveals helmet design for 2025 season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/verstappen-2025-helmet"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/alpine-enter-historic-collaboration-with-eni-to-test-new-biofuels-and.60no80MtIzNNJxO0wUUMu",
+      "title": "Alpine enter ‘historic collaboration’ with Eni to test new biofuels and explore wider energy solutions",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/content/dam/fom-website/manual/2023/alpine-logo"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/new-mercedes-reserve-bottas-provides-update-on-chances-of-returning-to-an-f1.4OmRzPpNB5i73Esw7Pzv5E",
       "title": "New Mercedes reserve Bottas provides update on chances of returning to an F1 race seat",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/sainz-names-two-things-that-made-him-fall-in-love-with-williams-as-he-begins.GzVz1mphgCwnqLdiKsIl9",
       "title": "Sainz names ‘two things’ that made him ‘fall in love’ with Williams as he begins new F1 chapter",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/Formula_1_Testing_in_Abu_Dhabi/2189182297"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-piastri-in-action-as-pirellis-barcelona-tyre-test.4k5bwGwoPX5RxQz4Ltjnih",
-      "title": "Hamilton, Leclerc and Piastri in action as Pirelli’s Barcelona tyre test concludes",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/pirelliprivatetestingbarcelonaday2-16"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/doohan-addresses-recent-speculation-over-future-as-he-vows-to-cement-my.385v9qPEwb4hrsXqfmo52k",
-      "title": "Doohan addresses recent speculation over future as he vows to ‘cement my place’ in F1",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Qatar/2187683739"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/aston-martin-confirm-launch-date-for-2025-challenger.dI1DrcgWmpmtXQHittf22",
-      "title": "Aston Martin confirm launch date for 2025 challenger",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Practice/2188517983"
     }
   ]
 }
