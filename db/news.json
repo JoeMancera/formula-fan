@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-19T12:00:43.356Z",
+  "updatedDate": "2025-02-19T18:08:40.863Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/i-want-to-make-my-own-story-antonelli-says-its-not-right-to-view-him-as.1XU5BqsgNTxjMVKY7TbPwr",
+      "title": "‘I want to make my own story’ – Antonelli says it’s ‘not right’ to view him as Hamilton’s ‘replacement’",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Press_Conference/2200382490"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-feel-so-full-of-life-hamilton-invigorated-as-he-begins-new-ferrari.1IE1YwHO4i6SkIkujvRCow",
       "title": "‘I feel so full of life’ – Hamilton ‘invigorated’ as he begins new Ferrari adventure at F1 75 Live",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/verstappen-goes-back-to-the-roots-as-he-reveals-helmet-design-for-2025.3S1DZvQWmwhSeGOcWyHskl",
       "title": "Verstappen goes ‘back to the roots’ as he reveals helmet design for 2025 season",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/verstappen-2025-helmet"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/alpine-enter-historic-collaboration-with-eni-to-test-new-biofuels-and.60no80MtIzNNJxO0wUUMu",
-      "title": "Alpine enter ‘historic collaboration’ with Eni to test new biofuels and explore wider energy solutions",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/content/dam/fom-website/manual/2023/alpine-logo"
     }
   ]
 }
