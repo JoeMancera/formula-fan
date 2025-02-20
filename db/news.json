@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-20T12:00:45.981Z",
+  "updatedDate": "2025-02-20T18:08:44.552Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/revealed-your-favourite-2025-livery-after-their-f1-75-live-unveilings.2tJAXvCIlXFOr6LBF9t7tT",
+      "title": "REVEALED: Your favourite 2025 livery after their F1 75 Live unveilings",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Show/2200471434"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/sainz-explains-biggest-change-hes-had-to-adapt-to-at-williams-as-he-predicts.75h7RwpKGeOxof4y0tjU7R",
       "title": "Sainz explains 'biggest change' at Williams as he predicts how long it will take to adjust to new car",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/first-look-williams-unveil-new-2025-car-as-fw47-breaks-cover-at-silverstone.55CnO9l3e4PtsNONDeRDam",
       "title": "FIRST LOOK: Williams unveil new 2025 car as FW47 breaks cover at Silverstone",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Williams/Formula%201%20header%20templates%20(15)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/i-need-to-get-my-elbows-out-norris-insists-hes-learned-a-lot-from-battles.1HK1cd2mTD4r0VvxTx9b5G",
-      "title": "‘I need to get my elbows out’ – Norris insists he’s ‘learned a lot’ from battles with Verstappen as he shares 2025 approach",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Abu_Dhabi___Qualifying/2188729659"
     }
   ]
 }
