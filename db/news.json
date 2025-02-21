@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-20T18:08:44.552Z",
+  "updatedDate": "2025-02-21T00:12:46.450Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-announces-formula-1-promoter-awards-winners.2BLZoRdmBxMDLvppVvk6eY",
+      "title": "F1 announces Formula 1 Promoter Awards winners",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/campaign/support-promoter/awards/F1%20Promoter%20Awards%202025%2003"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/revealed-your-favourite-2025-livery-after-their-f1-75-live-unveilings.2tJAXvCIlXFOr6LBF9t7tT",
       "title": "REVEALED: Your favourite 2025 livery after their F1 75 Live unveilings",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/piastri-insists-i-can-be-world-champion-as-he-expands-on-rules-of-engagement.3aXBxw471nTYcMEcf8EIY7",
       "title": "Piastri insists ‘I can be World Champion’ as he expands on rules of engagement with Norris for 2025",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2024/Qatar/GettyImages-2187193133"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/first-look-williams-unveil-new-2025-car-as-fw47-breaks-cover-at-silverstone.55CnO9l3e4PtsNONDeRDam",
-      "title": "FIRST LOOK: Williams unveil new 2025 car as FW47 breaks cover at Silverstone",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Williams/Formula%201%20header%20templates%20(15)"
     }
   ]
 }
