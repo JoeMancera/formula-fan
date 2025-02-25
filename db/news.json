@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-25T12:00:41.952Z",
+  "updatedDate": "2025-02-25T18:09:28.987Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-academy-announces-return-of-reverse-grids-from-2025.14jQWREUcmjfFmVyJ8uu0W",
+      "title": "F1 ACADEMY announces return of reverse grids from 2025",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/F1%20Academy/GettyImages-2151452065"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/its-harsh-not-to-call-me-one-bearman-still-feeling-like-a-rookie-as-he.jl1rOYWFyAPY72pV5xECZ",
       "title": "‘It’s harsh not to call me one’ – Bearman still feeling like a rookie as he previews first full F1 season with Haas",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-feel-so-full-of-life-hamilton-invigorated-as-he-begins-new-ferrari.1IE1YwHO4i6SkIkujvRCow",
       "title": "‘I feel so full of life’ – Hamilton ‘invigorated’ as he begins new Ferrari adventure at F1 75 Live",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Show/2200469678"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/first-look-ferrari-unveil-new-2025-car-after-sf-25-livery-reveal-during-f1.1IvvOTzHsJr2KsZoPPJNjE",
-      "title": "FIRST LOOK: Ferrari unveil new 2025 car after SF-25 livery reveal during F1 75 Live",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Ferrari/Ferrari%20SF-25%20launch%20renders/F677_still_02_v11_169"
     }
   ]
 }
