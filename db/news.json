@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-26T00:12:54.089Z",
+  "updatedDate": "2025-02-26T06:05:42.935Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/whos-driving-on-day-1-of-2025-pre-season-testing-in-bahrain.xqViXmVIQwL1nM2qr1chv",
+      "title": "Who’s driving on Day 1 of 2025 pre-season testing in Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Testing/Formula%201%20header%20templates%20Day%201"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/f1-academy-announces-return-of-reverse-grids-from-2025.14jQWREUcmjfFmVyJ8uu0W",
       "title": "F1 ACADEMY announces return of reverse grids from 2025",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-want-to-make-my-own-story-antonelli-says-its-not-right-to-view-him-as.1XU5BqsgNTxjMVKY7TbPwr",
       "title": "‘I want to make my own story’ – Antonelli says it’s ‘not right’ to view him as Hamilton’s ‘replacement’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Press_Conference/2200382490"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/i-feel-so-full-of-life-hamilton-invigorated-as-he-begins-new-ferrari.1IE1YwHO4i6SkIkujvRCow",
-      "title": "‘I feel so full of life’ – Hamilton ‘invigorated’ as he begins new Ferrari adventure at F1 75 Live",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Show/2200469678"
     }
   ]
 }
