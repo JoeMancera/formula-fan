@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-26T12:00:51.118Z",
+  "updatedDate": "2025-02-26T18:08:57.324Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/fia-world-motor-sport-council-confirms-mandatory-two-stop-strategies-for.UUe16nwpOcqBe9f6PYgkq",
+      "title": "FIA World Motor Sport Council confirms mandatory two-stop strategies for Monaco Grand Prix",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/monaco-pit-stop-2024"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/whos-driving-on-day-1-of-2025-pre-season-testing-in-bahrain.xqViXmVIQwL1nM2qr1chv",
       "title": "Who’s driving on Day 1 of 2025 pre-season testing in Bahrain",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/f1-exhibition-to-land-in-amsterdam-as-next-host-city.6LQg0PaLPuT7VJzu9hFUAE",
       "title": "F1 Exhibition to land in Amsterdam as next host city",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-f1/F1%20Exhibition/PR6A2968%20(1)"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/i-want-to-make-my-own-story-antonelli-says-its-not-right-to-view-him-as.1XU5BqsgNTxjMVKY7TbPwr",
-      "title": "‘I want to make my own story’ – Antonelli says it’s ‘not right’ to view him as Hamilton’s ‘replacement’",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2024/F1_75_Live___Press_Conference/2200382490"
     }
   ]
 }
