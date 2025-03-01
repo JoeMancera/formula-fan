@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-02-28T18:08:55.258Z",
+  "updatedDate": "2025-03-01T00:14:09.360Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/verstappen-admits-red-bull-have-work-to-do-as-pre-season-testing-concludes.7wBAIm5eQDymUfEoJ4XR1s",
+      "title": "Verstappen admits Red Bull have ‘work to do’ as pre-season testing concludes",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_3/2202491710"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/back-to-the-drawing-board-bearman-explains-unusual-testing-incident-as-haas.5rmO8zh2fVfRNZ0UklVpf5",
       "title": "‘Back to the drawing board’ – Bearman explains unusual testing incident as Haas discover ‘weak point’ with new car",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/verstappen-describes-only-good-surprises-for-red-bull-as-he-reflects-on-day.3hJn3tWFTZhKEnOUMfjJwj",
       "title": "Verstappen describes ‘only good surprises’ for Red Bull as he reflects on Day 1 of testing",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202056867"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/norris-hails-fun-and-productive-day-after-pace-setting-return-to-action-for.7udRNcl5h2zjHBCCdbSXdR",
-      "title": "Norris hails ‘fun’ and productive day after pace-setting return to action for McLaren in Bahrain test",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202105298"
     }
   ]
 }
