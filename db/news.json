@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2025-03-01T06:04:52.850Z",
+  "updatedDate": "2025-03-01T12:00:45.084Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/piastri-believes-mclaren-have-solid-place-to-start-from-after-car-ran-pretty.4PEMyf6ukzdsypndwRDGyV",
+      "title": "Piastri believes McLaren have ‘solid place to start from’ after car ran ‘pretty much faultlessly’ in testing",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_2/2202225410"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/vasseur-says-ferrari-targeting-both-championships-amid-very-positive-mood-as.4arklroGter3YS0E2aeXaf",
+      "title": "Vasseur says Ferrari targeting ‘both championships’ amid ‘very positive’ mood as pre-season testing concludes",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Testing/GettyImages-2201484012"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/verstappen-admits-red-bull-have-work-to-do-as-pre-season-testing-concludes.7wBAIm5eQDymUfEoJ4XR1s",
       "title": "Verstappen admits Red Bull have ‘work to do’ as pre-season testing concludes",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/lewis-hamilton-reflects-on-incredible-feeling-after-ferrari-pre-season.4NTfX2sNJSubOGxhFOpw7Z",
       "title": "Lewis Hamilton reflects on 'incredible feeling' after Ferrari pre-season testing debut",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Testing/GettyImages-2202103542"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/rookies-share-their-reactions-after-first-day-of-f1-pre-season-testing-in.6RrPsP5Ek6Vr9mjbWHKjfx",
-      "title": "‘It was fun!’ – F1’s class-of-2025 rookies share their reactions after first day of F1 pre-season testing in Bahrain",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Testing/Rookies%20testing%20header"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/verstappen-describes-only-good-surprises-for-red-bull-as-he-reflects-on-day.3hJn3tWFTZhKEnOUMfjJwj",
-      "title": "Verstappen describes ‘only good surprises’ for Red Bull as he reflects on Day 1 of testing",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202056867"
     }
   ]
 }
