@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-02T06:04:58.036Z",
+  "updatedDate": "2025-03-02T12:00:52.055Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/alonso-says-aston-martins-new-car-is-step-forward-as-he-reflects-on-pre.2whhfUnoxBgOFlgjsW8j9V",
+      "title": "Alonso says Aston Martin’s new car is ‘step forward’ as he reflects on pre-season testing in Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202055631"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/piastri-believes-mclaren-have-solid-place-to-start-from-after-car-ran-pretty.4PEMyf6ukzdsypndwRDGyV",
       "title": "Piastri believes McLaren have ‘solid place to start from’ after car ran ‘pretty much faultlessly’ in testing",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/whos-driving-on-day-2-of-2025-pre-season-testing-in-bahrain.34TNVhFjrHUsKuPfKFZOgN",
       "title": "Who’s driving on Day 2 of 2025 pre-season testing in Bahrain",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Testing/bahrain-testing-day-2-comp"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/lewis-hamilton-reflects-on-incredible-feeling-after-ferrari-pre-season.4NTfX2sNJSubOGxhFOpw7Z",
-      "title": "Lewis Hamilton reflects on 'incredible feeling' after Ferrari pre-season testing debut",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Testing/GettyImages-2202103542"
     }
   ]
 }
