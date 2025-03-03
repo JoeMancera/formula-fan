@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-03T06:05:58.184Z",
+  "updatedDate": "2025-03-03T12:00:41.165Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/weve-gone-through-a-lot-hamilton-shares-really-awesome-experience-of.7bxF1cUcZOkDRvBT8vMjQz",
+      "title": "‘We’ve gone through a lot’ – Hamilton shares ‘really awesome’ experience of reuniting with trainer Angela Cullen",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Hamilton%20Cullen%20header%20image"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/alonso-says-aston-martins-new-car-is-step-forward-as-he-reflects-on-pre.2whhfUnoxBgOFlgjsW8j9V",
       "title": "Alonso says Aston Martin’s new car is ‘step forward’ as he reflects on pre-season testing in Bahrain",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/russell-reflects-on-different-feeling-at-mercedes-after-departure-of-huge.6CpCqYXfaKz21fVL1q8Uzb",
       "title": "Russell reflects on ‘different’ feeling at Mercedes after departure of ‘huge personality’ Hamilton",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/russell-hamilton-comp-2025"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/whos-driving-on-day-2-of-2025-pre-season-testing-in-bahrain.34TNVhFjrHUsKuPfKFZOgN",
-      "title": "Who’s driving on Day 2 of 2025 pre-season testing in Bahrain",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Testing/bahrain-testing-day-2-comp"
     }
   ]
 }
