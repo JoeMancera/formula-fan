@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-04T12:00:47.151Z",
+  "updatedDate": "2025-03-04T18:08:59.786Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/mansell-backing-hamilton-to-succeed-at-ferrari-as-he-predicts-amazing-year.2YzICMyw66iRMBwK8cYN5Z",
+      "title": "Mansell backing Hamilton to succeed at Ferrari as he predicts ‘amazing year’ for F1",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/mansell-hamilton-comp-2025"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/steiner-names-his-favourites-for-2025-title-as-he-predicts-different-winners.44XOoXOfM0VvNyDplZ8vJ1",
       "title": "Steiner names his favourites for 2025 title as he predicts ‘different winners’ in multi-team battle",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/grand-prix-plaza-immersive-f1-fan-experience-set-to-debut-in-las-vegas.2vXanFwG6H88Y3uiY2PhEE",
       "title": "Grand Prix Plaza immersive F1 fan experience set to debut in Las Vegas",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-promoter/las%20vegas/grand%20prix%20plaza/GPP%20F1%20DRIVE%20Go%20Karts%2002"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/raikkonens-former-race-engineer-greenwood-returns-to-f1-with-alpine.6RUFXMWBxeBgQuVftb3OvA",
-      "title": "Raikkonen’s former race engineer Greenwood returns to F1 with Alpine",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2172108403"
     }
   ]
 }
