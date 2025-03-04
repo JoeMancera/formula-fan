@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-04T06:05:34.079Z",
+  "updatedDate": "2025-03-04T12:00:47.151Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/steiner-names-his-favourites-for-2025-title-as-he-predicts-different-winners.44XOoXOfM0VvNyDplZ8vJ1",
+      "title": "Steiner names his favourites for 2025 title as he predicts ‘different winners’ in multi-team battle",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Steiner%20header%20image"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/joanne-ciconte-joins-2025-f1-academy-grid-with-mp-motorsport.7FUoQSpCIDPoudTuPP6e2B",
       "title": "Joanne Ciconte joins 2025 F1 ACADEMY grid with MP Motorsport",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/raikkonens-former-race-engineer-greenwood-returns-to-f1-with-alpine.6RUFXMWBxeBgQuVftb3OvA",
       "title": "Raikkonen’s former race engineer Greenwood returns to F1 with Alpine",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2172108403"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/sainz-shares-his-first-impressions-after-positive-first-day-of-pre-season.52Y5HzrPBtI7EQU1KB4wK5",
-      "title": "Sainz shares his first impressions after ‘positive’ first day of pre-season testing with Williams",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202103709"
     }
   ]
 }
