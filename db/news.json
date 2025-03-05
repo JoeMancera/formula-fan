@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-05T06:05:51.062Z",
+  "updatedDate": "2025-03-05T12:00:49.337Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/belvedere-announced-as-the-first-official-vodka-partner-of-formula-1.46kps9p62geoCa4ZO3gjIr",
+      "title": "Belvedere announced as the first Official Vodka Partner of Formula 1",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/campaign/support-partner/belvedere/Formula%201%20and%20Belvedere%20Vodka"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/mansell-backing-hamilton-to-succeed-at-ferrari-as-he-predicts-amazing-year.2YzICMyw66iRMBwK8cYN5Z",
       "title": "Mansell backing Hamilton to succeed at Ferrari as he predicts ‘amazing year’ for F1",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/norris-sets-out-expectations-for-tough-battles-with-verstappen-in-2025.6DRlQaR4B3eSX3dEMIWsjx",
       "title": "Norris sets out expectations for ‘tough’ battles with Verstappen in 2025",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Testing/GettyImages-2202271578"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/grand-prix-plaza-immersive-f1-fan-experience-set-to-debut-in-las-vegas.2vXanFwG6H88Y3uiY2PhEE",
-      "title": "Grand Prix Plaza immersive F1 fan experience set to debut in Las Vegas",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-promoter/las%20vegas/grand%20prix%20plaza/GPP%20F1%20DRIVE%20Go%20Karts%2002"
     }
   ]
 }
