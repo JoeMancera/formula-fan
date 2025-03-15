@@ -1,10 +1,20 @@
 {
-  "updatedDate": "2025-03-15T12:00:45.344Z",
+  "updatedDate": "2025-03-15T18:07:52.816Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/tsunoda-hails-magic-lap-as-he-takes-stunning-p5-in-australian-grand-prix.28bUHXNFo0hBHgJTOK2ZU7",
+      "title": "Tsunoda hails 'magic lap' as he takes stunning P5 in Australian Grand Prix Qualifying",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Australia___Qualifying/2205183045"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/i-am-still-learning-this-car-hamilton-admits-adapting-to-ferrari-doesnt-feel.2hel8uPTeO65cXuhYgtrOV",
       "title": "‘I am still learning this car’ – Hamilton admits adapting to Ferrari ‘doesn’t feel natural’ after tricky Qualifying in Melbourne",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Australia___Qualifying/2205182679"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/it-feels-like-a-totally-different-car-to-last-year-albon-praises-huge-uplift.44c8V4qAFAmKVa9tjwSM1Q",
+      "title": "‘It feels like a totally different car to last year’ – Albon praises ‘huge uplift’ for Williams after both cars reach Q3 in Melbourne",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Australia___Previews/2204842624"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/verstappen-surprised-to-take-p3-in-australian-gp-qualifying-after-tough.2A6PAWeD6dgOp781Jh4oY2",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/aston-martin-begin-use-of-state-of-the-art-new-wind-tunnel-as-part-of-big.jez3wED6hn6Kdrb7022AP",
       "title": "Aston Martin begin use of state-of-the-art new wind tunnel as part of ‘big focus’ on 2026 car",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/2025/Aston%20Martin/cebc0d89-2653-95bf-338b-b628630496bb"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-australia-2025.5ocGk66Q0UGIux4Tpny1vt",
-      "title": "FIA post-qualifying press conference – Australia",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Australia___Qualifying/2205182292"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/las-vegas-grand-prix-plaza-awarded-leed-silver-certification-for.23bKhO5QwnXENCVpkk880M",
-      "title": "Las Vegas’ Grand Prix Plaza awarded LEED Silver certification for sustainability efforts",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Las_Vegas/2186602141"
     }
   ]
 }
