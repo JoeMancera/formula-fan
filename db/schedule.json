@@ -4,7 +4,7 @@
     "shortName": "Melbourne",
     "circuitId": "albert_park",
     "url": "https://www.formula1.com/en/racing/2025/Australia.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-03-16T04:00:00Z",
     "dates": {
       "practice1": "2025-03-14T01:30:00.000Z",
