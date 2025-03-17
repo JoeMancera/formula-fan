@@ -383,13 +383,13 @@
     "circuitId": "vegas",
     "url": "https://www.formula1.com/en/racing/2025/Las_Vegas.html",
     "state": "schedule",
-    "fallbackDate": "2025-11-22T04:00:00Z",
+    "fallbackDate": "2025-11-23T04:00:00Z",
     "dates": {
       "practice1": "2025-11-21T00:30:00.000Z",
       "practice2": "2025-11-21T04:00:00.000Z",
       "practice3": "2025-11-22T00:30:00.000Z",
       "qualifying": "2025-11-22T04:00:00.000Z",
-      "race": "2025-11-22T04:00:00.000Z"
+      "race": "2025-11-23T04:00:00.000Z"
     },
     "results": {
       "podium": []
