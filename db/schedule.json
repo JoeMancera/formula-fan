@@ -22,7 +22,7 @@
     "shortName": "Shanghai",
     "circuitId": "shanghai",
     "url": "https://www.formula1.com/en/racing/2025/China.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-03-23T07:00:00Z",
     "dates": {
       "practice1": "2025-03-21T03:30:00.000Z",
