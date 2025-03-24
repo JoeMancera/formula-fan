@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-24T06:05:48.513Z",
+  "updatedDate": "2025-03-24T12:00:44.747Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/ferrari-issue-statement-after-leclerc-and-hamilton-are-disqualified-in-china.4eAwebgnai6mwxRHkQmk0R",
+      "title": "Ferrari issue statement after Leclerc and Hamilton are disqualified in China",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/China/Formula%201%20header%20templates%20-%202025-03-24T104415.429"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/horner-addresses-speculation-that-lawson-could-be-replaced-at-red-bull-for.1BEWtA3U4uMyzPeAXxRdLO",
       "title": "Horner addresses speculation that Lawson could be replaced at Red Bull for Japanese GP",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-sprint-press-conference-china-2025.WvDudsodXs9UCbMPzgfrf",
       "title": "FIA post-Sprint press conference – China",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_China___Sprint__Qualifying/2206319447"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hamilton-hails-ferrari-for-great-job-after-sprint-victory-in-china-as-he.55Pl9VZBX92tmbi9Q3N5mJ",
-      "title": "Hamilton hits back at ‘yapping’ critics following maiden Ferrari triumph in Shanghai Sprint",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_China___Sprint__Qualifying/2206316755"
     }
   ]
 }
