@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-03-25T06:06:03.605Z",
+  "updatedDate": "2025-03-25T12:00:40.424Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/you-have-to-have-two-cars-scoring-horner-assesses-red-bulls-chances-of.2vOR3JBZW7rfvyODcokbSH",
+      "title": "‘You have to have two cars scoring’ – Horner assesses Red Bull’s chances of chasing down McLaren for the Teams' title",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_China___Sprint__Qualifying/2206312300"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/hungaroring-provide-update-on-circuit-upgrades-ahead-of-2025-grand-prix.32HUGk7Bfe22SOoEx8EwyJ",
       "title": "Hungaroring provide update on circuit upgrades ahead of 2025 Grand Prix",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/it-came-alive-mercedes-russell-buzzing-after-missing-out-on-pole-by-just-0.5IUdrWJ1B91xMumkHw8Jma",
       "title": "‘It came alive’ – Mercedes’ Russell ‘buzzing’ after missing out on pole by just 0.082s in Shanghai ",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/China/GettyImages-2206342953"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/fia-post-qualifying-press-conference-china-2025.3khclYWp25Lcioj4MrHzH5",
-      "title": "FIA post-Qualifying press conference – China",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_China___Sprint__Qualifying/2206339211"
     }
   ]
 }
