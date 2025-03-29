@@ -41,13 +41,13 @@
     "circuitId": "suzuka",
     "url": "https://www.formula1.com/en/racing/2025/Japan.html",
     "state": "schedule",
-    "fallbackDate": "2025-04-06T06:00:00Z",
+    "fallbackDate": "2025-04-06T05:00:00Z",
     "dates": {
-      "practice1": "2025-04-04T03:30:00.000Z",
-      "practice2": "2025-04-04T07:00:00.000Z",
-      "practice3": "2025-04-05T03:30:00.000Z",
-      "qualifying": "2025-04-05T07:00:00.000Z",
-      "race": "2025-04-06T06:00:00.000Z"
+      "practice1": "2025-04-04T02:30:00.000Z",
+      "practice2": "2025-04-04T06:00:00.000Z",
+      "practice3": "2025-04-05T02:30:00.000Z",
+      "qualifying": "2025-04-05T06:00:00.000Z",
+      "race": "2025-04-06T05:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -59,13 +59,13 @@
     "circuitId": "bahrain",
     "url": "https://www.formula1.com/en/racing/2025/Bahrain.html",
     "state": "schedule",
-    "fallbackDate": "2025-04-13T16:00:00Z",
+    "fallbackDate": "2025-04-13T15:00:00Z",
     "dates": {
-      "practice1": "2025-04-11T12:30:00.000Z",
-      "practice2": "2025-04-11T16:00:00.000Z",
-      "practice3": "2025-04-12T13:30:00.000Z",
-      "qualifying": "2025-04-12T17:00:00.000Z",
-      "race": "2025-04-13T16:00:00.000Z"
+      "practice1": "2025-04-11T11:30:00.000Z",
+      "practice2": "2025-04-11T15:00:00.000Z",
+      "practice3": "2025-04-12T12:30:00.000Z",
+      "qualifying": "2025-04-12T16:00:00.000Z",
+      "race": "2025-04-13T15:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -77,13 +77,13 @@
     "circuitId": "jeddah",
     "url": "https://www.formula1.com/en/racing/2025/Saudi_Arabia.html",
     "state": "schedule",
-    "fallbackDate": "2025-04-20T18:00:00Z",
+    "fallbackDate": "2025-04-20T17:00:00Z",
     "dates": {
-      "practice1": "2025-04-18T14:30:00.000Z",
-      "practice2": "2025-04-18T18:00:00.000Z",
-      "practice3": "2025-04-19T14:30:00.000Z",
-      "qualifying": "2025-04-19T18:00:00.000Z",
-      "race": "2025-04-20T18:00:00.000Z"
+      "practice1": "2025-04-18T13:30:00.000Z",
+      "practice2": "2025-04-18T17:00:00.000Z",
+      "practice3": "2025-04-19T13:30:00.000Z",
+      "qualifying": "2025-04-19T17:00:00.000Z",
+      "race": "2025-04-20T17:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -95,13 +95,13 @@
     "circuitId": "miami",
     "url": "https://www.formula1.com/en/racing/2025/Miami.html",
     "state": "schedule",
-    "fallbackDate": "2025-05-04T21:00:00Z",
+    "fallbackDate": "2025-05-04T20:00:00Z",
     "dates": {
-      "practice1": "2025-05-02T17:30:00.000Z",
-      "qualifying": "2025-05-03T21:00:00.000Z",
-      "race": "2025-05-04T21:00:00.000Z",
-      "sprint": "2025-05-03T17:00:00.000Z",
-      "sprintShootout": "2025-05-02T21:30:00.000Z"
+      "practice1": "2025-05-02T16:30:00.000Z",
+      "qualifying": "2025-05-03T20:00:00.000Z",
+      "race": "2025-05-04T20:00:00.000Z",
+      "sprint": "2025-05-03T16:00:00.000Z",
+      "sprintShootout": "2025-05-02T20:30:00.000Z"
     },
     "results": {
       "podium": []
@@ -113,13 +113,13 @@
     "circuitId": "imola",
     "url": "https://www.formula1.com/en/racing/2025/EmiliaRomagna.html",
     "state": "schedule",
-    "fallbackDate": "2025-05-18T14:00:00Z",
+    "fallbackDate": "2025-05-18T13:00:00Z",
     "dates": {
-      "practice1": "2025-05-16T12:30:00.000Z",
-      "practice2": "2025-05-16T16:00:00.000Z",
-      "practice3": "2025-05-17T11:30:00.000Z",
-      "qualifying": "2025-05-17T15:00:00.000Z",
-      "race": "2025-05-18T14:00:00.000Z"
+      "practice1": "2025-05-16T11:30:00.000Z",
+      "practice2": "2025-05-16T15:00:00.000Z",
+      "practice3": "2025-05-17T10:30:00.000Z",
+      "qualifying": "2025-05-17T14:00:00.000Z",
+      "race": "2025-05-18T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -131,13 +131,13 @@
     "circuitId": "monaco",
     "url": "https://www.formula1.com/en/racing/2025/Monaco.html",
     "state": "schedule",
-    "fallbackDate": "2025-05-25T14:00:00Z",
+    "fallbackDate": "2025-05-25T13:00:00Z",
     "dates": {
-      "practice1": "2025-05-23T12:30:00.000Z",
-      "practice2": "2025-05-23T16:00:00.000Z",
-      "practice3": "2025-05-24T11:30:00.000Z",
-      "qualifying": "2025-05-24T15:00:00.000Z",
-      "race": "2025-05-25T14:00:00.000Z"
+      "practice1": "2025-05-23T11:30:00.000Z",
+      "practice2": "2025-05-23T15:00:00.000Z",
+      "practice3": "2025-05-24T10:30:00.000Z",
+      "qualifying": "2025-05-24T14:00:00.000Z",
+      "race": "2025-05-25T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -149,13 +149,13 @@
     "circuitId": "catalunya",
     "url": "https://www.formula1.com/en/racing/2025/Spain.html",
     "state": "schedule",
-    "fallbackDate": "2025-06-01T14:00:00Z",
+    "fallbackDate": "2025-06-01T13:00:00Z",
     "dates": {
-      "practice1": "2025-05-30T12:30:00.000Z",
-      "practice2": "2025-05-30T16:00:00.000Z",
-      "practice3": "2025-05-31T11:30:00.000Z",
-      "qualifying": "2025-05-31T15:00:00.000Z",
-      "race": "2025-06-01T14:00:00.000Z"
+      "practice1": "2025-05-30T11:30:00.000Z",
+      "practice2": "2025-05-30T15:00:00.000Z",
+      "practice3": "2025-05-31T10:30:00.000Z",
+      "qualifying": "2025-05-31T14:00:00.000Z",
+      "race": "2025-06-01T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -167,13 +167,13 @@
     "circuitId": "villeneuve",
     "url": "https://www.formula1.com/en/racing/2025/Canada.html",
     "state": "schedule",
-    "fallbackDate": "2025-06-15T19:00:00Z",
+    "fallbackDate": "2025-06-15T18:00:00Z",
     "dates": {
-      "practice1": "2025-06-13T18:30:00.000Z",
-      "practice2": "2025-06-13T22:00:00.000Z",
-      "practice3": "2025-06-14T17:30:00.000Z",
-      "qualifying": "2025-06-14T21:00:00.000Z",
-      "race": "2025-06-15T19:00:00.000Z"
+      "practice1": "2025-06-13T17:30:00.000Z",
+      "practice2": "2025-06-13T21:00:00.000Z",
+      "practice3": "2025-06-14T16:30:00.000Z",
+      "qualifying": "2025-06-14T20:00:00.000Z",
+      "race": "2025-06-15T18:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -185,13 +185,13 @@
     "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2025/Austria.html",
     "state": "schedule",
-    "fallbackDate": "2025-06-29T14:00:00Z",
+    "fallbackDate": "2025-06-29T13:00:00Z",
     "dates": {
-      "practice1": "2025-06-27T12:30:00.000Z",
-      "practice2": "2025-06-27T16:00:00.000Z",
-      "practice3": "2025-06-28T11:30:00.000Z",
-      "qualifying": "2025-06-28T15:00:00.000Z",
-      "race": "2025-06-29T14:00:00.000Z"
+      "practice1": "2025-06-27T11:30:00.000Z",
+      "practice2": "2025-06-27T15:00:00.000Z",
+      "practice3": "2025-06-28T10:30:00.000Z",
+      "qualifying": "2025-06-28T14:00:00.000Z",
+      "race": "2025-06-29T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -203,13 +203,13 @@
     "circuitId": "silverstone",
     "url": "https://www.formula1.com/en/racing/2025/Great_Britain.html",
     "state": "schedule",
-    "fallbackDate": "2025-07-06T15:00:00Z",
+    "fallbackDate": "2025-07-06T14:00:00Z",
     "dates": {
-      "practice1": "2025-07-04T12:30:00.000Z",
-      "practice2": "2025-07-04T16:00:00.000Z",
-      "practice3": "2025-07-05T11:30:00.000Z",
-      "qualifying": "2025-07-05T15:00:00.000Z",
-      "race": "2025-07-06T15:00:00.000Z"
+      "practice1": "2025-07-04T11:30:00.000Z",
+      "practice2": "2025-07-04T15:00:00.000Z",
+      "practice3": "2025-07-05T10:30:00.000Z",
+      "qualifying": "2025-07-05T14:00:00.000Z",
+      "race": "2025-07-06T14:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -221,13 +221,13 @@
     "circuitId": "spa",
     "url": "https://www.formula1.com/en/racing/2025/Belgium.html",
     "state": "schedule",
-    "fallbackDate": "2025-07-27T14:00:00Z",
+    "fallbackDate": "2025-07-27T13:00:00Z",
     "dates": {
-      "practice1": "2025-07-25T11:30:00.000Z",
-      "qualifying": "2025-07-26T15:00:00.000Z",
-      "race": "2025-07-27T14:00:00.000Z",
-      "sprint": "2025-07-26T11:00:00.000Z",
-      "sprintShootout": "2025-07-25T15:30:00.000Z"
+      "practice1": "2025-07-25T10:30:00.000Z",
+      "qualifying": "2025-07-26T14:00:00.000Z",
+      "race": "2025-07-27T13:00:00.000Z",
+      "sprint": "2025-07-26T10:00:00.000Z",
+      "sprintShootout": "2025-07-25T14:30:00.000Z"
     },
     "results": {
       "podium": []
@@ -239,13 +239,13 @@
     "circuitId": "hungaroring",
     "url": "https://www.formula1.com/en/racing/2025/Hungary.html",
     "state": "schedule",
-    "fallbackDate": "2025-08-03T14:00:00Z",
+    "fallbackDate": "2025-08-03T13:00:00Z",
     "dates": {
-      "practice1": "2025-08-01T12:30:00.000Z",
-      "practice2": "2025-08-01T16:00:00.000Z",
-      "practice3": "2025-08-02T11:30:00.000Z",
-      "qualifying": "2025-08-02T15:00:00.000Z",
-      "race": "2025-08-03T14:00:00.000Z"
+      "practice1": "2025-08-01T11:30:00.000Z",
+      "practice2": "2025-08-01T15:00:00.000Z",
+      "practice3": "2025-08-02T10:30:00.000Z",
+      "qualifying": "2025-08-02T14:00:00.000Z",
+      "race": "2025-08-03T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -257,13 +257,13 @@
     "circuitId": "zandvoort",
     "url": "https://www.formula1.com/en/racing/2025/Netherlands.html",
     "state": "schedule",
-    "fallbackDate": "2025-08-31T14:00:00Z",
+    "fallbackDate": "2025-08-31T13:00:00Z",
     "dates": {
-      "practice1": "2025-08-29T11:30:00.000Z",
-      "practice2": "2025-08-29T15:00:00.000Z",
-      "practice3": "2025-08-30T10:30:00.000Z",
-      "qualifying": "2025-08-30T14:00:00.000Z",
-      "race": "2025-08-31T14:00:00.000Z"
+      "practice1": "2025-08-29T10:30:00.000Z",
+      "practice2": "2025-08-29T14:00:00.000Z",
+      "practice3": "2025-08-30T09:30:00.000Z",
+      "qualifying": "2025-08-30T13:00:00.000Z",
+      "race": "2025-08-31T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -275,13 +275,13 @@
     "circuitId": "monza",
     "url": "https://www.formula1.com/en/racing/2025/Italy.html",
     "state": "schedule",
-    "fallbackDate": "2025-09-07T14:00:00Z",
+    "fallbackDate": "2025-09-07T13:00:00Z",
     "dates": {
-      "practice1": "2025-09-05T12:30:00.000Z",
-      "practice2": "2025-09-05T16:00:00.000Z",
-      "practice3": "2025-09-06T11:30:00.000Z",
-      "qualifying": "2025-09-06T15:00:00.000Z",
-      "race": "2025-09-07T14:00:00.000Z"
+      "practice1": "2025-09-05T11:30:00.000Z",
+      "practice2": "2025-09-05T15:00:00.000Z",
+      "practice3": "2025-09-06T10:30:00.000Z",
+      "qualifying": "2025-09-06T14:00:00.000Z",
+      "race": "2025-09-07T13:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -293,13 +293,13 @@
     "circuitId": "baku",
     "url": "https://www.formula1.com/en/racing/2025/Azerbaijan.html",
     "state": "schedule",
-    "fallbackDate": "2025-09-21T12:00:00Z",
+    "fallbackDate": "2025-09-21T11:00:00Z",
     "dates": {
-      "practice1": "2025-09-19T09:30:00.000Z",
-      "practice2": "2025-09-19T13:00:00.000Z",
-      "practice3": "2025-09-20T09:30:00.000Z",
-      "qualifying": "2025-09-20T13:00:00.000Z",
-      "race": "2025-09-21T12:00:00.000Z"
+      "practice1": "2025-09-19T08:30:00.000Z",
+      "practice2": "2025-09-19T12:00:00.000Z",
+      "practice3": "2025-09-20T08:30:00.000Z",
+      "qualifying": "2025-09-20T12:00:00.000Z",
+      "race": "2025-09-21T11:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -311,13 +311,13 @@
     "circuitId": "marina_bay",
     "url": "https://www.formula1.com/en/racing/2025/Singapore.html",
     "state": "schedule",
-    "fallbackDate": "2025-10-05T13:00:00Z",
+    "fallbackDate": "2025-10-05T12:00:00Z",
     "dates": {
-      "practice1": "2025-10-03T10:30:00.000Z",
-      "practice2": "2025-10-03T14:00:00.000Z",
-      "practice3": "2025-10-04T10:30:00.000Z",
-      "qualifying": "2025-10-04T14:00:00.000Z",
-      "race": "2025-10-05T13:00:00.000Z"
+      "practice1": "2025-10-03T09:30:00.000Z",
+      "practice2": "2025-10-03T13:00:00.000Z",
+      "practice3": "2025-10-04T09:30:00.000Z",
+      "qualifying": "2025-10-04T13:00:00.000Z",
+      "race": "2025-10-05T12:00:00.000Z"
     },
     "results": {
       "podium": []
@@ -329,13 +329,13 @@
     "circuitId": "americas",
     "url": "https://www.formula1.com/en/racing/2025/United_States.html",
     "state": "schedule",
-    "fallbackDate": "2025-10-19T20:00:00Z",
+    "fallbackDate": "2025-10-19T19:00:00Z",
     "dates": {
-      "practice1": "2025-10-17T18:30:00.000Z",
-      "qualifying": "2025-10-18T22:00:00.000Z",
-      "race": "2025-10-19T20:00:00.000Z",
-      "sprint": "2025-10-18T18:00:00.000Z",
-      "sprintShootout": "2025-10-17T22:30:00.000Z"
+      "practice1": "2025-10-17T17:30:00.000Z",
+      "qualifying": "2025-10-18T21:00:00.000Z",
+      "race": "2025-10-19T19:00:00.000Z",
+      "sprint": "2025-10-18T17:00:00.000Z",
+      "sprintShootout": "2025-10-17T21:30:00.000Z"
     },
     "results": {
       "podium": []
@@ -349,10 +349,10 @@
     "state": "schedule",
     "fallbackDate": "2025-10-26T20:00:00Z",
     "dates": {
-      "practice1": "2025-10-24T19:30:00.000Z",
-      "practice2": "2025-10-24T23:00:00.000Z",
-      "practice3": "2025-10-25T18:30:00.000Z",
-      "qualifying": "2025-10-25T22:00:00.000Z",
+      "practice1": "2025-10-24T18:30:00.000Z",
+      "practice2": "2025-10-24T22:00:00.000Z",
+      "practice3": "2025-10-25T17:30:00.000Z",
+      "qualifying": "2025-10-25T21:00:00.000Z",
       "race": "2025-10-26T20:00:00.000Z"
     },
     "results": {
