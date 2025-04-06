@@ -40,7 +40,7 @@
     "shortName": "Suzuka",
     "circuitId": "suzuka",
     "url": "https://www.formula1.com/en/racing/2025/Japan.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-04-06T05:00:00Z",
     "dates": {
       "practice1": "2025-04-04T02:30:00.000Z",
