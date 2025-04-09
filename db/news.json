@@ -1,10 +1,25 @@
 {
-  "updatedDate": "2025-04-09T12:00:42.184Z",
+  "updatedDate": "2025-04-09T18:09:27.832Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/my-mum-really-cares-about-it-antonelli-on-balancing-f1-with-schoolwork-as.3jVRMIxgRmaHBGg79TLlaM",
+      "title": "‘My Mum really cares about it’ – Antonelli on balancing F1 with schoolwork as rookie reveals his least favourite subjects",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan___Practice/2208389531"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/ayumu-iwasa-set-to-drive-verstappens-red-bull-in-fp1-at-bahrain-grand-prix.5bgwZmdrTI0h49YevqR31S",
+      "title": "Ayumu Iwasa set to drive Verstappen’s Red Bull in FP1 at Bahrain Grand Prix",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan___Practice/2208387928"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2025-bahrain-grand-prix.7gnHbNpm0OJQIjPqsWoyof",
       "title": "What tyres will the teams and drivers have for the 2025 Bahrain Grand Prix?",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_China___Sprint__Qualifying/2206311950"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/mclaren-deloitte-uk-and-fia-announce-circularity-handbook-to-improve.5KhIZckz59We6EotrQBB2W",
+      "title": "McLaren, Deloitte UK and FIA announce Circularity Handbook to improve sustainable practices in developing and building F1 cars",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan/2208784992"
     },
     {
       "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2025-bahrain-grand-prix.oVFJnBBEbCvm6EqnFXuPK",
@@ -95,21 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-japan-2025.33MgCyF530jJCcHZ1T43Ab",
       "title": "FIA post-race press conference – Japan",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan/2208767237"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/piastri-insists-pace-in-japan-was-mega-as-he-explains-mclarens-fair-response.2WgyHMFUlXOdkYILIWHKdk",
-      "title": "Piastri insists pace in Japan was ‘mega’ as he explains McLaren’s ‘fair’ response in battle with Norris",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan___Qualifying/2208621204"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/mixed-feelings-tsunoda-looks-back-on-pretty-frustrating-debut-race-for-red.4jOgeFCpD65MBqT3iXJeRG",
-      "title": "‘Mixed feelings’ – Tsunoda looks back on ‘pretty frustrating’ debut race for Red Bull",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Japan/Formula%201%20header%20templates%20-%202025-04-06T094837.146"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/it-means-a-lot-verstappen-thrilled-with-fourth-suzuka-win-in-a-row-as-he.2MMSKCqcEEN3mKSPyJmyIQ",
-      "title": "‘It means a lot’ – Verstappen thrilled with fourth Suzuka win in a row as he reflects on ‘tight’ pit exit moment with Norris",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_Of_Japan/2208768524"
     }
   ]
 }
