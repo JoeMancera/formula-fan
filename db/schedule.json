@@ -58,7 +58,7 @@
     "shortName": "Sakhir",
     "circuitId": "bahrain",
     "url": "https://www.formula1.com/en/racing/2025/Bahrain.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-04-13T15:00:00Z",
     "dates": {
       "practice1": "2025-04-11T11:30:00.000Z",
