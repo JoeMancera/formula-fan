@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-04-28T06:10:08.314Z",
+  "updatedDate": "2025-04-28T12:00:43.228Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/aston-martin-boss-cowell-explains-how-wind-tunnel-has-opened-our-eyes-to-new.1HJOC8Ubfd4YBlgBqxqf0G",
+      "title": "Aston Martin boss Cowell explains how wind tunnel has ‘opened our eyes’ to new tricks",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_1/2202037344"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/its-impressive-and-exciting-team-principals-laud-f1s-motorsport-ladder-for.6orG4fBKyn6rLmFT31Dss8",
       "title": "'It's impressive and exciting' – Team principals laud F1's motorsport ladder for preparing rookies",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/our-worst-performance-so-far-wolff-left-searching-for-answers-after-mercedes.kwBKHYHDz0XnD711Vifaw",
       "title": "‘Our worst performance so far’ – Wolff left searching for answers after Mercedes’ low-key display in Saudi Arabian GP",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Bahrain/2210088304"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/tsunoda-labels-collision-with-gasly-a-great-shame-after-red-bull-racer.6WRKMEbBpLD5Kj7uf7dNQ9",
-      "title": "Tsunoda labels collision with Gasly ‘a great shame’ after Red Bull racer misses out on vital learning in Saudi Arabian GP",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Saudi%20Arabia/GettyImages-2211028424"
     }
   ]
 }
