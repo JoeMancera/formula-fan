@@ -94,7 +94,7 @@
     "shortName": "Miami",
     "circuitId": "miami",
     "url": "https://www.formula1.com/en/racing/2025/Miami.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-05-04T20:00:00Z",
     "dates": {
       "practice1": "2025-05-02T16:30:00.000Z",
