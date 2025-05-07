@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-06T18:09:44.784Z",
+  "updatedDate": "2025-05-07T00:14:13.474Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-alpine-announce-resignation-of-team-principal-oli-oakes.1W1ZN9y4Lc1pRw1ROkgZMm",
+      "title": "Alpine announce resignation of Team Principal Oliver Oakes",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Bahrain/2210027063"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/wolff-singles-out-praise-for-antonelli-as-he-explains-where-mercedes-are.1GscXKo7ySzfYoCdIzeLGw",
       "title": "Wolff singles out praise for Antonelli as he explains where Mercedes are struggling compared to McLaren",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/williams-duo-keen-to-play-with-strategies-as-they-target-strong-result-in.7GPjFLE2BL3MKRKp53wOt5",
       "title": "Williams duo keen to 'play with strategies' as they target strong result in Miami after impressive Qualifying",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miami/Formula%201%20header%20templates%20-%202025-05-04T005038.022"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/cadillac-unveil-their-team-logo-and-brand-during-dazzling-miami-launch-event.NlxVb6QPCGZkoNlI7OGFT",
-      "title": "Cadillac unveil their team logo and brand during dazzling Miami launch event ahead of 2026 entry",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Cadillac%20(GM)/Formula%201%20header%20templates%20-%202025-05-04T004129.094"
     }
   ]
 }
