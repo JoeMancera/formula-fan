@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-07T06:06:13.348Z",
+  "updatedDate": "2025-05-07T12:00:44.349Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/alpine-confirm-colapinto-to-replace-doohan-for-next-five-rounds-as-team-opt.4lH96VnGHyC45S3yjeJOMK",
+      "title": "Alpine confirm Colapinto to replace Doohan for next five rounds as team opt to 'rotate' seat",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Alpine/Formula%201%20header%20templates%20-%202025-05-06T123925.398"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/breaking-alpine-announce-resignation-of-team-principal-oli-oakes.1W1ZN9y4Lc1pRw1ROkgZMm",
       "title": "Alpine announce resignation of Team Principal Oliver Oakes",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/driveable-lego-big-builds-welcomed-to-miami-drivers-parade.nVkstNITKT6LNY5pnT4IU",
       "title": "Driveable LEGO big builds welcomed to Miami drivers’ parade",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Miami/2213390626"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/williams-duo-keen-to-play-with-strategies-as-they-target-strong-result-in.7GPjFLE2BL3MKRKp53wOt5",
-      "title": "Williams duo keen to 'play with strategies' as they target strong result in Miami after impressive Qualifying",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miami/Formula%201%20header%20templates%20-%202025-05-04T005038.022"
     }
   ]
 }
