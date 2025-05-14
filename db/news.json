@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-14T06:06:16.642Z",
+  "updatedDate": "2025-05-14T12:00:43.179Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/design-your-own-f1-circuit-and-win-race-tickets-with-new-aws-online.014LSSCW9xAI1CDx0gYeUk",
+      "title": "Design your own F1 circuit and win race tickets with new AWS online experience",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-partner/aws/AWS_F1_PhoneMockup_02"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/to-already-be-at-this-pace-is-very-impressive-verstappen-and-norris-heap.4PGwDEibacU6WhC9dtrBM5",
       "title": "‘To already be at this pace is very impressive’ – Verstappen and Norris heap praise on Antonelli after rookie’s Miami display",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/gasly-admits-alpine-need-answers-after-difficult-weekend-in-miami-as-doohan.7Cz8pwZFo2yy4z5XLBcJPX",
       "title": "Gasly admits Alpine ‘need answers’ after difficult weekend in Miami as Doohan reflects on Lap 1 collision with Lawson",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miami/Gasly%20Doohan%20Miami%20header%20image"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/audi-announce-organisational-restructure-ahead-of-f1-arrival-in-2026.1FejBxrI8UMuxu1plVnzNC",
-      "title": "Audi announce organisational restructure ahead of F1 arrival in 2026",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Kick%20Sauber/A250025_web_960"
     }
   ]
 }
