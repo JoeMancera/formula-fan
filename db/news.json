@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-15T06:06:22.255Z",
+  "updatedDate": "2025-05-15T12:00:37.939Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/alternative-fuel-strategy-to-power-the-formula-1-european-season.54AtQWy064uk0IIpcfs1Kk",
+      "title": "Alternative fuel strategy to power the Formula 1 European Season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/campaign/support-partner/dhl/DHL%20Biofuel%20Trucks%20169"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2025-emilia-romagna-grand-prix-on-f1-tv-premium.24jtOSPIpBYermown7HwF0",
       "title": "How to stream the Formula 1 2025 Emilia-Romagna Grand Prix on F1 TV Premium",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/alpine-share-more-information-over-oakes-departure-as-team-boss-after.4MkqhJpPqTkYwSrqKy4Ixc",
       "title": "Alpine share more information over Oakes’ departure as team boss after ‘personal decision’",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/Formula_1_Testing_in_Bahrain___Day_2/2202225416"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/horner-admits-mclaren-in-a-league-of-their-own-as-he-opens-up-on-red-bulls.1RdIwFbvUDCQ8XSDJUXutL",
-      "title": "Horner admits McLaren ‘in a league of their own’ as he opens up on Red Bull’s Miami issues",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Miami/2213396537"
     }
   ]
 }
