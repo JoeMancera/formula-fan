@@ -112,7 +112,7 @@
     "shortName": "Imola",
     "circuitId": "imola",
     "url": "https://www.formula1.com/en/racing/2025/EmiliaRomagna.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-05-18T13:00:00Z",
     "dates": {
       "practice1": "2025-05-16T11:30:00.000Z",
