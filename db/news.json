@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-23T06:06:17.078Z",
+  "updatedDate": "2025-05-23T12:00:42.258Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-explains-wins-gold-at-the-new-york-festivals-radio-awards.5zfSG61RO6jxetd8Oe6e3l",
+      "title": "F1 Explains wins Gold at the New York Festivals Radio Awards",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/F1%20Explains/F1Ex%20NYRF%20WIN%2016x9%20white%20trophy"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/piastri-warns-of-unpredictable-mclaren-ahead-of-monaco-as-norris-concedes.ShDqMhAyENDwAbHjm9ZJY",
       "title": "Piastri warns of ‘unpredictable’ McLaren ahead of Monaco as Norris concedes Imola showed ‘we're vulnerable in certain areas’",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/vasseur-admits-ferrari-are-not-fast-enough-as-he-highlights-qualifying.2pFK97MZcpX0vP3PVi6C6w",
       "title": "Vasseur admits Ferrari ‘are not fast enough’ as he highlights Qualifying concerns ahead of Monaco",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Emilia-Romagna/Ferrari%20Imola%202025"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/formula-1-and-disney-launching-mickey-and-friends-collaboration-in-2026.1GZ8gwZn7VLXWgxouTRzbG",
-      "title": "Formula 1 and Disney launching Mickey & Friends collaboration in 2026",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/fom-website/campaign/support-partner/Disney/DSC03771%202"
     }
   ]
 }
