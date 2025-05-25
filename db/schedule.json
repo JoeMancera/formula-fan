@@ -130,7 +130,7 @@
     "shortName": "Monte-Carlo",
     "circuitId": "monaco",
     "url": "https://www.formula1.com/en/racing/2025/Monaco.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-05-25T13:00:00Z",
     "dates": {
       "practice1": "2025-05-23T11:30:00.000Z",
