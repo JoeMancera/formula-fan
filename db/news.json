@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-05-31T18:08:43.632Z",
+  "updatedDate": "2025-06-01T00:18:08.795Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/breaking-aston-martin-announce-stroll-to-miss-spanish-grand-prix.4FI8kbD2YhaiuMDhXgW8KO",
+      "title": "Aston Martin announce Stroll to miss Spanish Grand Prix",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Spain/GettyImages-2217643231"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/tsunoda-laments-pretty-tough-qualifying-after-battling-some-strange-issue-on.71myGGjQ3eCZdowuJQTktN",
       "title": "Tsunoda laments ‘pretty tough’ Qualifying after battling ‘some strange issue’ on his way to P20 in Spain",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/it-was-great-to-witness-alonso-reflects-on-how-neweys-presence-in-monaco.4oLBa6MaMOjl4JGeq4UHNd",
       "title": "‘It was great to witness’ – Alonso reflects on how Newey’s presence in Monaco impacted ‘level’ of Aston Martin team",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Monaco/GettyImages-2216516573"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/limited-edition-f1-the-movie-merchandise-unveiled-ahead-of-summer-premiere.2I5jBOWYru5yVUjvO4KSOo",
-      "title": "Limited edition ‘F1’ movie merchandise unveiled ahead of summer premiere",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/F1%20movie/F1TheMovie_Merch_Light-Hero-NoCTA_1920x1080"
     }
   ]
 }
