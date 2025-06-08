@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-08T06:05:46.778Z",
+  "updatedDate": "2025-06-08T12:00:38.878Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/legends-parade-to-bring-hollywood-glamour-to-austrian-grand-prix.dLoz6SZn8AEA86VQTQkHu",
+      "title": "Legends Parade to bring Hollywood glamour to Austria",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2023/Apple/APXGP_car_16x9version"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/stella-gives-his-take-on-piastris-cheeky-comment-and-how-mclaren-will-manage.56oXcuxw5ugnCvZQpsT07j",
       "title": "Stella gives his take on Piastri's 'cheeky' comment and how McLaren will manage intra-team fight going forward",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/fia-post-race-press-conference-spain-2025.2Hz3rOMddCLDOAAUcKseNG",
       "title": "FIA post-race press conference – Spain",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Spain/2218110009"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/hulkenberg-reveals-golden-ticket-that-helped-him-secure-impressive-p5-in.0BUZygbEyIWJNW6QWqgO7",
-      "title": "Hulkenberg reveals ‘golden ticket’ that helped him secure impressive P5 in Spanish GP",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Spain/Formula%201%20header%20templates%20-%202025-06-01T184050.575"
     }
   ]
 }
