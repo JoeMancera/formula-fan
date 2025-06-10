@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-10T00:14:42.910Z",
+  "updatedDate": "2025-06-10T06:06:19.406Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-1-reveals-calendar-for-2026-season.YctbMZWqBvrgyddrnauo8",
+      "title": "Formula 1 reveals calendar for 2026 season",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/2025-start-barcelona"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/bottas-assesses-chances-of-racing-for-red-bull-or-alpine-as-he-weighs-up.14muoqt7ppaLMyzh4extg4",
       "title": "Bottas assesses chances of racing for Red Bull or Alpine as he weighs up future options",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/downbeat-hamilton-says-hes-learned-absolutely-nothing-from-triple-header.3jMos4p3kwAMMNWaCTd3CY",
       "title": "Downbeat Hamilton says he learned ‘absolutely nothing’ from triple header after tough run to P6 in Barcelona",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Spain/2218074800"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/horner-and-wolff-share-their-views-on-controversial-verstappen-russell-clash.7ywSMhJRYmnXJFo9zh4lSs",
-      "title": "Horner and Wolff share their views on controversial Verstappen/Russell clash at end of Spanish GP",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Spain/horner-wolff-comp-2025-1"
     }
   ]
 }
