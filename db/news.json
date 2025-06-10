@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-10T06:06:19.406Z",
+  "updatedDate": "2025-06-10T12:00:42.122Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/formula-2-and-formula-3-unveil-their-2026-calendars.4XZVkowTI7nQy17Fy7a4ze",
+      "title": "Formula 2 and Formula 3 unveil their 2026 calendars",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/Miscellaneous/Formula%202%20and%20Formula%203%20header%20image"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/formula-1-reveals-calendar-for-2026-season.YctbMZWqBvrgyddrnauo8",
       "title": "Formula 1 reveals calendar for 2026 season",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/albon-rues-messy-race-as-sainz-says-nothing-went-our-way-in-spain-as.2mslVysDkH1OKHlXHZFoTd",
       "title": "Albon rues ‘messy race' as Sainz says 'nothing went our way' in Spain as Williams fail to score for first time since Bahrain",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Spain/Sainz%20Albon%20Spain"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/downbeat-hamilton-says-hes-learned-absolutely-nothing-from-triple-header.3jMos4p3kwAMMNWaCTd3CY",
-      "title": "Downbeat Hamilton says he learned ‘absolutely nothing’ from triple header after tough run to P6 in Barcelona",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Spain/2218074800"
     }
   ]
 }
