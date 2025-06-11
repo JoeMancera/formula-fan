@@ -1,6 +1,16 @@
 {
-  "updatedDate": "2025-06-11T06:06:29.569Z",
+  "updatedDate": "2025-06-11T12:00:37.473Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2025-canadian-grand-prix.tJcXAHn6bs83vlHppIwgB",
+      "title": "What is the weather forecast for the Canadian GP?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Canada/2156807276"
+    },
+    {
+      "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2025-canadian-grand-prix.6f3pKs15OHHlxe7uI544kO",
+      "title": "What tyres will drivers have for the Canadian GP?",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Miscellaneous/tyres-2025-f1-1"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/its-all-noise-hamilton-responds-to-speculation-over-relationship-with.4kNfIov1cdFERWrdmbZLSl",
       "title": "Hamilton responds to speculation over relationship with engineer Adami",
@@ -100,16 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/i-prefer-to-be-second-than-fourth-vasseur-bullish-as-ferrari-jump-mercedes.6sZE3rCiXXWCnGDx22U8up",
       "title": "‘I prefer to be second than fourth’ – Vasseur bullish as Ferrari jump Mercedes and Red Bull in the standings ",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/fom-website/2025/Miscellaneous/GettyImages-2214740533"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/whispering-angel-announced-as-official-rose-of-formula-1.5JcAaJ5dpDU2gg2kbuTKUC",
-      "title": "Whispering Angel announced as Official Rosé of Formula 1",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/campaign/support-partner/whispering%20angel/Whispering%20Angel%20KV"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/it-is-what-it-is-says-a-dejected-tsunoda-as-he-fails-to-score-for-second.1V75JdEMYJWpMeHUFj3MKI",
-      "title": "‘It is what it is’ says a dejected Tsunoda as he fails to score for second race in a row",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Spain/Tsunoda%20Spain%2025"
     }
   ]
 }
