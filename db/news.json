@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-14T12:00:36.148Z",
+  "updatedDate": "2025-06-14T18:08:38.475Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/f1-academy-to-race-in-montreal-until-2028.1A3TcJqDIFmwzUHVr12b93",
+      "title": "F1 ACADEMY to race in Montreal until 2028",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/F1%20Academy/F1%20ACADEMY%20Montreal%20announcement"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/vasseur-responds-to-disrespectful-speculation-over-his-ferrari-future.62L9Zg5nRIbjYH0YlxesJB",
       "title": "Vasseur responds to 'disrespectful' speculation on his Ferrari future",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2025-canadian-grand-prix-on-f1-tv-premium.4pzLJFkewstJh83ZKd0IIu",
       "title": "How to stream the Canadian GP on F1 TV Premium",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/F1%20TV/F1TVPREMIUM-LAUNCHSOCIAL-ARTILHEADER2_541406_1920x1080"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2025-canadian-grand-prix-and-how-can-i-watch-it.2un753zmE4M1DT2PDkIlkU",
-      "title": "What time is the Canadian GP and how can I watch it?",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9South,g_faces,ar_16:9/trackside-images/2024/F1_Grand_Prix_of_Canada/2156823310"
     }
   ]
 }
