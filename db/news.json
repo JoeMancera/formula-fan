@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-15T06:05:35.806Z",
+  "updatedDate": "2025-06-15T12:00:35.792Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/i-dont-know-what-they-wanted-me-to-do-tsunoda-left-unhappy-with-10-place.3w3k3J0s7kZ1QosAAErUFa",
+      "title": "Tsunoda left unhappy with 10-place grid penalty in Canada",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Canada___Qualifying/2220155125"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/the-car-was-good-enough-for-pole-leclerc-very-frustrated-by-p8-in-canada.6qPGdgBmcVKmX9Ic6FNJYD",
       "title": "Leclerc ‘very frustrated’ by P8 in Canada",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/antonelli-identifies-key-issue-that-left-him-struggling-to-find-consistent.7rZ8mTvjfqzE8xXYC8dj4W",
       "title": "Antonelli identifies key issue that led to triple header struggles",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9North,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Canada___Previews/2219841893"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/norris-concedes-it-will-be-when-not-if-he-and-mclaren-team-mate-piastri-come.7Gxp2ov2d44vlpoxEKJKNB",
-      "title": "Norris concedes it's a matter of 'when' he and Piastri come to blows",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,g_faces,ar_16:9/fom-website/2025/Canada/GENERAL%20CROP%20(1)"
     }
   ]
 }
