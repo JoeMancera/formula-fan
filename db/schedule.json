@@ -166,7 +166,7 @@
     "shortName": "Montreal",
     "circuitId": "villeneuve",
     "url": "https://www.formula1.com/en/racing/2025/Canada.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-06-15T18:00:00Z",
     "dates": {
       "practice1": "2025-06-13T17:30:00.000Z",
