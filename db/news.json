@@ -1,6 +1,11 @@
 {
-  "updatedDate": "2025-06-16T06:06:55.746Z",
+  "updatedDate": "2025-06-16T12:00:46.467Z",
   "newsList": [
+    {
+      "link": "https://www.formula1.com/en/latest/article/wolff-reveals-reasons-behind-mercedes-dominant-1-3-in-montreal-but-admits.2QcjiqD0mawgfLFLILGdJH",
+      "title": "Wolff reveals reasons behind Mercedes’ ‘dominant’ 1-3 in Montreal",
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Canada/2220307909"
+    },
     {
       "link": "https://www.formula1.com/en/latest/article/red-bull-protest-lodged-against-russell-after-canadian-grand-prix-is.45WwJLB8yH8C2CoWcaSS5F",
       "title": "Russell retains Canadian GP victory as Red Bull protest is rejected",
@@ -105,11 +110,6 @@
       "link": "https://www.formula1.com/en/latest/article/f1-academy-to-race-in-montreal-until-2028.1A3TcJqDIFmwzUHVr12b93",
       "title": "F1 ACADEMY to race in Montreal until 2028",
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/fom-website/2025/F1%20Academy/F1%20ACADEMY%20Montreal%20announcement"
-    },
-    {
-      "link": "https://www.formula1.com/en/latest/article/vasseur-responds-to-disrespectful-speculation-over-his-ferrari-future.62L9Zg5nRIbjYH0YlxesJB",
-      "title": "Vasseur responds to 'disrespectful' speculation on his Ferrari future",
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,w_630,q_auto/f_auto,c_fill,q_auto,w_420,t_16by9Centre,g_faces,ar_16:9/trackside-images/2025/F1_Grand_Prix_of_Canada___Practice/2220005831"
     }
   ]
 }
