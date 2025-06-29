@@ -184,7 +184,7 @@
     "shortName": "Spielberg",
     "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2025/Austria.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-06-29T13:00:00Z",
     "dates": {
       "practice1": "2025-06-27T11:30:00.000Z",
