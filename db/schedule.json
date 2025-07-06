@@ -202,7 +202,7 @@
     "shortName": "Silverstone",
     "circuitId": "silverstone",
     "url": "https://www.formula1.com/en/racing/2025/Great_Britain.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-07-06T14:00:00Z",
     "dates": {
       "practice1": "2025-07-04T11:30:00.000Z",
