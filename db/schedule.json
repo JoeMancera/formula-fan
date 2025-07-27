@@ -220,7 +220,7 @@
     "shortName": "Spa",
     "circuitId": "spa",
     "url": "https://www.formula1.com/en/racing/2025/Belgium.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-07-27T13:00:00Z",
     "dates": {
       "practice1": "2025-07-25T10:30:00.000Z",
