@@ -238,7 +238,7 @@
     "shortName": "Budapest",
     "circuitId": "hungaroring",
     "url": "https://www.formula1.com/en/racing/2025/Hungary.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-08-03T13:00:00Z",
     "dates": {
       "practice1": "2025-08-01T11:30:00.000Z",
