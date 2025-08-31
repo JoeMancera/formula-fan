@@ -256,7 +256,7 @@
     "shortName": "Zandvoort",
     "circuitId": "zandvoort",
     "url": "https://www.formula1.com/en/racing/2025/Netherlands.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-08-31T13:00:00Z",
     "dates": {
       "practice1": "2025-08-29T10:30:00.000Z",
