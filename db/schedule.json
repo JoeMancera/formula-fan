@@ -292,7 +292,7 @@
     "shortName": "Baku",
     "circuitId": "baku",
     "url": "https://www.formula1.com/en/racing/2025/Azerbaijan.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-09-21T11:00:00Z",
     "dates": {
       "practice1": "2025-09-19T08:30:00.000Z",
