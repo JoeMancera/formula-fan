@@ -310,7 +310,7 @@
     "shortName": "Marina Bay",
     "circuitId": "marina_bay",
     "url": "https://www.formula1.com/en/racing/2025/Singapore.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-10-05T12:00:00Z",
     "dates": {
       "practice1": "2025-10-03T09:30:00.000Z",
