@@ -328,7 +328,7 @@
     "shortName": "Austin",
     "circuitId": "americas",
     "url": "https://www.formula1.com/en/racing/2025/United_States.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-10-19T19:00:00Z",
     "dates": {
       "practice1": "2025-10-17T17:30:00.000Z",
