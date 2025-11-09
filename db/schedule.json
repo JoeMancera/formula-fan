@@ -364,7 +364,7 @@
     "shortName": "São Paulo",
     "circuitId": "interlagos",
     "url": "https://www.formula1.com/en/racing/2025/Brazil.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2025-11-09T17:00:00Z",
     "dates": {
       "practice1": "2025-11-07T14:30:00.000Z",
