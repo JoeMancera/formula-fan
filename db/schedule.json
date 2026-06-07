@@ -94,7 +94,7 @@
     "shortName": "Monte Carlo",
     "circuitId": "monaco",
     "url": "https://www.formula1.com/en/racing/2026/Monaco.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-06-07T13:00:00Z",
     "dates": {
       "practice1": "2026-06-05T11:30:00.000Z",
