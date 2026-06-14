@@ -112,7 +112,7 @@
     "shortName": "Barcelona",
     "circuitId": "catalunya",
     "url": "https://www.formula1.com/en/racing/2026/Spain.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-06-14T13:00:00Z",
     "dates": {
       "practice1": "2026-06-12T11:30:00.000Z",
