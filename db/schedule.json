@@ -166,7 +166,7 @@
     "shortName": "Spa",
     "circuitId": "spa",
     "url": "https://www.formula1.com/en/racing/2026/Belgium.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-07-19T13:00:00Z",
     "dates": {
       "practice1": "2026-07-17T11:30:00.000Z",
