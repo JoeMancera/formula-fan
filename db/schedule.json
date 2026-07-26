@@ -184,7 +184,7 @@
     "shortName": "Budapest",
     "circuitId": "hungaroring",
     "url": "https://www.formula1.com/en/racing/2026/Hungary.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-07-26T13:00:00Z",
     "dates": {
       "practice1": "2026-07-24T11:30:00.000Z",
