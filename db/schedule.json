@@ -202,7 +202,7 @@
     "shortName": "Zandvoort",
     "circuitId": "zandvoort",
     "url": "https://www.formula1.com/en/racing/2026/Netherlands.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-08-23T13:00:00Z",
     "dates": {
       "practice1": "2026-08-21T10:30:00.000Z",
