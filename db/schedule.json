@@ -220,7 +220,7 @@
     "shortName": "Monza",
     "circuitId": "monza",
     "url": "https://www.formula1.com/en/racing/2026/Italy.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-09-06T13:00:00Z",
     "dates": {
       "practice1": "2026-09-04T10:30:00.000Z",
