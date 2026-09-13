@@ -238,7 +238,7 @@
     "shortName": "Madrid",
     "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2026/undefined.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-09-13T13:00:00Z",
     "dates": {
       "practice1": "2026-09-11T11:30:00.000Z",
