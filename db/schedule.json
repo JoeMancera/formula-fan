@@ -274,7 +274,7 @@
     "shortName": "Kuala Lumpur",
     "circuitId": "red_bull_ring",
     "url": "https://www.formula1.com/en/racing/2026/undefined.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-10-04T07:00:00Z",
     "dates": {
       "practice1": "2026-10-02T04:30:00.000Z",
