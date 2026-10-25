@@ -310,7 +310,7 @@
     "shortName": "Austin",
     "circuitId": "americas",
     "url": "https://www.formula1.com/en/racing/2026/United_States.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-10-25T20:00:00Z",
     "dates": {
       "practice1": "2026-10-23T17:30:00.000Z",
