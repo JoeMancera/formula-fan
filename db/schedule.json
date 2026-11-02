@@ -328,7 +328,7 @@
     "shortName": "Mexico City",
     "circuitId": "rodriguez",
     "url": "https://www.formula1.com/en/racing/2026/Mexico.html",
-    "state": "schedule",
+    "state": "finished",
     "fallbackDate": "2026-11-01T20:00:00Z",
     "dates": {
       "practice1": "2026-10-30T18:30:00.000Z",
